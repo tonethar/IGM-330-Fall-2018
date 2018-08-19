@@ -1,6 +1,9 @@
 # IGME-330 - Fall 2018: Topics & Outcomes
 
-## I. Basic JavaScript & Browser DOM (review - most of this is now taught in IGME-230)
+## I. Basic JavaScript & Browser DOM
+This material is review you need to do on your own - most of this is now taught in IGME-230
+- See these [IGME-230 Web App tutorials](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md#section4)
+
 
 ## II. More JavaScript
 - Object Oriented JavaScript: Object literals, Function constructors, `Object.create()`, ES6 class constructors
