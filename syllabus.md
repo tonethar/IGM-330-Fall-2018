@@ -1,9 +1,7 @@
 # IGME-230 Web Site Design & Implementation, Fall 2018: Syllabus
 
 ## Course Catalog Description 
-*This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation.
-
-Individual and group programming projects will be required. 3 Credits*
+*This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
 
 ## Prerequisites
 **IGME-230 or equivalent course**
@@ -16,7 +14,8 @@ Individual and group programming projects will be required. 3 Credits*
 - Office hours: TBA
 - Class Meeting Times:
     - Section 01: online
-    - Section 02: TR 2:00PM-3:15PM 
+    - Section 02: TR 2:00PM-3:15PM in ORN-1375
+    - Section 03: TR 5:00PM-6:15PM in ORN-1375
 
 
 ## Course Materials and Communication
