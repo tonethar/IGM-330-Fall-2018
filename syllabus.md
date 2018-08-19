@@ -1,4 +1,4 @@
-# IGME-230 Web Site Design & Implementation, Fall 2018: Syllabus
+# IGME-330 Rich MEdia Web Application Development I. - Fall 2018: Syllabus
 
 ## Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
@@ -19,13 +19,20 @@
 
 
 ## Course Materials and Communication
-There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
-We will be assigning a number of tutorials from the [Lynda.com](http://lynda.com) website, which you can access for free using your RIT login. 
+- much of the course content will be located on this GitHub site
+- mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
+- keep an eye on the dropboxes in mycourses 
 
-Most course materials and example code will be distributed via Github, and you will also be learning how to use Git and Github to manage your own exercise and project files.
+### Course Textbook
+**Title:** *Safari HTML5 Canvas Guide*
+**Publisher:** Apple Inc.
+Free on web! See mycourses for the example files.
+- HTML Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/Introduction/Introduction.html
+- PDF Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/HTML-canvas-guide.pdf
 
-MyCourses will also be used for announcements, certain assignment submissions, and grading.
+
+
 
 ## Attendance
 Attendance is mandatory and you are expected to be on time. Lectures will start promptly at the beginning of class, and will be followed by an in-class assignment or exercise that you are expected to work on until the end of the meeting (i.e. no leaving early).
