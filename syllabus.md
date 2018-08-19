@@ -9,7 +9,7 @@
 ## III. Instructor and Meeting Details
 - Professor: Tony Jefferson  
 - Teaching Assistant: Megan Smith
-- Office: 
+- Office: GOL-2139 (IGM Main Office)
 - Email: tony@mail.rit.edu
 - Office hours: TBA
 - Class Meeting Times:
