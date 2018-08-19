@@ -27,8 +27,9 @@
 ### Course Textbook
 **Title:** *Safari HTML5 Canvas Guide*
 **Publisher:** Apple Inc.
-Free on web! See mycourses for the example files.
+Free on web! 
 - HTML Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/Introduction/Introduction.html
+- See mycourses for the example files
 
 
 ## IV. Attendance
