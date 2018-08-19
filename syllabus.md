@@ -21,8 +21,8 @@
 ## III. Course Materials and Communication
 
 - much of the course content will be located on this GitHub site
-- mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
-- keep an eye on the dropboxes in mycourses 
+- https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
+- keep an eye on the dropboxes in mycourses for assignment due dates
 
 ### Course Textbook
 **Title:** *Safari HTML5 Canvas Guide*
@@ -46,10 +46,9 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (50%)
-* Project 1 (10%) - [Game Proposal Site](projects/project-1.md)
-* Project 2 (10%) - [Web Service Application](projects/project-2.md)
-* Project 3 (10%) - [Web Portfolio](projects/project-3.md)
-* Project 3 (20%) - [Interactive Game or Experience](projects/project-4.md)
+* Project 1 (10%) - [Audio Visualizer](projects/project-1.md)
+* Project 2 (10%) - [Interactive Game or Experience](projects/project-2.md)
+* Project 3 (10%) - [MVVM Web Application](projects/project-3.md)
 
 
 ### Exams (30%)
