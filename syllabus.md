@@ -1,12 +1,12 @@
 # IGME-330 Rich Media Web Application Development I. - Fall 2018: Syllabus
 
-## Course Catalog Description 
+## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
 
-## Prerequisites
+## II. Prerequisites
 **IGME-230 or equivalent course**
 
-## Instructor and Class Details
+## III. Instructor and Meeting Details
 - Professor: Tony Jefferson  
 - Teaching Assistant: Megan Smith
 - Office: 
@@ -18,7 +18,7 @@
     - Section 03: TR 5:00PM-6:15PM in ORN-1375
 
 
-## Course Materials and Communication
+## III. Course Materials and Communication
 
 - much of the course content will be located on this GitHub site
 - mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
@@ -34,10 +34,10 @@ Free on web! See mycourses for the example files.
 
 
 
-## Attendance
+## IV. Attendance
 Attendance is mandatory and you are expected to be on time. Lectures will start promptly at the beginning of class, and will be followed by an in-class assignment or exercise that you are expected to work on until the end of the meeting (i.e. no leaving early).
 
-## Grading
+## V. Grading
 Final course grades are determined using the following scale: 
 
 | Class Average | Grade |
@@ -77,15 +77,15 @@ Incomplete grades will be given only in the most exceptional circumstances, sole
 The course policy on academic dishonesty is simple: If you get caught cheating or plagiarizing, you get an "F" as a grade for the course, a letter detailing the incident goes into your records folder, and you are immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.) Please review RIT's policy on academic dishonesty: 
 [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html)
 
-## Important RIT Deadlines
+## VI. Important RIT Deadlines
 - Last day of add/drop is Tuesday September 4th, 2018.
 - Last day to withdraw with a grade of "W" is Friday November 9th, 2018.
 - You have one semester after the class has ended to challenge your grade. 
 
-## Notices of Accommodation
+## VII. Notices of Accommodation
 If you have a "Notice of Accommodation", your professor should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met.
 
-## Discrimination and Harassment
+## VIII. Discrimination and Harassment
 RIT is committed to providing a safe learning environment, free of harassment and discrimination as articulated in our university policies located on our governance website.  RIT’s policies require faculty to share information about incidents of gender based discrimination and harassment with RIT’s Title IX coordinator or deputy coordinators, regardless whether the incidents are stated to them in person or shared by students as part of their coursework. 
 
 If you have a concern related to gender-based discrimination and/or harassment and prefer to have a confidential discussion, assistance is available from one of RIT’s confidential resources on campus (listed below).
@@ -103,5 +103,5 @@ If you have a concern related to gender-based discrimination and/or harassment a
 6.	NTID Counseling & Academic Advising Services – 2nd Floor Lynden B. Johnson
 585-475-6468 (v), 585-286-4070 (vp)
 
-## Finally...
+## IX. Finally...
 Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be visible here on GitHub, and will be announced in class. 
