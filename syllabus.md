@@ -29,9 +29,6 @@
 **Publisher:** Apple Inc.
 Free on web! See mycourses for the example files.
 - HTML Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/Introduction/Introduction.html
-- PDF Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/HTML-canvas-guide.pdf
-
-
 
 
 ## IV. Attendance
