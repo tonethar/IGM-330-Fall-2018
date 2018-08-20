@@ -74,4 +74,4 @@ switch(currentLevel){
 
 **[Previous Chapter <- Cage Clicker Part I](HW-cage-clicker-1.md)**
 
-**[Next Chapter -> Cage Clicker Part III](HW-cage-clicker-3.md)**
+**Next Chapter -> Cage Clicker Part III**
