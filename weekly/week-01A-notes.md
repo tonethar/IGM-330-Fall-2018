@@ -8,7 +8,7 @@ Welcome to IGME-330 Rich Media Web Application Development I. In this course you
 
 ## II. Prerequisites
 IGME-230 is a pre-requisite, and you should have a solid understanding of these topics:
-- HTML/CSS, and be able to post web files to `people.rit.edu`
+- HTML/CSS, and be able to post web files to `people.rit.edu` - if you forgotten how, [here are the instructions](https://github.com/tonethar/IGME-230-Master/blob/master/notes/posting-to-banjo.md)
 - Basic JavaScript and the Web Browser DOM (Document Object Model)
 
 ### \*\*Important - Before class begins\*\*
