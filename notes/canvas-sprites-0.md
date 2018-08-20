@@ -7,7 +7,7 @@ Parts IV & V will look at ways of making our JS code loosely coupled and modular
 Part VI will look at how to *transpile* our JavaScript code from ES6 to ES5, which is more widely supported by older browsers.
 
 ## II. Prerequisite Knowledge
-- It assumed that you understand the foundational JavaScript concepts covered here: [About this Web App Tutorial Series](./web-apps-0.md)
+- It assumed that you understand the foundational JavaScript concepts covered here: [About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md#section4)
 - You also should be familiar with basic [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) operations such as:
    - obtaining a 2D drawing context
    - *drawing state* variables such as `fillStyle`, `lineStyle`, `globalAlpha`
@@ -66,8 +66,8 @@ Part VI will look at how to *transpile* our JavaScript code from ES6 to ES5, whi
 
 ## VI. Homework Assignments
 See mycourses dropboxes for due dates.
-- [IGME-330 Project 1 - Audio Visualizer](http://igm.rit.edu/~acjvks/courses/2018-spring/330/html/project-1/)
-- [Cage Clicker HW](https://github.com/tonethar/IGME-330-GDD-2018-Spring/blob/master/notes/HW-cage-clicker-1.md)
-- [IGME-330 Project 2 - Game or Interactive Experience](http://igm.rit.edu/~acjvks/courses/2018-spring/330/assignments.html)
+- IGME-330 Project 1 - Audio Visualizer
+- [Cage Clicker HW](./HW-cage-clicker-1.md)
+- IGME-330 Project 2 - Game or Interactive Experience
 
 
