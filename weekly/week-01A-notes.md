@@ -57,7 +57,7 @@ Official description from SIS: *This course provides students the opportunity to
     - after they are declared, variables can contain any type
     - JS uses *dynamic typing* to verify the type safety of a program at runtime, as opposed to compile time (static) typing
   - Multi-Paradigm:
-    - *imperative* (as opposed to declarative like CSS or SQL)
+    - *imperative* - a series of commands that describe how the program behaves (as opposed to *declarative* languages such as CSS or SQL)
     - *functional* - use functions to compose a program, avoid globals & mutable state
     - *event-driven* - program flow is driven by user and system events
     - *object-based* - an object literal, many built-in objects to use, and both prototypical and classical inheritance when the developer creates their own objects
