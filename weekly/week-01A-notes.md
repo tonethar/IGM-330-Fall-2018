@@ -45,6 +45,10 @@ You can read about the [course topics](../topics.md) here.
 * Check the *Content* section of mycourses.rit.edu for this week's Powerpoint Lectures
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
+## VII. Presentation
+
+- [Course Overview](presentations/Course_overview.pdf)
+
 ## VII. Today's topic - JavaScript Review
 
 - What is JavaScript?
