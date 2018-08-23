@@ -42,6 +42,8 @@ You can read about the [course topics](../topics.md) here.
 ## VI. Required Reading
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
+* Check the *Content* section of mycourses.rit.edu for this week's Powerpoint Lectures
+* Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
 ## VII. Today's topic - JavaScript Review
 
