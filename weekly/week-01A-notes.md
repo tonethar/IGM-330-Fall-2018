@@ -18,8 +18,6 @@ IGME-230 is a pre-requisite, and you should have a solid understanding of these 
 ## III. Course Description & Topics
 Official description from SIS: *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs).  This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications.  Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation.*
 
-You can read about the [course topics](../topics.md) here.
-
 
 ## IV. Pedagogy (how this course is taught!)
 - ***You need to review the week's lecture notes *prior* to attending class for that week***
@@ -42,6 +40,7 @@ You can read about the [course topics](../topics.md) here.
 ## VI. Required Reading
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
+* [course topics](../topics.md)
 * Check the *Content* section of mycourses.rit.edu for this week's Powerpoint Lectures
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
