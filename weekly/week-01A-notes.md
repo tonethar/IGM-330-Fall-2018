@@ -47,7 +47,63 @@ You can read about the [course topics](../topics.md) here.
 
 ## VII. Today's topic - JavaScript Review
 
-
+- What is JavaScript?
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  - Used on both the client-side and server-side to create interactive web applications
+  - Weakly typed:
+    - after they are declared, variables can contain any type
+    - JS uses *dynamic typing* to verify the type safety of a program at runtime, as opposed to compile time (static) typing
+  - Multi-Paradigm
+    - *imperative* (as opposed to declarative like CSS or SQL)
+    - *functional* - use functions to compose a program, avoid globals & mutable state
+    - *event-driven* - program flow is driven by user and system events
+    - *object-based* - an object literal, many built-in objects to use, and both prototypical and classical inheritance when the developer creates their own objects
+    - *duck typed* - an object's suitability to be used for particular purpose is determined by the presence of certain methods and properties, rather than the type of the object itself
+- Setting up the development environment - easy!
+  - A text editor
+  - Chrome
+- Create a web page:
+  - run JavaScript in the console
+  - the console is a REPL - “Read, Evaluate, Print, Loop”
+  - shift-enter for multi-line code
+  - up arrow to repeat last typed line
+- JavaScript Review
+  - declaring variables with var, let, and const
+  - operators
+  - common types
+  - Boolean, Number, String, Symbol (new for ES6), Null, Undefined, and Object
+  - Functions are also Objects and thus “first class” values, and can be both passed to functions and returned from them
+  - console.log()
+  - Standard built-in objects - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+    - Date
+    - Math
+    - Array
+  - Putting JavaScript in a <script> tag
+    - “use strict” (strict mode) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+  - Functions
+    - writing functions
+    - calling functions
+    - Some DOM Elements (DOM = Document Object Model)
+      - https://en.wikipedia.org/wiki/Document_Object_Model
+      - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+    - &lt;button>
+    - &lt;input>
+    - &lt;<p>
+    - Manipulating the properties of DOM elements:
+      - document.querySelector()
+      - document.querySelectorAll()
+    - Challenge:
+      - Declaratively (using CSS) make the button 50 pixels tall by 100 pixels wide
+      - Imperatively (using JavaScript) give the paragraph a red text color, and a yellow background color
+    - Events:
+      - DOM elements have to load before we can manipulate their properties
+      - event handlers 
+      - addEventListener()
+- JavaScript Debugger
+  - setting breakpoints
+  - inspecting variable values 
+  - viewing the call stack
+  - "View Page Source" v. the Debugger's "Inspect Elements" view
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
