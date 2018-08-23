@@ -56,7 +56,7 @@ Official description from SIS: *This course provides students the opportunity to
   - Weakly typed:
     - after they are declared, variables can contain any type
     - JS uses *dynamic typing* to verify the type safety of a program at runtime, as opposed to compile time (static) typing
-  - Multi-Paradigm
+  - Multi-Paradigm:
     - *imperative* (as opposed to declarative like CSS or SQL)
     - *functional* - use functions to compose a program, avoid globals & mutable state
     - *event-driven* - program flow is driven by user and system events
@@ -101,7 +101,7 @@ Official description from SIS: *This course provides students the opportunity to
       - DOM elements have to load before we can manipulate their properties
       - event handlers 
       - addEventListener()
-- JavaScript Debugger
+- IV. JavaScript Debugger:
   - setting breakpoints
   - inspecting variable values 
   - viewing the call stack
