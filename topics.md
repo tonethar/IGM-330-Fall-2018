@@ -4,9 +4,8 @@
 This material is review you need to do on your own - most of this is now taught in IGME-230
 - See these [IGME-230 Web App tutorials](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md#section4)
 
-
 ## II. More JavaScript
-- Object Oriented JavaScript: Object literals, Function constructors, `Object.create()`, ES6 class constructors
+- Object-Oriented JavaScript: Object literals, Function constructors, `Object.create()`, ES6 class constructors
 - Modular JavaScript: ES5 Module Pattern, ES6 Modules
 - Transpiling between ES5 & ES6 using Node.js & Webpack
 - JavaScript closures
@@ -29,7 +28,7 @@ This material is review you need to do on your own - most of this is now taught 
 - convolutions
 
 ## V. MVVM (Model View View-Model) Frameworks
-- Vue
+- Vue.js framework (similar to React and Angular, but easier to get started with)
 
 ## VI. Storing Data in the cloud
 - Firebase
