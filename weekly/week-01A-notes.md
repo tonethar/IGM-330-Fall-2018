@@ -46,11 +46,11 @@ Official description from SIS: *This course provides students the opportunity to
 
 ## VII. Presentation
 
-- [Course Overview](presentations/Course_overview.pdf)
+- [Course Overview (PDF)](presentations/Course_overview.pdf)
 
-## VII. Today's topic - JavaScript Review
+## VIII. Today's topic - JavaScript Review
 
-- What is JavaScript?
+- I. What is JavaScript?
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
   - Used on both the client-side and server-side to create interactive web applications
   - Weakly typed:
@@ -62,15 +62,14 @@ Official description from SIS: *This course provides students the opportunity to
     - *event-driven* - program flow is driven by user and system events
     - *object-based* - an object literal, many built-in objects to use, and both prototypical and classical inheritance when the developer creates their own objects
     - *duck typed* - an object's suitability to be used for particular purpose is determined by the presence of certain methods and properties, rather than the type of the object itself
-- Setting up the development environment - easy!
+- II. Setting up the development environment - easy!
   - A text editor
   - Chrome
-- Create a web page:
-  - run JavaScript in the console
-  - the console is a REPL - “Read, Evaluate, Print, Loop”
-  - shift-enter for multi-line code
-  - up arrow to repeat last typed line
-- JavaScript Review
+  - create a web page, then run JavaScript in the console or type code into the &lt;script> tag
+  - the console is an interactive **REPL** - "Read, Evaluate, Print, Loop"
+    - shift-enter for multi-line code
+    - up arrow to repeat last typed line
+- III. JavaScript Review
   - declaring variables with var, let, and const
   - operators
   - common types
@@ -82,7 +81,7 @@ Official description from SIS: *This course provides students the opportunity to
     - Math
     - Array
   - Putting JavaScript in a <script> tag
-    - “use strict” (strict mode) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+    - "use strict" (strict mode) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
   - Functions
     - writing functions
     - calling functions
