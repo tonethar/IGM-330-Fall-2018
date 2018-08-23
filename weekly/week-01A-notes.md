@@ -18,4 +18,4 @@ IGME-230 is a pre-requisite, and you should have a solid understanding of these 
 ## III. What this course is about
 Official description from SIS: *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs).  This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications.  Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation.*
 
-YOu can read about the [course topics](../tompics.md) here.
+You can read about the [course topics](../topics.md) here.
