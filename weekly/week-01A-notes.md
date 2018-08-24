@@ -70,7 +70,7 @@ Official description from SIS: *This course provides students the opportunity to
   - the console is an interactive **REPL** - "Read, Evaluate, Print, Loop"
     - shift-enter for multi-line code
     - up arrow to repeat last typed line
-- III. JavaScript Review
+- III. JavaScript Review & Demo
   - declaring variables with var, let, and const
   - operators
   - common types
