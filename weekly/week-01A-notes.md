@@ -47,7 +47,7 @@ Official description from SIS: *This course provides students the opportunity to
 
 ## VII. Presentation
 
-- [Course Overview (PDF)](presentations/Course_overview.pdf)
+- [Course Overview (PDF)](presentations/Course-overview.pdf)
 
 ## VIII. Today's topic - JavaScript Review
 
