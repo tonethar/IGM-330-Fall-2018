@@ -98,7 +98,7 @@ Official description from SIS: *This course provides students the opportunity to
       - Imperatively (using JavaScript) give the paragraph a red text color, and a yellow background color
     - Events:
       - DOM elements have to load before we can manipulate their properties
-      - event handlers 
+      - event handlers - the `onclick` attribute
       - `element.addEventListener()`
 - IV. JavaScript Debugger:
   - setting breakpoints
