@@ -41,12 +41,12 @@ Official description from SIS: *This course provides students the opportunity to
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
 * course topics -> [topics.md](../topics.md)
+* "Hello Canvas" HW -> [HW-hello-canvas.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md)
 * Study Guide-1 -> [HW-SG-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md)
 * Check the *Content* section of mycourses.rit.edu for "done" demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
 ## VII. Presentation
-
 - [Course Overview (PDF)](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Course-Overview.pdf)
 
 ## VIII. Today's topic - JavaScript Review
