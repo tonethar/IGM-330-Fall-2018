@@ -16,7 +16,10 @@
     - Section 01: online
     - Section 02: TR 2:00PM-3:15PM in ORN-1375
     - Section 03: TR 5:00PM-6:15PM in ORN-1375
-
+- Final Exam Week Meeting (where we meet to demo our final projects):
+    - Section 01: Wed. 12/12/2018 from 1:30PM - 4:00PM in GOL-2570 
+    - Section 02: Thurs. 12/13/2018 from 8:00PM - 10:30PM in ORN-1375
+    - Section 03: Fri. 12/14/2018 from 1:30PM - 4:00PM in ORN-1375
 
 ## III. Course Materials and Communication
 
