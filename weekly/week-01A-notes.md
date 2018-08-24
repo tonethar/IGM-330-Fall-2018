@@ -47,7 +47,7 @@ Official description from SIS: *This course provides students the opportunity to
 
 ## VII. Presentation
 
-- [Course Overview (PDF)](../presentations/Course-overview.pdf)
+- [Course Overview (PDF)](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Course-Overview.pdf)
 
 ## VIII. Today's topic - JavaScript Review
 
