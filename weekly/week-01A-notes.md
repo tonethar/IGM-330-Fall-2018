@@ -37,11 +37,12 @@ Official description from SIS: *This course provides students the opportunity to
 
 ## V. Some Examples
 
-## VI. Required Reading
+## VI. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
-* [course topics](../topics.md)
-* Check the *Content* section of mycourses.rit.edu for this week's Powerpoint Lectures
+* course topics -> [topics.md](../topics.md)
+* Study Guide-1 -> [HW-SG-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md)
+* Check the *Content* section of mycourses.rit.edu for "done" demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
 ## VII. Presentation
