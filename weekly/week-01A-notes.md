@@ -88,9 +88,7 @@ Official description from SIS: *This course provides students the opportunity to
     - Some DOM Elements (DOM = Document Object Model)
       - https://en.wikipedia.org/wiki/Document_Object_Model
       - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-    - &lt;button>
-    - &lt;input>
-    - &lt;<p>
+    - Add &lt;button>, &lt;input>, and &lt;p>
     - Manipulating the properties of DOM elements:
       - document.querySelector()
       - document.querySelectorAll()
