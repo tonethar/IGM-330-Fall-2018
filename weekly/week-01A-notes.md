@@ -40,7 +40,7 @@ Official description from SIS: *This course provides students the opportunity to
 ## VI. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
-* course topics -> [topics.md](../topics.md)
+* Course topics -> [topics.md](../topics.md)
 * "Hello Canvas" HW -> [HW-hello-canvas.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md)
 * Study Guide-1 -> [HW-SG-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md)
 * Check the *Content* section of mycourses.rit.edu for "done" demo files
@@ -74,15 +74,15 @@ Official description from SIS: *This course provides students the opportunity to
   - declaring variables with var, let, and const
   - operators
   - common types
-  - Boolean, Number, String, Symbol (new for ES6), Null, Undefined, and Object
+  - `Boolean`, `Number`, `String`, `Symbol` (new for ES6), `Null`, `Undefined`, and `Object`
   - Functions are also Objects and thus “first class” values, and can be both passed to functions and returned from them
-  - console.log()
+  - `console.log()`
   - Standard built-in objects - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-    - Date
-    - Math
-    - Array
+    - `Date`
+    - `Math`
+    - `Array`
   - Putting JavaScript in a <script> tag
-    - "use strict" (strict mode) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+    - `"use strict";` (strict mode) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
   - Functions
     - writing functions
     - calling functions
@@ -91,15 +91,15 @@ Official description from SIS: *This course provides students the opportunity to
       - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
     - Add &lt;button>, &lt;input>, and &lt;p>
     - Manipulating the properties of DOM elements:
-      - document.querySelector()
-      - document.querySelectorAll()
+      - `document.querySelector()`
+      - `document.querySelectorAll()`
     - Challenge:
       - Declaratively (using CSS) make the button 50 pixels tall by 100 pixels wide
       - Imperatively (using JavaScript) give the paragraph a red text color, and a yellow background color
     - Events:
       - DOM elements have to load before we can manipulate their properties
       - event handlers 
-      - addEventListener()
+      - `element.addEventListener()`
 - IV. JavaScript Debugger:
   - setting breakpoints
   - inspecting variable values 
