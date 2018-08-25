@@ -1,9 +1,14 @@
 # Week 2A - XXX
 
 ## I. Overview
+This week we will: 
+- look at how Canvas *tranformations* (translating, rotating, scaling) work
+- review how to work with DOM elements like buttons, and how to hook them up to canvas coe when an event occurs
 
 ## II. Required Reading & Assignments
-**Study Guide-2** -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
+* Shape Viewer HW -> [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
+* Try It! HW -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
+* Study Guide-2 -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
 
 ## III. Presentation
 
