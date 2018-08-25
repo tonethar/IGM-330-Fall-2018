@@ -15,4 +15,4 @@
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-01B-notes.md**](week-01A-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | [**week-02B-notes.md**](week-02B-notes.md)
+| [**week-01B-notes.md**](week-01B-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | [**week-02B-notes.md**](week-02B-notes.md)
