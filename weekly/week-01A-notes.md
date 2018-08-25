@@ -108,4 +108,4 @@ Official description from SIS: *This course provides students the opportunity to
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-|   :-\  |  [**IGME-230 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
+|   :-\  |  [**IGME-330 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
