@@ -68,7 +68,7 @@ Official description from SIS: *This course provides students the opportunity to
     - shift-enter for multi-line code
     - up arrow to repeat last typed line
 - 3. JavaScript Review & Demo
-  - declaring variables with var, let, and const
+  - declaring variables with `var`, `let`, and `const`
   - operators
   - common types
   - `Boolean`, `Number`, `String`, `Symbol` (new for ES6), `Null`, `Undefined`, and `Object`
