@@ -3,7 +3,7 @@
 ## I. Overview
 
 ## II. Required Reading & Assignments
-Study Guide-2 -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
+**Study Guide-2** -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
 
 ## III. Presentation
 
