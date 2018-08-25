@@ -35,9 +35,7 @@ Official description from SIS: *This course provides students the opportunity to
 - The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due.
 - Please get to class on time! Lectures will begin promptly at the start of class.
 
-## V. Some Examples
-
-## VI. Required Reading & Assignments
+## V. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
 * Course topics -> [topics.md](../topics.md)
@@ -45,12 +43,12 @@ Official description from SIS: *This course provides students the opportunity to
 * Check the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
-## VII. Presentation
+## VI. Presentation
 - [Course Overview (PDF)](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Course-Overview.pdf)
 
-## VIII. Today's topic - JavaScript/DOM Review & Demo
+## VII. Today's topic - JavaScript/DOM Review & Demo
 
-- I. What is JavaScript?
+- 1. What is JavaScript?
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
   - Used on both the client-side and server-side to create interactive web applications
   - Weakly typed:
@@ -62,14 +60,14 @@ Official description from SIS: *This course provides students the opportunity to
     - *event-driven* - program flow is driven by user and system events
     - *object-based* - an object literal, many built-in objects to use, and both prototypical and classical inheritance when the developer creates their own objects
     - *duck typed* - an object's suitability to be used for particular purpose is determined by the presence of certain methods and properties, rather than the type of the object itself
-- II. Setting up the development environment - easy!
+- 2. Setting up the development environment - easy!
   - A text editor
   - Chrome
   - create a web page, then run JavaScript in the console or type code into the &lt;script> tag
   - the console is an interactive **REPL** - "Read, Evaluate, Print, Loop"
     - shift-enter for multi-line code
     - up arrow to repeat last typed line
-- III. JavaScript Review & Demo
+- 3. JavaScript Review & Demo
   - declaring variables with var, let, and const
   - operators
   - common types
@@ -99,7 +97,7 @@ Official description from SIS: *This course provides students the opportunity to
       - DOM elements have to load before we can manipulate their properties
       - event handlers - the `onclick` attribute
       - `element.addEventListener()`
-- IV. JavaScript Debugger:
+- 4. JavaScript Debugger:
   - setting breakpoints
   - inspecting variable values 
   - viewing the call stack
