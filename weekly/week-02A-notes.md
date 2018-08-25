@@ -1,4 +1,4 @@
-# Week 2A - XXX
+# Week 2A - Canvas Affine Transformations
 
 ## I. Overview
 This week we will: 
@@ -14,7 +14,7 @@ This week we will:
 
 
 ## IV. Reference
-
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
 
 <hr><hr>
 
