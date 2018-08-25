@@ -43,7 +43,7 @@ Official description from SIS: *This course provides students the opportunity to
 * Course topics -> [topics.md](../topics.md)
 * "Hello Canvas" HW -> [HW-hello-canvas.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md)
 * Study Guide-1 -> [HW-SG-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md)
-* Check the *Content* section of mycourses.rit.edu for "done" demo files
+* Check the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
 ## VII. Presentation
