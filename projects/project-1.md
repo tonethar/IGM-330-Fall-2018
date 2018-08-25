@@ -10,4 +10,5 @@
   - https://people.rit.edu/pfw4498/330/projects/audioViz/wilsonAudioVizProject.html
   - https://people.rit.edu/sbm7101/330/projects/MayerWalker_AudioViz/WalkerMayer_AudioViz.html
   - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
+  - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
   - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
