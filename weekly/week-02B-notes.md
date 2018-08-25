@@ -5,7 +5,7 @@ This week we will:
 - review how to work with DOM elements like buttons, and how to hook them up to canvas code when an event occurs
 
 ## II. Required Reading & Assignments
-* Drawing App Part-1 HW -> [HW-drawing-app-part-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app-part-1.md)
+* Drawing App Part-1 HW -> [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
 
 ## III. Presentation
 
