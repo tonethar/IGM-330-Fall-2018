@@ -41,6 +41,7 @@ Official description from SIS: *This course provides students the opportunity to
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
 * Course topics -> [topics.md](../topics.md)
+* [Project 1 Web Audio Visualizer](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
 * Check the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
