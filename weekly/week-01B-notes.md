@@ -27,7 +27,7 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 - creating paths, and stroking and filling them
 - setting up an animation loop
 
-Here are some handy helper functions we will be using today, they are provided below for your copy and paste pleasure:
+- Here are some handy helper functions we will be using today, they are provided below for your copy and paste pleasure:
 
 ```js
 function getRandomColor(){
@@ -41,7 +41,9 @@ function getRandomInt(min, max) {
   return Math.round(Math.random() * (max - min)) + min;
 }
 ```
-
+- and if we have time, we might re-factor `getRandomColor()` into something a little more "ES6ish" - for example:
+  - replace `getByte()` with an [arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+  - replace the string concatenation in the return statement above with [string template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
