@@ -21,6 +21,12 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
 
+### The canvas specification
+*When in doubt, read the spec!*
+- https://www.w3.org/TR/2dcontext/
+- https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
+
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
