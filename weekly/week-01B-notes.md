@@ -21,13 +21,13 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 - https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
 
 ## V. Today's Topic - *Intro to the Canvas 2D Drawing API*
-- Getting a reference to the 2D drawing context with `canvas.getContext('2d')`
-- setting context "state" attributes like `.fillStyle`, `.strokeStyle`, `.lineWidth` and `.globalAlpha`
-- drawing rectangles, circles and lines
-- creating paths, and stroking and filling them
-- setting up an animation loop
-
-- Here are some handy helper functions we will be using today, they are provided below for your copy and paste pleasure:
+- Concepts covered:
+  - Getting a reference to the 2D drawing context with `canvas.getContext('2d')`
+  - setting context "state" attributes like `.fillStyle`, `.strokeStyle`, `.lineWidth` and `.globalAlpha`
+  - drawing rectangles, circles and lines
+  - creating paths, and stroking and filling them
+  - setting up an animation loop
+- and here are some handy helper functions we will be using today, they are provided below for your copy and paste pleasure:
 
 ```js
 function getRandomColor(){
