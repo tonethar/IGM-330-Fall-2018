@@ -7,18 +7,18 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 * "Hello Canvas" HW -> [HW-hello-canvas.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md)
 * Study Guide-1 -> [HW-SG-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md)
 
-## III. Presentation
-- [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
-- start file for today is here -> [first-canvas.md](_files/first-canvas.md)
-
-## IV. Reference
+## III. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
 
-### IV-A. The canvas specification
+### III-A. The canvas specification
 *When in doubt, read the spec!*
 - https://www.w3.org/TR/2dcontext/
 - https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
+
+## IV. Presentation
+- [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
+- start file for today is here -> [first-canvas.md](_files/first-canvas.md)
 
 ## V. Today's Topic - *Intro to the Canvas 2D Drawing API*
 - Concepts covered:
