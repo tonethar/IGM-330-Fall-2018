@@ -8,7 +8,7 @@
 
 ## III. Presentation
 - [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
-- start file for today is here: [first-canvas.md](_files/first-canvas.md)
+- start file for today is here -> [first-canvas.md](_files/first-canvas.md)
 
 ## IV. Today's Topic - *Intro to the Canvas 2D Drawing API*
 - Getting a reference to the 2D drawing context
