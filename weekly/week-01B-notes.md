@@ -29,7 +29,7 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 
 Here are some handy helper functions we will be using today, they are provided below for your copy and paste pleasure:
 
-```html
+```js
 function getRandomColor(){
   function getByte(){
     return 55 + Math.round(Math.random() * 200);
