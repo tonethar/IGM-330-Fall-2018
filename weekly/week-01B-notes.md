@@ -32,9 +32,9 @@ Here are some handy helper functions we will be using today, they are provided b
 ```html
 function getRandomColor(){
   function getByte(){
-	  return 55 + Math.round(Math.random() * 200);
-	}
-	return "rgba(" + getByte() + "," + getByte() + "," + getByte() + ",.8)";
+    return 55 + Math.round(Math.random() * 200);
+  }
+  return "rgba(" + getByte() + "," + getByte() + "," + getByte() + ",.8)";
 }
 
 function getRandomInt(min, max) {
