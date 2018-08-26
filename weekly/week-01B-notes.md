@@ -11,22 +11,36 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 - [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
 - start file for today is here -> [first-canvas.md](_files/first-canvas.md)
 
-## IV. Today's Topic - *Intro to the Canvas 2D Drawing API*
+## IV. Reference
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+
+### IV-A. The canvas specification
+*When in doubt, read the spec!*
+- https://www.w3.org/TR/2dcontext/
+- https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
+
+## V. Today's Topic - *Intro to the Canvas 2D Drawing API*
 - Getting a reference to the 2D drawing context with `canvas.getContext('2d')`
 - setting context "state" attributes like `.fillStyle`, `.strokeStyle`, `.lineWidth` and `.globalAlpha`
 - drawing rectangles, circles and lines
 - creating paths, and stroking and filling them
 - setting up an animation loop
 
-## V. Reference
-- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
-- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+Here are some handy helper functions we will be using today, they are provided below for your copy and paste pleasure:
 
-### V-A. The canvas specification
-*When in doubt, read the spec!*
-- https://www.w3.org/TR/2dcontext/
-- https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
+```html
+function getRandomColor(){
+  function getByte(){
+	  return 55 + Math.round(Math.random() * 200);
+	}
+	return "rgba(" + getByte() + "," + getByte() + "," + getByte() + ",.8)";
+}
 
+function getRandomInt(min, max) {
+  return Math.round(Math.random() * (max - min)) + min;
+}
+```
 
 <hr><hr>
 
