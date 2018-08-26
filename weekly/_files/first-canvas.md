@@ -1,4 +1,4 @@
-# first-canvas.md
+# first-canvas
 
 Here is a starter file for our canvas exercises.
 
