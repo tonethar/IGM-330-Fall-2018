@@ -10,8 +10,9 @@
 - [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
 
 ## IV. Today's Topic - *Intro to the Canvas 2D Drawing API*
+- start file is here: [first-canvas.html.zip](_files/first-canvas.html.zip)
 
-## IV. Reference
+## V. Reference
 
 
 <hr><hr>
