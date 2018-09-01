@@ -44,7 +44,7 @@ Today we will:
   - Basic drawing of a rectangle:
       - A) Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily `ctx.restore()` them to their original values later
       - B) Set drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
-      - C) Create a path for the rectangle like this:
+      - C) Create a *path* for the rectangle like this:
       
       `ctx.beginPath();`
       
@@ -52,7 +52,7 @@ Today we will:
       
       `ctx.closePath();`
     
-     - D) stroke and/or fill the rectangle like so (note that the order of these two calls **will** have an effect on the appearance of the drawing):
+     - D) So we now have a path, but we can't see it. Now we need to stroke and/or fill the rectangular path like so (note that the order of these two calls **will** have an effect on the appearance of the drawing):
      
      `ctx.stroke();`
      
