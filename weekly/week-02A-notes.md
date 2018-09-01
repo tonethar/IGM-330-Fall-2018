@@ -64,7 +64,7 @@ Today we will:
      
      - E) Optionally, `ctx.restore()` the drawing context state properties to their original values
 
-The final version, which gives us a 100px x 100px yellow rectangle, with a 5 pixel thick red border, looks like this:
+The final version, which gives us a 100px by 100px yellow rectangle, with a 5 pixel thick red border, looks like this:
 
 ```js
 ctx.save();                 // A
@@ -79,7 +79,7 @@ ctx.fill();                 // D
 ctx.restore();              // E
 ```
 
-\***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same**\*
+\***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.**\*
 
  - **How to draw a circle**:
      - abc
@@ -88,7 +88,7 @@ ctx.restore();              // E
      
 2. **Drawing polygons**
 
-3. **Transformations**
+3. **Canvas Transformations**
 
 
 
