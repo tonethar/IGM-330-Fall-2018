@@ -26,7 +26,7 @@ This week we will:
 9. Write a function named `addThem`, that takes 2 arguments named `num1` and `num2`, and returns their sum
   * Now write another function named `addThem2` that works as above, but also gives `num1` and `num2` *default values* of `0`
   * Now write another function named `addThem3` that works the same as `addThem2`, but is instead declared as an ES6 arrow function
-10. Write a function named `doStuff` that causes the second paragraph on an HTML page to have a pink background color, and for its text to be replaced with "Greetings and Felcitations"
+10. Write a function named `doStuff` that causes the second paragraph on an HTML page to have a pink background color, and for that paragraph's contents to be replaced with the text "Greetings and Felcitations"
 11. Suppose we have a variable named `myButton` that references a DOM button, write an *event handler* code that will call function `doStuff` when the button is clicked
 12. Now write *event listener* code that will do the same thing for `myButton`
 
