@@ -76,7 +76,7 @@ ctx.rect(20,20,100,100);    // C
 ctx.closePath();            // C
 ctx.stroke();               // D - draw! i.e. make the path visible
 ctx.fill();                 // D
-ctx.restore();              // E - optionally, restore the previously saved values of drawing state attributes and CTM
+ctx.restore();              // E - optionally, restore the saved values of drawing state attributes and CTM
 ```
 
 \***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.**\*
