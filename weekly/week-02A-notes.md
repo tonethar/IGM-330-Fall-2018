@@ -41,11 +41,12 @@ This week we will:
     1. Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily `ctx.restore()` them to their original values later
     2. Set drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
     3. Create a path for the rectangle like this:
-    ```js
-   ctx.beginPath();
-			ctx.rect(*x*,y,width,height);
-			ctx.closePath();
-    ```
+    
+```js
+ctx.beginPath();
+ctx.rect(*x*,y,width,height);
+ctx.closePath();
+```
     
   
 
