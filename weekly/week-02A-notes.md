@@ -52,13 +52,14 @@ Today we will:
       
       `ctx.closePath();`
     
+    - D) dsasdsad
     
 ```js
 ctx.beginPath();
 ctx.rect(x,y,width,height);
 ctx.closePath();
 ```
-- D) dsasdsad
+
   
 
 ## V. Reference
