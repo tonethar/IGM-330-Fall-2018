@@ -82,7 +82,8 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 \*\* ***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.*** \*\*
 
  - **How to draw a circle**:
-     - abc
+     - virtually identical to drawing a rectangle, just replace `ctx.rect()` with `ctx.arc(x, y, radius, startAngle, endAngle, counterclockwise);`
+     - here's an example: `ctx.arc(100, 100, 25, 0, Math.PI * 2, false); // a circle at 100,100 with a 25-pixel radius`
  - **How to draw a line**:
      - abc
      
