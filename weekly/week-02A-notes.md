@@ -48,10 +48,10 @@ Today we will:
     
 ```js
 ctx.beginPath();
-ctx.rect(*x*,y,width,height);
+ctx.rect(x,y,width,height);
 ctx.closePath();
 ```
-    
+     - D) 
   
 
 ## V. Reference
