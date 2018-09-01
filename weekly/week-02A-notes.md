@@ -35,7 +35,7 @@ Today we will:
 
 ## IV. Presentation
 1. Basic Canvas Review:
-  - **Why canvas? **
+  - **Why canvas?**
       - It's a stateful bitmap drawing API that is available on all modern web browsers - it's good to know how these kind of APIs work - as both iOS & Android have similar APIs for drawing
       
   - **Steps to getting a drawing context object**:
