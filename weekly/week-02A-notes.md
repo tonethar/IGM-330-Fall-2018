@@ -44,7 +44,7 @@ Today we will:
       - `ctx` is a new `CanvasRenderingContext2D` object- this object has properties and methods that are listed here: https://www.w3.org/TR/2dcontext/#conformance-requirements
       
   - **How to draw a rectangle**:
-      - A) Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily restore them to their original values later
+      - A) Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily restore them to their original values later. This also saves the CTM (current transformation matrix), which we will discuss soon
       
       - B) Set drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
       
@@ -62,21 +62,21 @@ Today we will:
      
      `ctx.fill();`
      
-     - E) Optionally, `ctx.restore()` the drawing context state properties to their original values
+     - E) Optionally, `ctx.restore()` the drawing context state properties and CTM to their previous values
 
 The final version, which gives us a 100px by 100px yellow rectangle, with a 5 pixel thick red border, looks like this:
 
 ```js
-ctx.save();                 // A
-ctx.strokeStyle = "red";    // B
+ctx.save();                 // A - optionally, save the drawing state attributes and CTM
+ctx.strokeStyle = "red";    // B - change the values of one or more drawing state attributes
 ctx.fillStyle = "yellow";   // B
 ctx.lineWidth = "10";       // B
-ctx.beginPath();            // C
+ctx.beginPath();            // C - describe a path
 ctx.rect(20,20,100,100);    // C
 ctx.closePath();            // C
-ctx.stroke();               // D
+ctx.stroke();               // D - draw! i.e. make the path visible
 ctx.fill();                 // D
-ctx.restore();              // E
+ctx.restore();              // E - optionally, restore the previously saved values of drawing state attributes and CTM
 ```
 
 \***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.**\*
