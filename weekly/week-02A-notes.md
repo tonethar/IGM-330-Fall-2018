@@ -41,7 +41,7 @@ Today we will:
       - After the page loads, get a reference to a &lt;canvas> element
       - Now get a reference to the drawing *context* like this: `let ctx = canvas.getContext('2d')`
       - `ctx` is a new `CanvasRenderingContext2D` object- this object has properties and methods that are listed here: https://www.w3.org/TR/2dcontext/#conformance-requirements
-  - Basic drawing of a rectangle:
+  - **How to draw a rectangle**:
       - A) Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily `ctx.restore()` them to their original values later
       - B) Set drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
       - C) Create a *path* for the rectangle like this:
@@ -74,6 +74,11 @@ ctx.stroke();               // D
 ctx.fill();                 // D
 ctx.restore();              // E
 ```
+  
+ - **How to draw a circle**:
+     - abc
+ - **How to draw a line**:
+     - abc
   
 **Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same**
 
