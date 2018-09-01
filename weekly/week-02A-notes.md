@@ -24,14 +24,14 @@ Today we will:
     * https://love2dev.com/blog/javascript-strict-mode/
     * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
 1. What is the JS keyword used to declare variables that are *block scoped*?
-7. What is the JS keyword which declares a variable *globally*, or locally to an entire function (i.e. *function scoped*) regardless of the block it is declared in?
-8. Which one of these 2 keywords are we going to use 99.9% of the time in this course when we want to declare a variable?
-9. Write a function named `addThem`, that takes 2 arguments named `num1` and `num2`, and returns their sum
+1. What is the JS keyword which declares a variable *globally*, or locally to an entire function (i.e. *function scoped*) regardless of the block it is declared in?
+1. Which one of these 2 keywords are we going to use 99.9% of the time in this course when we want to declare a variable?
+1. Write a function named `addThem`, that takes 2 arguments named `num1` and `num2`, and returns their sum
     * Now write another function named `addThem2` that works as above, but also gives `num1` and `num2` *default values* of `0`
     * Now write another function named `addThem3` that works the same as `addThem2`, but is instead declared as an ES6 arrow function
-10. Write a function named `doStuff` that causes the second paragraph on an HTML page to have a pink background color, and for that paragraph's contents to be replaced with the text "Greetings and Felcitations"
-11. Suppose we have a variable named `myButton` that references a DOM button. Write a JS *event handler* that will call function `doStuff` when the button is clicked
-12. Now write *event listener* code that will do the same thing for `myButton`
+1. Write a function named `doStuff` that causes the second paragraph on an HTML page to have a pink background color, and for that paragraph's contents to be replaced with the text "Greetings and Felcitations"
+1. Suppose we have a variable named `myButton` that references a DOM button. Write a JS *event handler* that will call function `doStuff` when the button is clicked
+1. Now write *event listener* code that will do the same thing for `myButton`
 
 ## IV. Presentation
 1. Basic Canvas Review:
@@ -41,9 +41,9 @@ Today we will:
     - Now get a reference to the drawing *context* like this: `let ctx = canvas.getContext('2d')`
     - `ctx` is a new `CanvasRenderingContext2D` object- this object has properties and methods that are listed here: https://www.w3.org/TR/2dcontext/#conformance-requirements
   - Basic drawing of a rectangle:
-    1. Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily `ctx.restore()` them to their original values later
-    2. Set drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
-    3. Create a path for the rectangle like this:
+    A. Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily `ctx.restore()` them to their original values later
+    B. Set drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
+    C. Create a path for the rectangle like this:
     
 ```js
 ctx.beginPath();
