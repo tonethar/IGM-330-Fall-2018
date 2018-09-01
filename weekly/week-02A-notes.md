@@ -56,7 +56,7 @@ Today we will:
       
       `ctx.closePath();`
     
-     - D) So we now have a path, but we can't see it. Now we need to stroke and/or fill the rectangular path like so. Note that the order of these two calls **will** have an effect on the appearance of the drawing:
+     - D) So we now have a path, but we can't see it. Now we need to stroke and/or fill the rectangular path like so. *Note that the order of these two calls **will** have an effect on the appearance of the drawing*:
      
      `ctx.stroke();`
      
