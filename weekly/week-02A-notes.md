@@ -10,7 +10,7 @@ This week we will:
 * Try It! HW -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
 * Study Guide-2 -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
 
-### III. Review of last week's JavaScript concepts
+## III. Review of last week's JavaScript concepts
 
 1. When writing JavaScript code in a web browser, what is the essential first step you must take before writing code that accesses HTML elements (i.e DOM elements) that are already on the page?
 2. Which DOM method is used (in this course) to get a reference to a *single* HTML page element?
