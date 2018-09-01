@@ -74,13 +74,19 @@ ctx.stroke();               // D
 ctx.fill();                 // D
 ctx.restore();              // E
 ```
-  
+
+**Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same**
+
  - **How to draw a circle**:
      - abc
  - **How to draw a line**:
      - abc
-  
-**Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same**
+     
+2. **Drawing polygons**
+
+3. **Transformations**
+
+
 
 ## V. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
