@@ -39,8 +39,8 @@ Today we will:
       - It's a stateful bitmap drawing API that is available on all modern web browsers - it's good to know how these kind of APIs work - as both iOS & Android have similar APIs for drawing
       
   - **Steps to getting a drawing context object**:
-      - After the page loads, get a reference to a &lt;canvas> element
-      - Now get a reference to the drawing *context* like this: `let ctx = canvas.getContext('2d')`
+      - After the page loads, get a reference to a &lt;canvas> element: `let canvas = document.querySelector('canvas');`
+      - Now get a reference to the drawing *context* like this: `let ctx = canvas.getContext('2d');`
       - `ctx` is a new `CanvasRenderingContext2D` object- this object has properties and methods that are listed here: https://www.w3.org/TR/2dcontext/#conformance-requirements
       
   - **How to draw a rectangle**:
