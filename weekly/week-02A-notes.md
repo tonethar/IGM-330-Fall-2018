@@ -51,7 +51,7 @@ ctx.beginPath();
 ctx.rect(x,y,width,height);
 ctx.closePath();
 ```
-     - D) dsasdsad
+- D) dsasdsad
   
 
 ## V. Reference
