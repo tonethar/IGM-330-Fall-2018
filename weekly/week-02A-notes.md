@@ -1,9 +1,13 @@
 # Week 2A - Canvas Affine Transformations
 
 ## I. Overview
-This week we will: 
+Today we will: 
+- Review:
+  - last week's homework
+  - JavaScript & DOM concepts from last week
+  - how to set up a canvas drawing context, and how to draw rectangles, circles, and lines
 - look at how Canvas *tranformations* (translating, rotating, scaling) work
-- review how to work with DOM elements like buttons, and how to hook them up to canvas code when an event occurs
+
 
 ## II. Required Reading & Assignments
 * Shape Viewer HW -> [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
@@ -11,7 +15,6 @@ This week we will:
 * Study Guide-2 -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
 
 ## III. Review of last week's JavaScript concepts
-
 1. When writing JavaScript code in a web browser, what is the essential first step you must take before writing code that accesses HTML elements (i.e DOM elements) that are already on the page?
 2. Which DOM method is used (in this course) to get a reference to a *single* HTML page element?
   * What are the possible return values(s) of this method?
