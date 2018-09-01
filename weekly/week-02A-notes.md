@@ -37,7 +37,7 @@ Today we will:
 1. Basic Canvas Review:
   - Why canvas? 
       - It's a stateful bitmap drawing API - it's good to know how they work - both iOS & Android have similar APIs for drawing
-  - Steps to getting a drawing context object
+  - **Steps to getting a drawing context object**:
       - After the page loads, get a reference to a &lt;canvas> element
       - Now get a reference to the drawing *context* like this: `let ctx = canvas.getContext('2d')`
       - `ctx` is a new `CanvasRenderingContext2D` object- this object has properties and methods that are listed here: https://www.w3.org/TR/2dcontext/#conformance-requirements
