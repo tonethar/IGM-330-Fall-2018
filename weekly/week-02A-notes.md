@@ -46,7 +46,7 @@ Today we will:
   - **How to draw a rectangle**:
       - A) Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily restore them to their original values later. This also saves the CTM (current transformation matrix), which we will discuss soon
       
-      - B) Set drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
+      - B) Optionally, set the drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
       
       - C) Create a *path* for the rectangle like this:
       
@@ -68,7 +68,7 @@ The final version, which gives us a 100px by 100px yellow rectangle, with a 5 pi
 
 ```js
 ctx.save();                 // A - optionally, save the drawing state attributes and CTM
-ctx.strokeStyle = "red";    // B - change the values of one or more drawing state attributes
+ctx.strokeStyle = "red";    // B - optionally, change the values of one or more drawing state attributes
 ctx.fillStyle = "yellow";   // B
 ctx.lineWidth = "10";       // B
 ctx.beginPath();            // C - describe a path
