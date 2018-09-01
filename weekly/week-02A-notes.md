@@ -75,7 +75,7 @@ ctx.beginPath();            // C - describe a path
 ctx.rect(20,20,100,100);    // C
 ctx.closePath();            // C
 ctx.stroke();               // D - draw! i.e. make the path visible
-ctx.fill();                 // D
+ctx.fill();                 // D - swap the order of stroke() and fill() to see what happens to the drawing
 ctx.restore();              // E - optionally, restore the saved values of drawing state attributes and CTM
 ```
 
