@@ -33,7 +33,7 @@ Today we will:
 1. Suppose we have a variable named `myButton` that references a DOM button. Write a JS *event handler* that will call function `doStuff` when the button is clicked
 1. Now write *event listener* code that will do the same thing for `myButton`
 
-## IV. Presentation
+## IV. Canvas Presentation
 1. Basic Canvas Review:
   - **Why canvas?**
       - It's a stateful bitmap drawing API that is available on all modern web browsers - it's good to know how these kind of APIs work - as both iOS & Android have similar APIs for drawing
