@@ -16,7 +16,7 @@ This week we will:
 2. Which DOM method is used (in this course) to get a reference to a *single* HTML page element?
   * What are the possible return values(s) of this method?
 3. Which DOM method (used in this course) is able to return references to *multiple* HTML page elements?
-4. What are the names of 2 legacy DOM methods that are considered *deprecated* for this course, and we will not get using in any assignments or projects?
+4. What are the names of 2 legacy DOM methods that are considered *deprecated* for this course, and we will not be using in any assignments or projects?
 5. What does `"use strict"` do? See these articles:
   * https://love2dev.com/blog/javascript-strict-mode/
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
