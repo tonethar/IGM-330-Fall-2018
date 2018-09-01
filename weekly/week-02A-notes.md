@@ -64,7 +64,7 @@ Today we will:
      
      - E) Optionally, `ctx.restore()` the drawing context state properties and CTM to their previous values
 
-The final version, which gives us a 100px by 100px yellow rectangle, with a 5 pixel thick red border, looks like this:
+The final version, which gives us a 100px by 100px yellow rectangle, with a 5 pixel thick (visible) red border, looks like this:
 
 ```js
 ctx.save();                 // A - optionally, save the drawing state attributes and CTM
