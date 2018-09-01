@@ -79,7 +79,7 @@ ctx.fill();                 // D
 ctx.restore();              // E - optionally, restore the saved values of drawing state attributes and CTM
 ```
 
-\* ***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.*** \*
+\*\* ***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.*** \*\*
 
  - **How to draw a circle**:
      - abc
