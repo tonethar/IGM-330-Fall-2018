@@ -52,15 +52,30 @@ Today we will:
       
       `ctx.closePath();`
     
-    - D) dsasdsad
-    
-```js
-ctx.beginPath();
-ctx.rect(x,y,width,height);
-ctx.closePath();
-```
+     - D) stroke and/or fill the rectangle like so (note that the order of these two calls **will** have an effect on the appearance of the drawing):
+     
+     `ctx.stroke();`
+     
+     `ctx.fill();`
+     
+     - E) Optionally, `ctx.restore()` the drawing context state properties to their original values
 
+The final version, which gives us a 100px x 100px yellow rectangle, with a 5 pixel thick red border, looks like this:
+
+```js
+ctx.save();                 // A
+ctx.strokeStyle = "red";    // B
+ctx.fillStyle = "yellow";   // B
+ctx.lineWidth = "10";       // B
+ctx.beginPath();            // C
+ctx.rect(20,20,100,100);    // C
+ctx.closePath();            // C
+ctx.stroke();               // D
+ctx.fill();                 // D
+ctx.restore();              // E
+```
   
+**Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same**
 
 ## V. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
