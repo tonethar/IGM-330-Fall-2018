@@ -85,8 +85,13 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
      - virtually identical to drawing a rectangle, just replace the path code - `ctx.rect()` - with `ctx.arc(x, y, radius, startAngle, endAngle, counterclockwise);`
      - here's an example: `ctx.arc(100, 100, 25, 0, Math.PI * 2, false); // draws a circle at 100,100 with a 25-pixel radius`
  - **How to draw a line**:
-     - abc
+     -  just replace the path code - `ctx.rect()` - with:
      
+```js
+ctx.moveTo(20,100);
+ctx.lineTo(620,100);
+``` 
+
 2. **Drawing polygons**
 
 3. **Canvas Transformations**
