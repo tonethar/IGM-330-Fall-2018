@@ -64,7 +64,7 @@ Today we will:
      
      - E) Optionally, `ctx.restore()` the drawing context state properties and CTM to their previous values
 
-The final version, which gives us a 100px by 100px yellow rectangle, with a 5 pixel thick (visible) red border, looks like this:
+The final version, which gives us a 200px by 200px yellow rectangle, with a 5 pixel thick (visible) red border, looks like this:
 
 ```js
 ctx.save();                 // A - optionally, save the drawing state attributes and CTM
@@ -72,7 +72,7 @@ ctx.strokeStyle = "red";    // B - optionally, change the values of one or more 
 ctx.fillStyle = "yellow";   // B
 ctx.lineWidth = "10";       // B
 ctx.beginPath();            // C - describe a path
-ctx.rect(20,20,100,100);    // C
+ctx.rect(20,20,200,200);    // C
 ctx.closePath();            // C
 ctx.stroke();               // D - draw! i.e. make the path visible
 ctx.fill();                 // D - swap the order of stroke() and fill() to see what happens to the drawing
