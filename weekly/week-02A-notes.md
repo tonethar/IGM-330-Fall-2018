@@ -43,6 +43,7 @@ Today we will:
       - Now get a reference to the drawing *context* like this: `let ctx = canvas.getContext('2d');`
       - `ctx` is a new `CanvasRenderingContext2D` object- this object has properties and methods that are listed here: https://www.w3.org/TR/2dcontext/#conformance-requirements
       - we could also turn the above 2 statements into a "one-liner" like this:
+      
       `let ctx = document.querySelector('canvas').getContext('2d');`
       
   - **How to draw a rectangle**:
