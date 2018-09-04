@@ -6,7 +6,9 @@ Today we will:
 - look at how Canvas *tranformations* (translating, rotating, scaling) work
 
 ## II. Required Reading & Assignments
+* Try It! HW -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
 * Drawing App HW -> [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
+
 
 ## III. Presentation
 
