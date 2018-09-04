@@ -17,6 +17,9 @@ Today we will:
 * Start file for today's demo is here -> [canvas-start.md](_files/canvas-start.md)
 
 ## III. Review of last week's JavaScript concepts
+
+**You should be able to answer these questions!**
+
 1. When writing JavaScript code in a web browser, what is the essential first step you must take before writing code that accesses HTML elements (i.e DOM elements) that are already on the page?
 1. Which DOM method is used (in this course) to get a reference to a *single* HTML page element?
     * What are the possible return values(s) of this method?
