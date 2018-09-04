@@ -84,7 +84,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 
 ![square image](./_images/square.jpg)
 
-\*\* ***But flipping the order of the stroke and fill calls, in this case calling `ctx.stroke()` AFTER `ctx.fill()`, WILL change how the drawing looks. Below we can now see the entire 10-pixels of the stroke:*** \*\*
+\*\* ***By flipping the order of the stroke and fill calls, in this case calling `ctx.stroke()` AFTER `ctx.fill()`, we can change how the drawing looks. Below we can now see the entire 10-pixels of the stroke:*** \*\*
 
 ![square image](./_images/square-2.jpg)
 
