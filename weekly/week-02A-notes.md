@@ -112,7 +112,9 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        ctx.lineTo(620,100); // draw line to x=620, y=100
        ctx.closePath(); 
        ``` 
-       
+   
+![line image](./_images/line.jpg)
+    
   - **How to draw a polygon**:
      - continue adding lines to our path:
      
