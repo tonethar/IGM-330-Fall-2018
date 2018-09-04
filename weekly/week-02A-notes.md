@@ -184,7 +184,7 @@ ctx.fill();
     - these are some nice reference and interactives about `ctx.arcTo()` here:
       - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arcTo
       - https://www.rgraph.net/blog/an-interactive-example-of-the-html5-canvas-arcto-function.html
-    - in SG-2, you will see how to draw bezier curves using `ctx. quadraticCurveTo()` and `ctx.bezierCurveTo()`
+    - in SG-2, you will see how to draw [bezier](https://en.wikipedia.org/wiki/Bézier_curve) curves using `ctx. quadraticCurveTo()` and `ctx.bezierCurveTo()`
       
 ## V. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
