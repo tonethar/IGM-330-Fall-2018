@@ -97,6 +97,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        
  - **How to draw a line**:
      - just replace the path code - `ctx.rect()` - with:
+     
        ```js
        ctx.moveTo(20,100);  // start the "pen" at x=20, y=100 
        ctx.lineTo(620,100); // draw line to x=620, y=100
