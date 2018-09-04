@@ -102,6 +102,16 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        ctx.moveTo(20,100);  // start the "pen" at x=20, y=100 
        ctx.lineTo(620,100); // draw line to x=620, y=100
        ``` 
+       
+  - **How to draw a polygon**:
+     - continue adding lines to our path:
+     
+       ```js
+       ctx.moveTo(20,100);  // start the "pen" at x=20, y=100 
+       ctx.lineTo(620,100); // point #1 -> draw line to x=620, y=100
+       ctx.lineTo(340,400);	// point #2 -> draw line to x=340, y=400
+		   ctx.closePath(); 		// the path will automatically close back to point #1
+       ``` 
 
 2. **Drawing polygons**
 
