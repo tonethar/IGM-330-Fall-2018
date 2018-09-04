@@ -80,11 +80,11 @@ ctx.fill();                 // D - swap the order of stroke() and fill() to see 
 ctx.restore();              // E - optionally, restore the saved values of drawing state attributes and CTM
 ```
 
-\*\* ***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.*** \*\*
+\*\* ***Looks good, but note that we can only see 5 pixels of our 10-pixel stroke:*** \*\*
 
 ![square image](./_images/square.jpg)
 
-\*\* ***But flipping the order of the stroke and fill calls, in this case calling `ctx.stroke()` AFTER `ctx.fill()`, WILL change how the drawing looks. Below we can now see the entire 10-pixels of the stroke.*** \*\*
+\*\* ***But flipping the order of the stroke and fill calls, in this case calling `ctx.stroke()` AFTER `ctx.fill()`, WILL change how the drawing looks. Below we can now see the entire 10-pixels of the stroke:*** \*\*
 
 ![square image](./_images/square-2.jpg)
 
