@@ -57,7 +57,7 @@ Today we will:
       ctx.rect(x,y,width,height);
       ctx.closePath();
       ```
-     - D) So we now have a path, but we can't see it. Now we need to stroke and/or fill the rectangular path like so. *Note that the order of these two calls **will** have an effect on the appearance of the drawing*:
+     - D) So we now have a path, but we can't see it. Now we need to stroke and/or fill the rectangular path like so. *Note that the order of these two calls **WILL** have an effect on the appearance of the drawing*:
      ```js
      ctx.stroke();
      ctx.fill();
@@ -82,7 +82,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 
 \*\* ***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.*** \*\*
 
-
+![square image](./_images/square.jpg)
 
  - **How to draw a circle**:
      - virtually identical to drawing a rectangle, just replace the path code - `ctx.rect()` - with:
