@@ -137,15 +137,15 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 
 \*\* ***If we stroke the line BEFORE closing the path, then it won't "auto close". See below:*** \*\*
 
-```js
-ctx.beginPath();      
-ctx.moveTo(20,100);
-ctx.lineTo(620,100); 	// point #1
-ctx.lineTo(340,400);	// point #2
-ctx.stroke();         // stroke the path before closing it
-ctx.closePath(); 
-ctx.fill();
-```
+      ```js
+      ctx.beginPath();      
+      ctx.moveTo(20,100);
+      ctx.lineTo(620,100); 	// point #1
+      ctx.lineTo(340,400);	// point #2
+      ctx.stroke();         // stroke the path before closing it
+      ctx.closePath(); 
+      ctx.fill();
+      ```
 
 ![triangle image](./_images/triangle-2.jpg)
 
