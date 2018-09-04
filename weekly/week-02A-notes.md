@@ -42,7 +42,8 @@ Today we will:
       - After the page loads, get a reference to a &lt;canvas> element: `let canvas = document.querySelector('canvas');`
       - Now get a reference to the drawing *context* like this: `let ctx = canvas.getContext('2d');`
       - `ctx` is a new `CanvasRenderingContext2D` object- this object has properties and methods that are listed here: https://www.w3.org/TR/2dcontext/#conformance-requirements
-      - we could also turn the above 2 statements into a "one-liner" like this:    `let ctx = document.querySelector('canvas').getContext('2d');`
+      - we could also turn the above 2 statements into a "one-liner" like this:
+      `let ctx = document.querySelector('canvas').getContext('2d');`
       
   - **How to draw a rectangle**:
       - A) Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily restore them to their original values later. This also saves the CTM (current transformation matrix), which we will discuss soon
