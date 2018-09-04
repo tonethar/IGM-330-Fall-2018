@@ -82,35 +82,44 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 
 \*\* ***Note that the order of steps B and C above does not matter, and could be flipped, and the drawing would look the same.*** \*\*
 
+
+
  - **How to draw a circle**:
      - virtually identical to drawing a rectangle, just replace the path code - `ctx.rect()` - with:
        
        ```js
+       ctx.beginPath(); 
        ctx.arc(x, y, radius, startAngle, endAngle, counterclockwise);
+       ctx.closePath(); 
        ```
        
      - here's an example:
      
        ```js
-       ctx.arc(100, 100, 25, 0, Math.PI * 2, false); // draws a circle at 100,100 with a 25-pixel radius`\
+       ctx.beginPath(); 
+       ctx.arc(100, 100, 25, 0, Math.PI * 2, false); // draws a circle at 100,100 with a 25-pixel radius
+       ctx.closePath(); 
        ```
        
  - **How to draw a line**:
      - just replace the path code - `ctx.rect()` - with:
      
        ```js
+       ctx.beginPath(); 
        ctx.moveTo(20,100);  // start the "pen" at x=20, y=100 
        ctx.lineTo(620,100); // draw line to x=620, y=100
+       ctx.closePath(); 
        ``` 
        
   - **How to draw a polygon**:
      - continue adding lines to our path:
      
        ```js
-       ctx.moveTo(20,100);  // start the "pen" at x=20, y=100 
-       ctx.lineTo(620,100); // point #1 -> draw line to x=620, y=100
+       ctx.beginPath(); 
+       ctx.moveTo(20,100);  	// start the "pen" at x=20, y=100 
+       ctx.lineTo(620,100); 	// point #1 -> draw line to x=620, y=100
        ctx.lineTo(340,400);	// point #2 -> draw line to x=340, y=400
-		   ctx.closePath(); 		// the path will automatically close back to point #1
+       ctx.closePath(); 	// the path will automatically close back to point #1
        ``` 
 
 2. **Drawing polygons**
