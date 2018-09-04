@@ -14,7 +14,7 @@ Today we will:
 ## II. Required Reading & Assignments
 * Shape Viewer HW -> [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
 * Study Guide-2 -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
-* Start file for today's demo is here -> [first-canvas.md](_files/first-canvas.md)
+* Start file for today's demo is here -> [canvas-start.md](_files/canvas-start.md)
 
 ## III. Review of last week's JavaScript concepts
 1. When writing JavaScript code in a web browser, what is the essential first step you must take before writing code that accesses HTML elements (i.e DOM elements) that are already on the page?
