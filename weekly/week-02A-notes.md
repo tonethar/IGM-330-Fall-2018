@@ -9,7 +9,7 @@ Today we will:
     - circles
     - straight lines
     - polygons
-    - curved lines
+    - curved lines and shapes
 
 ## II. Required Reading & Assignments
 * Shape Viewer HW -> [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
@@ -160,7 +160,6 @@ ctx.fill();
 
 ![triangle image](./_images/triangle-4.jpg)
 
-
   - **#5 - How to draw curvilinear shapes**:
     - To draw curves, we can use `ctx.arcTo(CP-1x, CP-1y, CP-2x, CP-2y, radius) // CP = "Control Point"` to build up a path.
     
@@ -176,7 +175,7 @@ ctx.fill();
     
     ![arc-to image](./_images/arc-to.jpg)
     
-    - these is some nice reference and interactives here:
+    - these are some nice reference and interactives about `ctx.arcTo()` here:
       - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arcTo
       - https://www.rgraph.net/blog/an-interactive-example-of-the-html5-canvas-arcto-function.html
       
