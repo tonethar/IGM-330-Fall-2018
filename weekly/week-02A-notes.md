@@ -161,7 +161,7 @@ ctx.fill();
 ![triangle image](./_images/triangle-4.jpg)
 
 ## V. Reference
-- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
+
 
 <hr><hr>
 
