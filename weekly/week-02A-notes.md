@@ -84,6 +84,10 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 
 ![square image](./_images/square.jpg)
 
+\*\* ***But flipping the order of the stroke and fill calls, in this case calling `ctx.stroke()` AFTER `ctx.fill()`, WILL change how the drawing looks *** \*\*
+
+![square image](./_images/square-2.jpg)
+
  - **How to draw a circle**:
      - virtually identical to drawing a rectangle, just replace the path code - `ctx.rect()` - with:
        
