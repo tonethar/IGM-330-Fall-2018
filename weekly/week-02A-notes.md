@@ -162,6 +162,8 @@ ctx.fill();
 
 \*\* ***If we set the line dash pattern -  `ctx.setLineDash([5, 15]);` - we get a dashed line. See below:*** \*\*
 
+- **The dashes are 5px and spaces are 15px**
+
 ![triangle image](./_images/triangle-4.jpg)
 
   - **#5 - How to draw curvilinear shapes**:
