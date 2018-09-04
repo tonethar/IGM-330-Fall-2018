@@ -98,7 +98,9 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        ```js
        ctx.beginPath(); 
        ctx.arc(200, 200, 125, 0, Math.PI * 2, false); // draws a circle at 200,200 with a 125-pixel radius
-       ctx.closePath(); 
+       ctx.closePath();
+       ctx.stroke();
+       ctx.fill();  
        ```
  
  ![circle image](./_images/circle.jpg)
@@ -110,7 +112,8 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        ctx.beginPath(); 
        ctx.moveTo(20,100);  // start the "pen" at x=20, y=100 
        ctx.lineTo(620,100); // draw line to x=620, y=100
-       ctx.closePath(); 
+       ctx.closePath();
+       ctx.stroke();
        ``` 
    
 ![line image](./_images/line.jpg)
@@ -124,6 +127,8 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        ctx.lineTo(620,100); 	// point #1 -> draw line to x=620, y=100
        ctx.lineTo(340,400);	// point #2 -> draw line to x=340, y=400
        ctx.closePath(); 	// the path will automatically close back to point #1
+       ctx.stroke();
+       ctx.fill(); 
        ``` 
 
 ![triangle image](./_images/triangle.jpg)
