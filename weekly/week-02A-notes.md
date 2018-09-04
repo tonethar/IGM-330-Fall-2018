@@ -122,9 +122,9 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        ctx.closePath(); 	// the path will automatically close back to point #1
        ``` 
 
-2. **Drawing polygons**
+![triangle image](./_images/triangle.jpg)
 
-3. **Canvas Transformations**
+2. **Canvas Transformations**
 
 
 
