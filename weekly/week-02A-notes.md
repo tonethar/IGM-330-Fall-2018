@@ -44,7 +44,7 @@ Today we will:
       
         `let ctx = document.querySelector('canvas').getContext('2d');`
       
-  - **How to draw a rectangle**:
+  - **#1 - How to draw a rectangle**:
       - A) Optionally, `ctx.save()` (i.e. save or "push") the current value of all of the drawing state attributes so that you can easily restore them to their original values later. This also saves the CTM (current transformation matrix), which we will discuss soon
       
       - B) Optionally, set the drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
@@ -86,7 +86,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 
 ![square image](./_images/square-2.jpg)
 
- - **How to draw a circle**:
+ - **#2 - How to draw a circle**:
      - virtually identical to drawing a rectangle, just replace the path code - `ctx.rect()` - with:
        
        ```js
@@ -107,7 +107,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
  
  ![circle image](./_images/circle.jpg)
  
- - **How to draw a line**:
+ - **#3 - How to draw a line**:
      - just replace the path code - `ctx.rect()` - with:
      
        ```js
@@ -120,7 +120,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
    
 ![line image](./_images/line.jpg)
     
-  - **How to draw a polygon**:
+  - **#4 - How to draw a polygon**:
      - continue adding lines to our path:
      
        ```js
@@ -149,9 +149,13 @@ ctx.fill();
 
 ![triangle image](./_images/triangle-2.jpg)
 
+\*\* ***If we set another drawing state attribute -  `ctx.lineJoin = "round";` - we get rounded corners. See below:*** \*\*
 
+![triangle image](./_images/triangle-3.jpg)
 
+\*\* ***If we set the line dash pattern -  `ctx.setLineDash([5, 15]);` - we get a dashed line. See below:*** \*\*
 
+![triangle image](./_images/triangle-4.jpg)
 
 ## V. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
