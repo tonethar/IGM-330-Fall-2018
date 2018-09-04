@@ -49,13 +49,11 @@ Today we will:
       - B) Optionally, set the drawing state attributes (properties) that you wish to have values other than the defaults - for example `ctx.lineWidth`, `ctx.strokeStyle`, `ctx.fillStyle`, `ctx.globalAlpha` - a full list of state properties is here: https://www.w3.org/TR/2dcontext/#the-canvas-state
       
       - C) Create a *path* for the rectangle like this:
-      
-      `ctx.beginPath();`
-      
-      `ctx.rect(x,y,width,height);`
-      
-      `ctx.closePath();`
-    
+      ```js
+      ctx.beginPath();
+      ctx.rect(x,y,width,height);
+      ctx.closePath();
+      ```
      - D) So we now have a path, but we can't see it. Now we need to stroke and/or fill the rectangular path like so. *Note that the order of these two calls **will** have an effect on the appearance of the drawing*:
      
      `ctx.stroke();`
