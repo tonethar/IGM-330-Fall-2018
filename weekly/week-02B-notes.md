@@ -1,8 +1,7 @@
-# Week 2B - Canvas & the Browser DOM
+# Week 2B - Canvas Affine Transformations
 
 ## I. Overview
-This week we will: 
-- review how to work with DOM elements like buttons, and how to hook them up to canvas code when an event occurs
+
 
 ## II. Required Reading & Assignments
 * Drawing App HW -> [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
