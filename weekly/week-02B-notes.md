@@ -4,6 +4,7 @@
 Today we will:
 - review recent HW submissions
 - look at how Canvas *tranformations* (translating, rotating, scaling) work
+- look at the Canvas drawing state "stack", and use cases for `ctx.save()` and `ctx.restore()`
 
 ## II. Required Reading & Assignments
 * Try It! HW -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
@@ -14,6 +15,7 @@ Today we will:
 
 
 ## IV. Reference
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
 
 
 <hr><hr>
