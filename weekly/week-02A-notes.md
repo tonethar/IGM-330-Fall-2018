@@ -162,23 +162,24 @@ ctx.fill();
 
 
   - **#5 - How to draw curvilinear shapes**:
-    - `ctx.arcTo(CP-1x, CP-1y, CP-2x, CP-2y, radius) // CP = "Control Point"`
-    - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arcTo
-    - https://www.rgraph.net/blog/an-interactive-example-of-the-html5-canvas-arcto-function.html
+    - To draw curves, we can use `ctx.arcTo(CP-1x, CP-1y, CP-2x, CP-2y, radius) // CP = "Control Point"` to build up a path.
     
     ```js
     ctx.beginPath();
-    ctx.moveTo(50, 100);             		// P0
+    ctx.moveTo(50, 100);             	// P0
     ctx.arcTo(300, 425, 550, 100, 80); 	// P1, P2 and the radius
     ctx.lineTo(550, 100);               // top line: line segment between P0 & P2     
     ctx.closePath();
-		ctx.stroke();               
-		ctx.fill();             
+    ctx.stroke();               
+    ctx.fill();             
     ```
     
     ![arc-to image](./_images/arc-to.jpg)
     
-
+    - these is some nice reference and interactives here:
+      - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arcTo
+      - https://www.rgraph.net/blog/an-interactive-example-of-the-html5-canvas-arcto-function.html
+      
 ## V. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setLineDash
