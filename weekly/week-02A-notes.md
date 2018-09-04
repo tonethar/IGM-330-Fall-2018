@@ -100,7 +100,9 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
        ctx.arc(200, 200, 125, 0, Math.PI * 2, false); // draws a circle at 200,200 with a 125-pixel radius
        ctx.closePath(); 
        ```
-       
+ 
+ ![circle image](./_images/circle.jpg)
+ 
  - **How to draw a line**:
      - just replace the path code - `ctx.rect()` - with:
      
