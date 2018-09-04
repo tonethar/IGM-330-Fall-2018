@@ -1,12 +1,15 @@
-# Week 2A - Canvas Affine Transformations
+# Week 2A - JS Review and more Canvas
 
 ## I. Overview
 Today we will: 
 - Review:
   - JavaScript & DOM concepts from last week
-  - how to set up a canvas drawing context, and how to draw rectangles, circles, and lines
-
-
+  - how to set up a canvas drawing context, and how to draw:
+    - rectangles
+    - circles
+    - straight lines
+    - polygons
+    - curved lines
 
 ## II. Required Reading & Assignments
 * Shape Viewer HW -> [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
