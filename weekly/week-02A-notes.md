@@ -97,7 +97,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
      
        ```js
        ctx.beginPath(); 
-       ctx.arc(100, 100, 25, 0, Math.PI * 2, false); // draws a circle at 100,100 with a 25-pixel radius
+       ctx.arc(200, 200, 75, 0, Math.PI * 2, false); // draws a circle at 200,200 with a 75-pixel radius
        ctx.closePath(); 
        ```
        
