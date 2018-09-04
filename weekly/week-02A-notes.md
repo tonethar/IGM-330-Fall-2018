@@ -3,10 +3,9 @@
 ## I. Overview
 Today we will: 
 - Review:
-  - last week's homework
   - JavaScript & DOM concepts from last week
   - how to set up a canvas drawing context, and how to draw rectangles, circles, and lines
-- look at how Canvas *tranformations* (translating, rotating, scaling) work
+
 
 
 ## II. Required Reading & Assignments
