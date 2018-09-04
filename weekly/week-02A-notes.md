@@ -83,7 +83,6 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
 
  - **How to draw a circle**:
      - virtually identical to drawing a rectangle, just replace the path code - `ctx.rect()` - with:
-       - 
        ```js
        ctx.arc(x, y, radius, startAngle, endAngle, counterclockwise);
        ```
