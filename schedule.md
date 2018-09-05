@@ -4,7 +4,7 @@
 ## Contents
 
 - [Week 01 (Aug 27) : Course Intro & Review of Basic Web App Structure](#week1)
-- [Week 02 (Sep 03) : Intro to Canvas Drawing API & Transforms](#week2)
+- [Week 02 (Sep 03) : Intro to Canvas Drawing API & Affine Transforms](#week2)
 - [Week 03 (Sep 10) : Manipulating Bitmap data](#week3)
 - [Week 04 (Sep 17) : WebAudio API](#week4)
 - [Week 05 (Sep 24) : TBA](#week5)
