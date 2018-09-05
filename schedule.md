@@ -27,7 +27,8 @@
   - [Week 1B - Canvas Demo](weekly/week-01B-notes.md)
   
 ## <a id="week2">Week 2 : Intro to Canvas Drawing API & Transforms
-  
+  - [Week 2A - JS Review and more Canvas](weekly/week-02A-notes.md)
+  - [Week 2B - Canvas Affine Transformations](weekly/week-02B-notes.md)
   
 ## <a id="week3">Week 3 : Manipulating Bitmap data
   
