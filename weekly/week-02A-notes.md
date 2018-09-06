@@ -37,7 +37,7 @@ Today we will:
 1. Write a function named `doStuff` that causes the second paragraph on an HTML page to have a pink background color, and for that paragraph's contents to be replaced with the text "Greetings and Felcitations"
 1. Suppose we have a variable named `myButton` that references a DOM button. Write a JS *event handler* that will call function `doStuff` when the button is clicked
 1. Now write *event listener* code that will do the same thing for `myButton`
-1. Can JavaScript function be thought of as a "First-class data type" and/or a ["First-class citizen"](https://en.wikipedia.org/wiki/First-class_citizen)
+1. Can JavaScript functions be thought of as a "First-class data type" and/or a ["First-class citizen"](https://en.wikipedia.org/wiki/First-class_citizen)
 
 ## IV. Canvas Presentation
 
