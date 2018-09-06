@@ -22,7 +22,7 @@ Today we will:
   - the drawing state "stack" is a "snapshot" of the current value of drawing attributes and transformations. Here is what is included in it:
     - drawing attributes (i.e. styles or properties):  `strokeStyle, fillStyle, globalAlpha, lineWidth, lineCap, lineJoin, miterLimit, shadowOffsetX, shadowOffsetY, shadowBlur, shadowColor, globalCompositeOperation, font, textAlign, textBaseline`
     - The clipping region - there is a `ctx.clip()` method, and we also saw clipping in action with the "ring" and "donut" we created last time
-    - the transformation matrix (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and ctx.setTransform()`)
+    - the transformation matrix (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and `ctx.setTransform()`)
 
 
 ## IV. Reference
