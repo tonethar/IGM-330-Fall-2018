@@ -95,12 +95,14 @@ Today we will:
 </html>
 ```
 
-**DEMO:**
+## V. Demo
 1. Let's first try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
+
 2. The **drawing state stack** to the rescue!
+
 ![Drawing State Stack](./_images/drawing-stack.jpg)
 
-## V. Reference
+## VI. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
 
 
