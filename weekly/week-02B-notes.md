@@ -24,10 +24,74 @@ Today we will:
     - The clipping region - there is a `ctx.clip()` method, and we also saw clipping in action with the "ring" and "donut" we created last time
     - the transformation matrix (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and `ctx.setTransform()`)
 
-## IV. Start File
+## IV. Demo Start File
 
 ```html
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Canvas Starter</title>
+	<style>
+	canvas{
+		border:1px solid gray;
+	}
+	</style>
+</head>
+<body>
+	<canvas width="640" height="480">
+		Get a real browser!
+	</canvas>
+	<script>
+		'use strict';
+		
+		init();
+	
+		function init(){
+			let ctx = document.querySelector('canvas').getContext('2d');
+		
+			// A - all fill operations are now in yellow
+				ctx.fillStyle = 'yellow'; 
+			
+				// B- fill a rectangle with the current fill color
+				ctx.fillRect(0,0,640,480); 
+			
+				// C - set the current font
+				ctx.font = 'bold 60pt Verdana'; 
+			
+				// D - change the current fill color
+				ctx.fillStyle = '#44aa44'; 
+			
+				// E - draw stuff
+			 
+				//ctx.translate(100,0);
+				//ctx.rotate(Math.PI/6);
+			
+				// square with fillRect() convenience method
+				ctx.fillStyle="green";
+				ctx.fillRect(100,100,100,100);
+			
+				// square with rect()
+				ctx.fillStyle="blue";
+				ctx.beginPath();
+				ctx.rect(300,100,100,100);
+				ctx.closePath();
+				ctx.fill();
+			
+				// triangle
+				ctx.strokeStyle="red";
+				ctx.fillStyle="red";
+				ctx.lineWidth="5";
+				ctx.beginPath();
+				ctx.moveTo(500,100);
+				ctx.lineTo(550,200);
+				ctx.lineTo(450,200);
+				ctx.closePath();
+				ctx.stroke();
+		}
+	</script>
+</body>
+</html>
 ```
 
 ## V. Reference
