@@ -24,7 +24,9 @@ Today we will:
     - The **clipping region** - there is a `ctx.clip()` method, and we also saw clipping in action with the "ring" and "donut" we created last time
     - the **CTM** - *current transformation matrix* (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and `ctx.setTransform()`)
 
-## IV. Demo Start File
+## IV. Demo Start Files
+
+**canvas-transforms-demo-start.html**
 
 ```html
 <!DOCTYPE html>
@@ -90,6 +92,58 @@ Today we will:
 				ctx.closePath();
 				ctx.stroke();
 		}
+	</script>
+</body>
+</html>
+```
+
+**screen-saver-2-start.html**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Screen Saver II Start</title>
+	<style>
+	canvas{
+		border:1px solid gray;
+	}
+	</style>
+</head>
+<body>
+	<canvas width="640" height="480">
+		Get a real browser!
+	</canvas>
+	<script>
+		'use strict';
+		let ctx = document.querySelector('canvas').getContext('2d');
+	
+		init();
+		
+			function init(){
+				loop();
+			}
+	
+		function loop(){
+			ctx.save();
+			ctx.lineWidth=1;
+			ctx.linePath = "round";
+			ctx.lineJoin = "round";
+			ctx.beginPath()
+			ctx.moveTo(40, 400);
+			ctx.bezierCurveTo(420, 78, 178, 93, 600, 400);
+			ctx.lineTo(40,400);
+			ctx.closePath();
+			ctx.stroke();
+			ctx.restore();
+		}
+	
+	
+		function getRandomColor(){
+				const getByte = _ => 55 + Math.round(Math.random() * 200);
+				return `rgba(${getByte()},${getByte()},${getByte()},1)`;
+			}
+	
 	</script>
 </body>
 </html>
