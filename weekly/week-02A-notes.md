@@ -115,6 +115,19 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
  
  ![circle image](./_images/circle.jpg)
  
+ \*\* ***You can draw a 2D ring (or donut) shape by punching out the center. The trick is to create an arc with the `counterclockwise` value set to `true`  :*** \*\*
+ 
+  ```js
+       ctx.beginPath(); 
+       ctx.arc(200, 200, 125, 0, Math.PI * 2, false); // draws a circle at 200,200 with a 125-pixel radius
+       ctx.arc(200, 200, 100, 0, Math.PI * 2, true);  // punches out the center of the circle
+       ctx.closePath();
+       ctx.stroke();
+       ctx.fill();  
+ ```
+ 
+  ![circle image](./_images/circle-2.jpg)
+ 
  - **#3 - How to draw a line**:
      - just replace the path code - `ctx.rect()` - with:
      
