@@ -65,6 +65,7 @@ Today we will:
 				// E - draw stuff
 			 
 				//ctx.translate(100,0);
+				//ctx.scale(1.2,1.2);
 				//ctx.rotate(Math.PI/6);
 			
 				// square with fillRect() convenience method
