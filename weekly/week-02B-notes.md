@@ -150,11 +150,13 @@ Today we will:
 ```
 
 ## V. Demo
-1. Let's use `ctx.save()` and `ctx.restore` to change the colors of the squares
+1. In **canvas-transforms-demo-start.html**, let's use `ctx.save()` and `ctx.restore` to change the colors of the squares
 
 2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
 
 3. The **drawing state stack** to the rescue!
+
+4. Now let's modify **screen-saver-2-start.html** and let our transformations accumulate over time
 
 ![Drawing State Stack](./_images/drawing-stack.jpg)
 
