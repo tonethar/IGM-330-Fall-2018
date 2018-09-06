@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Canvas Starter</title>
-	<style type="text/css">
+	<style>
 	canvas{
 		border:1px solid gray;
 	}
