@@ -31,7 +31,7 @@ Today we will:
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>Canvas Starter</title>
+	<title>Canvas Transforms Starter</title>
 	<style>
 	canvas{
 		border:1px solid gray;
