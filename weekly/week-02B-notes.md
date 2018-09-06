@@ -2,7 +2,7 @@
 
 ## I. Overview
 Today we will:
-- review recent HW submissions
+- review *smiley* HW submissions
 - look at how Canvas *tranformations* (translating, rotating, scaling) work
 - look at the Canvas drawing state "stack", and use cases for `ctx.save()` and `ctx.restore()`
 
