@@ -13,7 +13,7 @@ Today we will:
 
 
 ## III. Presentation
-1. the current transformation matrix (CTM)
+1. the **Current Transformation Matrix** (CTM)
   - `ctx.translate()`
   - `ctx.rotate()`
   - `ctx.scale()`
@@ -23,8 +23,19 @@ Today we will:
     - **drawing attributes** (i.e. styles or properties):  `strokeStyle, fillStyle, globalAlpha, lineWidth, lineCap, lineJoin, miterLimit, shadowOffsetX, shadowOffsetY, shadowBlur, shadowColor, globalCompositeOperation, font, textAlign, textBaseline`
     - The **clipping region** - there is a `ctx.clip()` method, and we also saw clipping in action with the "ring" and "donut" we created last time
     - the **CTM** - *current transformation matrix* (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and `ctx.setTransform()`)
+    
+## IV. Demo
+1. In **canvas-transforms-demo-start.html**, let's use `ctx.save()` and `ctx.restore` to change the colors of the squares
 
-## IV. Demo Start Files
+2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
+
+3. The **drawing state stack** to the rescue!
+
+4. Now let's modify **screen-saver-2-start.html** and let our transformations accumulate over time
+
+![Drawing State Stack](./_images/drawing-stack.jpg)
+
+## V. Demo Start Files
 
 **canvas-transforms-demo-start.html**
 
@@ -149,16 +160,7 @@ Today we will:
 </html>
 ```
 
-## V. Demo
-1. In **canvas-transforms-demo-start.html**, let's use `ctx.save()` and `ctx.restore` to change the colors of the squares
 
-2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
-
-3. The **drawing state stack** to the rescue!
-
-4. Now let's modify **screen-saver-2-start.html** and let our transformations accumulate over time
-
-![Drawing State Stack](./_images/drawing-stack.jpg)
 
 ## VI. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
