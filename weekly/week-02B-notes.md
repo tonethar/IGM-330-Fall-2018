@@ -96,8 +96,8 @@ Today we will:
 ```
 
 **DEMO:**
-1. Let's first try translating, then scaling, the rotating the squares -  how are the results unexpected?
-2. The drawing state stack to the rescue!
+1. Let's first try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
+2. The **drawing state stack** to the rescue!
 ![Drawing State Stack](./_images/drawing-stack.jpg)
 
 ## V. Reference
