@@ -24,8 +24,13 @@ Today we will:
     - The clipping region - there is a `ctx.clip()` method, and we also saw clipping in action with the "ring" and "donut" we created last time
     - the transformation matrix (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and `ctx.setTransform()`)
 
+## IV. Start File
 
-## IV. Reference
+```html
+
+```
+
+## V. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
 
 
