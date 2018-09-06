@@ -96,9 +96,11 @@ Today we will:
 ```
 
 ## V. Demo
-1. Let's first try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
+1. Let's use `ctx.save()` and `ctx.restore` to change the colors of the squares
 
-2. The **drawing state stack** to the rescue!
+2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
+
+3. The **drawing state stack** to the rescue!
 
 ![Drawing State Stack](./_images/drawing-stack.jpg)
 
