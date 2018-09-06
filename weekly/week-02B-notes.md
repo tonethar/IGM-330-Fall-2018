@@ -13,7 +13,13 @@ Today we will:
 
 
 ## III. Presentation
-
+- the current transformation matrix (CTM)
+  - `ctx.translate()`
+  - `ctx.rotate()`
+  - `ctx.scale()`
+- the drawing state "stack"
+  - ctx.save()
+  - ctx.restore()
 
 ## IV. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
