@@ -25,13 +25,11 @@ Today we will:
     - the **CTM** - *current transformation matrix* (translations + rotations + scales via `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`, and `ctx.setTransform()`)
     
 ## IV. Demo
-1. In **canvas-transforms-demo-start.html**, let's use `ctx.save()` and `ctx.restore` to change the colors of the squares
+1. In **canvas-transforms-demo-start.html**, let's make some drawing changes to just our first green square.  We will see that using `ctx.save()` and `ctx.restore` helps to make this easier
 
-2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?
+2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected? Once again, `ctx.save()` and `ctx.restore` to the rescue!
 
-3. The **drawing state stack** to the rescue!
-
-4. Now let's modify **screen-saver-2-start.html** and let our transformations accumulate over time
+3. Now now we will create some animation by letting our transformations accumulate over time
 
 ![Drawing State Stack](./_images/drawing-stack.jpg)
 
@@ -103,58 +101,6 @@ Today we will:
 				ctx.closePath();
 				ctx.stroke();
 		}
-	</script>
-</body>
-</html>
-```
-
-**screen-saver-2-start.html**
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<title>Screen Saver II Start</title>
-	<style>
-	canvas{
-		border:1px solid gray;
-	}
-	</style>
-</head>
-<body>
-	<canvas width="640" height="480">
-		Get a real browser!
-	</canvas>
-	<script>
-		'use strict';
-		let ctx = document.querySelector('canvas').getContext('2d');
-	
-		init();
-		
-			function init(){
-				loop();
-			}
-	
-		function loop(){
-			ctx.save();
-			ctx.lineWidth=1;
-			ctx.linePath = "round";
-			ctx.lineJoin = "round";
-			ctx.beginPath()
-			ctx.moveTo(40, 400);
-			ctx.bezierCurveTo(420, 78, 178, 93, 600, 400);
-			ctx.lineTo(40,400);
-			ctx.closePath();
-			ctx.stroke();
-			ctx.restore();
-		}
-	
-	
-		function getRandomColor(){
-				const getByte = _ => 55 + Math.round(Math.random() * 200);
-				return `rgba(${getByte()},${getByte()},${getByte()},1)`;
-			}
-	
 	</script>
 </body>
 </html>
