@@ -13,11 +13,11 @@ Today we will:
 
 
 ## III. Presentation
-1. the **Current Transformation Matrix** (CTM)
+1. Manipulating the drawing state stack via `ctx.save()` and `ctx.restore()`
+2. the **Current Transformation Matrix** (CTM)
   - `ctx.translate()`
   - `ctx.rotate()`
   - `ctx.scale()`
-2. Manipulating the drawing state stack via `ctx.save()` and `ctx.restore()`
 3. What is the drawing state "stack"? 
   - the drawing state "stack" is a "snapshot" of the current value of drawing attributes and transformations. Here is what is included in it:
     - **drawing attributes** (i.e. styles or properties):  `strokeStyle, fillStyle, globalAlpha, lineWidth, lineCap, lineJoin, miterLimit, shadowOffsetX, shadowOffsetY, shadowBlur, shadowColor, globalCompositeOperation, font, textAlign, textBaseline`
