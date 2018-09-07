@@ -27,9 +27,11 @@ Today we will:
 ## IV. Demo
 1. In **canvas-transforms-demo-start.html**, let's make some drawing changes to just our first green square.  We will see that using `ctx.save()` and `ctx.restore` helps to make this easier
 
-2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected? Once again, `ctx.save()` and `ctx.restore` to the rescue!
+2. Let's next try *translating*, then *scaling*, then *rotating* the squares -  how are the results unexpected?  `ctx.save()` and `ctx.restore` to the rescue!
 
-3. Now now we will create some animation by letting our transformations accumulate over time
+3. How about the triangles -  how are the results unexpected? Once again, `ctx.save()` and `ctx.restore` to the rescue!
+
+4. Now now we will create some animation by letting our transformations accumulate over time
 
 ![Drawing State Stack](./_images/drawing-stack.jpg)
 
