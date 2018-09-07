@@ -62,46 +62,69 @@ Today we will:
 	
 		function init(){
 			let ctx = document.querySelector('canvas').getContext('2d');
+			// background
+			
+			ctx.fillStyle = 'yellow'; 
+			ctx.fillRect(0,0,640,480); 
+	
+			// do some transformations?
+			//ctx.translate(100,0);
+			//ctx.rotate(Math.PI/6);
+			//ctx.scale(1.2,1.2);
+			
+			
+			// set a bunch of state attributes
+			// ctx.shadowOffsetX = 15;
+			// ctx.shadowOffsetY = 15;
+			// ctx.shadowColor = "rgba(153,50,204,.6)";
+			// ctx.shadowBlur = 5;
 		
-			// A - all fill operations are now in yellow
-				ctx.fillStyle = 'yellow'; 
+		
+			// draw square with fillRect() convenience method
+			ctx.fillStyle="green";
+			ctx.fillRect(100,100,100,100);
+		
+			// draw square with rect()
+			ctx.fillStyle="blue";
+			ctx.beginPath();
+			ctx.rect(300,100,100,100);
+			ctx.closePath();
+			ctx.fill();
 			
-				// B- fill a rectangle with the current fill color
-				ctx.fillRect(0,0,640,480); 
+			// draw squares with our helper function
+			drawSquare1(ctx,100,0,100,100,"orange");
+			drawSquare1(ctx,250,0,100,100,"orange");
+			drawSquare1(ctx,400,0,100,100,"orange");
+		
+			// draw a triangle
+			ctx.strokeStyle="red";
+			ctx.fillStyle="red";
+			ctx.lineWidth="5";
+			ctx.beginPath();
+			ctx.moveTo(500,100);
+			ctx.lineTo(550,200);
+			ctx.lineTo(450,200);
+			ctx.closePath();
+			ctx.stroke();
 			
-				// C - set the current font
-				ctx.font = 'bold 60pt Verdana'; 
-			
-				// D - change the current fill color
-				ctx.fillStyle = '#44aa44'; 
-			
-				// E - draw stuff
-			 
-				//ctx.translate(100,0);
-				//ctx.scale(1.2,1.2);
-				//ctx.rotate(Math.PI/6);
-			
-				// square with fillRect() convenience method
-				ctx.fillStyle="green";
-				ctx.fillRect(100,100,100,100);
-			
-				// square with rect()
-				ctx.fillStyle="blue";
-				ctx.beginPath();
-				ctx.rect(300,100,100,100);
-				ctx.closePath();
-				ctx.fill();
-			
-				// triangle
-				ctx.strokeStyle="red";
-				ctx.fillStyle="red";
-				ctx.lineWidth="5";
-				ctx.beginPath();
-				ctx.moveTo(500,100);
-				ctx.lineTo(550,200);
-				ctx.lineTo(450,200);
-				ctx.closePath();
-				ctx.stroke();
+			// draw a "better" triangle - why is this better? You'll see!
+			// ctx.strokeStyle="red";
+// 			ctx.fillStyle="red";
+// 			ctx.lineWidth="5";
+// 			ctx.beginPath();
+// 			ctx.moveTo(0,-50);
+// 			ctx.lineTo(50,50);
+// 			ctx.lineTo(-50,50);
+// 			ctx.closePath();
+// 			ctx.stroke();
+		}
+		
+
+		function drawSquare1(ctx,x,y,width,height,fillStyle){
+			ctx.save();
+			ctx.fillStyle=fillStyle;
+			ctx.fillRect(x,y,width,height);
+			ctx.restore();
 		}
 	</script>
 </body>
