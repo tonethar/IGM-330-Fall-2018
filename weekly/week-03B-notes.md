@@ -1,16 +1,16 @@
 # Week 3B - Canvas Bitmap Manipulation
 
 ## I. Overview
-Today we will:
-- 
 
-## 
 
-## II. Presentation
-- Let's talk about [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
+## II. Required Reading & Assignments
+- Audio Visualizer HW
 
-## III. Reference
-- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
+## III. Presentation
+
+
+## IV. Reference
+
 
 
 <hr><hr>
