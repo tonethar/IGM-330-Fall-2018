@@ -1,4 +1,4 @@
-# Week 3A - Review Reent HW & Building a Paint App
+# Week 3A - Review Recent HW & Building a Paint App
 
 ## I. Overview
 Today we will:
@@ -12,9 +12,6 @@ Today we will:
 
 ## II. Presentation
 - Let's talk about [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
-
-
-
 
 ## III. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
