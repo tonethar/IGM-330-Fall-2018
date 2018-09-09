@@ -10,9 +10,15 @@ Today we will:
 - review [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
   - to draw the squares, circles, and ploygons, this requires a good understanding of `ctx.translate()`, `ctx.rotate()` and `ctx.scale()` as well as `ctx.save()` and `ctx.restore()`
     - note how we can flip the text along its horizontal or vertical axis with `ctx.scale(-1,1)` or `ctx.scale(1,-1)`
-- review [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
-  - asdas
-
+- review [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md) - concepts:
+  - line caps, line joins, line dashes
+  - linear and radial gradients
+  - bezier curves:
+      - `ctx.quadraticCurveTo(ctrlX, ctrlY, endX, endY)` draws bezier curves with 1 control point
+      - `ctx.bezierCurveTo(ctrlX, ctrlY, ctrlXa, ctrlYa, endX, endY)` draws cubic bezier curves with 2 control points
+      - curve building demos
+      - animated curves
+  
 ## II. Presentation
 - Let's talk about [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
 
