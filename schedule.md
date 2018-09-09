@@ -31,7 +31,8 @@
   - [Week 2B - Canvas Affine Transformations](weekly/week-02B-notes.md)
   
 ## <a id="week3">Week 3 : Manipulating Bitmap data
-  
+  - [Week 3A - Review Recent HW & Build a Paint App](weekly/week-03A-notes.md)
+  - [Week 3B - Canvas Bitmap Manipulation](weekly/week-03B-notes.md)
  
 ## <a id="week4">Week 4 : WebAudio API
   
