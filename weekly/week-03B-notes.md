@@ -5,6 +5,7 @@
 
 ## II. Required Reading & Assignments
 - Audio Visualizer HW
+- Fotoshawp Demo
 
 ## III. Presentation
 
