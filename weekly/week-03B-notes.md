@@ -1,11 +1,11 @@
 # Week 3B - Canvas Bitmap Manipulation
 
 ## I. Overview
-
+- Review [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
 
 ## II. Required Reading & Assignments
-- Audio Visualizer HW
 - Fotoshawp Demo
+- Audio Visualizer HW
 
 ## III. Presentation
 
