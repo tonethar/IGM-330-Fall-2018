@@ -17,7 +17,7 @@ Today we will:
       - `ctx.quadraticCurveTo(ctrlX, ctrlY, endX, endY)` draws bezier curves with 1 control point
       - `ctx.bezierCurveTo(ctrlX, ctrlY, ctrlXa, ctrlYa, endX, endY)` draws cubic bezier curves with 2 control points
       - curve building demos
-      - animated curves
+      - animating curves
   
 ## II. Presentation
 - Let's talk about [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
