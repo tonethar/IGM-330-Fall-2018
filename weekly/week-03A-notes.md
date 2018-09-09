@@ -8,7 +8,9 @@ Today we will:
   - `drawBox()`- pass color data via an HTML5 custom data attributes:
     - we briefly covered HTML5 custom data attributes in IGM-230 - see [web-apps-6.md#section7](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-6.md#section7)
 - review [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
+  - to draw the squares, circles, and ploygons, this requires a good understanding of `ctx.translate()`, `ctx.rotate()` and `ctx.scale()` as well as `ctx.save()` and `ctx.restore()`
 - review [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
+  - 
 
 ## II. Presentation
 - Let's talk about [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
