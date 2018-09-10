@@ -5,7 +5,7 @@
 
 - [Week 01 (Aug 27) : Course Intro & Review of Basic Web App Structure](#week1)
 - [Week 02 (Sep 03) : Intro to Canvas Drawing API & Affine Transforms](#week2)
-- [Week 03 (Sep 10) : Manipulating Bitmap data](#week3)
+- [Week 03 (Sep 10) : More Canvas & Manipulating Bitmap data](#week3)
 - [Week 04 (Sep 17) : WebAudio API](#week4)
 - [Week 05 (Sep 24) : TBA](#week5)
 - [Week 06 (Oct 01) : TBA](#week6)
@@ -30,7 +30,7 @@
   - [Week 2A - JS Review and more Canvas](weekly/week-02A-notes.md)
   - [Week 2B - Canvas Affine Transformations](weekly/week-02B-notes.md)
   
-## <a id="week3">Week 3 : Manipulating Bitmap data
+## <a id="week3">Week 3 : More Canvas & Manipulating Bitmap data
   - [Week 3A - Review Recent HW & Build a Paint App](weekly/week-03A-notes.md)
   - [Week 3B - Canvas Bitmap Manipulation](weekly/week-03B-notes.md)
  
