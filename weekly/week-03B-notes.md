@@ -5,7 +5,7 @@
 
 ## II. Required Reading & Assignments
 - Fotoshawp Demo
-- Audio Visualizer HW
+- [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
 
 ## III. Presentation
 
