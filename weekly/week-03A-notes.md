@@ -1,4 +1,4 @@
-# Week 3A - Review Recent HW & Build a Paint App
+# Week 3A - Review recent HW & Build a paint app
 
 ## I. Overview
 Today we will:
