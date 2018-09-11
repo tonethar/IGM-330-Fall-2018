@@ -21,13 +21,75 @@ Today we will:
       - `ctx.bezierCurveTo(ctrlX, ctrlY, ctrlXa, ctrlYa, endX, endY)` draws cubic bezier curves with 2 control points
       - curve building demos
       - animating curves
-  
-## II. Presentation
+
+## II. Demo Code
+
+**linear-gradient.html**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Linear Gradient</title>
+</head>
+<body>
+<canvas width="640" height="480"></canvas>
+<script>
+	let ctx = document.querySelector("canvas").getContext("2d");
+	let grad = ctx.createLinearGradient(100, 0, 300, 0);
+	grad.addColorStop(0, 'red');
+	grad.addColorStop(1 / 6, 'orange');
+	grad.addColorStop(2 / 6, 'yellow');
+	grad.addColorStop(3 / 6, 'green')
+	grad.addColorStop(4 / 6, 'aqua');
+	grad.addColorStop(5 / 6, 'blue');
+	grad.addColorStop(1, 'purple');
+	
+	ctx.fillStyle = grad;
+	ctx.fillRect(0,0,640,480);
+	
+</script>
+</body>
+</html>
+```
+
+**radial-gradient.html**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Radial Gradient</title>
+</head>
+<body>
+<canvas width="640" height="480"></canvas>
+<script>
+	let ctx = document.querySelector("canvas").getContext("2d");
+	let grad = ctx.createRadialGradient(150,150, 20, 150, 150, 125);
+	grad.addColorStop(0, 'red');
+	grad.addColorStop(1 / 6, 'orange');
+	grad.addColorStop(2 / 6, 'yellow');
+	grad.addColorStop(3 / 6, 'green')
+	grad.addColorStop(4 / 6, 'aqua');
+	grad.addColorStop(5 / 6, 'blue');
+	grad.addColorStop(1, 'purple');
+	
+	ctx.fillStyle = grad;
+	ctx.fillRect(0,0,640,480);
+	
+// 	ctx.beginPath();
+// 	ctx.arc(150,150,125,0,Math.PI*2,false);
+// 	ctx.closePath();
+// 	ctx.fill();
+</script>
+</body>
+</html>
+```
+
+## III. Presentation
 - Let's talk about [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
-
-## III. Reference
-- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
-
 
 <hr><hr>
 
