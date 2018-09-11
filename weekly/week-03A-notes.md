@@ -13,7 +13,7 @@ Today we will:
   - note how we can flip the text along its horizontal or vertical axis with `ctx.scale(-1,1)` or `ctx.scale(1,-1)`
 - review [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md) - concepts:
   - line caps, line joins, line dashes
-  - A gradient specifies a starting color, an ending color, and an area over which color changes. A single gradient can encompass more than one color change
+  - A **gradient** specifies a starting color, an ending color, and an area over which color changes. A single gradient can encompass more than one color change
     - linear and radial gradients
   - bezier curves:
       - `ctx.quadraticCurveTo(ctrlX, ctrlY, endX, endY)` draws bezier curves with 1 control point
