@@ -5,11 +5,12 @@ Today we will:
 - review [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md) - an important concept is how to pass data *from* HTML elements *to* your JavaScript - there are several approaches that work - we will look at 4 of them:
   - `drawBox()`- pass color data by utilizing `e.target`
   - `drawBox()`- pass color data by utilizing `this`
-    - in regular functions, the value of `this` in a function is determined by how the function is *called*. The 'this` mechanism is thus resolved dynamically at runtime
-    - BTW - arrow function don't bind their own `this`, it instead binds to its *lexical scope* (aka static scope) that is determined at 
+    - in regular functions, the value of `this` in a function is determined by how the function is *called*. The 'this` mechanism is thus resolved **dynamically** at run-time
+    - BTW - arrow functions don't bind their own `this`, `this` instead binds to its **lexical scope** (aka static scope) that is determined when the code is written
   - `drawBox()`- pass color data inside an anonymous wrapper function
   - `drawBox()`- pass color data via an HTML5 custom data attributes:
     - we briefly covered HTML5 custom data attributes in IGM-230 - see [web-apps-6.md#section7](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-6.md#section7)
+    - create an attribute named `data-color`, and then access it with `getAttribute("data-color")`
 - review [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
   - to draw the squares, circles, and ploygons, this requires a good understanding of `ctx.translate()`, `ctx.rotate()` and `ctx.scale()` as well as `ctx.save()` and `ctx.restore()`
   - note how we can flip the text along its horizontal or vertical axis with `ctx.scale(-1,1)` or `ctx.scale(1,-1)`
