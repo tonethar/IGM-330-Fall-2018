@@ -6,7 +6,7 @@ Today we will:
   - `drawBox()`- pass color data by utilizing `e.target`
   - `drawBox()`- pass color data by utilizing `this`
     - in regular functions, the value of `this` in a function is determined by how the function is *called*. The 'this` mechanism is thus resolved **dynamically** at run-time
-    - BTW - arrow functions don't bind their own `this`, `this` instead binds to its **lexical scope** (aka static scope) that is determined when the code is written
+    - BTW - arrow functions don't bind their own `this` -  `this` instead binds to its **lexical scope** (aka static scope) that is determined when the code is written
   - `drawBox()`- pass color data inside an anonymous wrapper function
   - `drawBox()`- pass color data via an HTML5 custom data attributes:
     - we briefly covered HTML5 custom data attributes in IGM-230 - see [web-apps-6.md#section7](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-6.md#section7)
