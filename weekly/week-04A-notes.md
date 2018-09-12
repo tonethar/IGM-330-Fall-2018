@@ -7,7 +7,7 @@
 
 
 ## III. Presentation
-- Fotoshawp Demo
+
 
 
 ## IV. Reference
