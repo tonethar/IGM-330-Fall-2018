@@ -1,4 +1,4 @@
-# Week 3B - Canvas Bitmap Manipulation
+# Week 3B - Canvas Bitmaps & Blending Modes
 
 ## I. Overview
 - Review [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
@@ -11,9 +11,13 @@
 
 ## III. Presentation
 
+1. Drawing Images:
+  - we can use canvas to draw bitmap images. The source of the image could be an &lt;img> tag, an `Image()` object, a SVG &lt;image> element, a frame of a &lt;video> element, or another &lt;canvas> element
+  - 
+
 
 ## IV. Reference
-
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
 
 
 <hr><hr>
