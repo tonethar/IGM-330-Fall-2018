@@ -18,6 +18,7 @@
 
 ## IV. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
+- https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
 
 
 <hr><hr>
