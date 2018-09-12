@@ -14,7 +14,7 @@
 1. Drawing Images:
   - we can use canvas to draw bitmap images. The source of the image could be an &lt;img> tag, an `Image()` object, a SVG &lt;image> element, a frame of a &lt;video> element, or another &lt;canvas> element
   - 
-
+2. Blend Modes:
 
 ## IV. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
