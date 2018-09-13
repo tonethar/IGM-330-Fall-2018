@@ -1,8 +1,19 @@
-# Week 3B - Canvas Bitmaps & Blending Modes
+# Week 3B - Canvas Images & Blending Modes
 
 ## I. Overview
 - Review [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
-- Finish up canvas by taling about loading images and blending modes!
+- In 3 weeks we have covered the following canvas concepts:
+  - getting a reference to the drawing "context" (a `CanvasRenderingContext2D` object) with `.canvas.getContext('2d')`
+  - setting drawing state attributes like `.fillStyle`, `.strokeStyle`, `.globalAlpha` and so on
+  - building paths with: `.moveTo()`, `.rect()`, `.lineTo()`, `.arc()`, `.arcTo()`, ` .quadraticCurveTo()`, `.bezierCurveTo()`, `beginPath()` and `closePath()`
+  - stroking and filling paths with `.stroke()` and `.fill()`
+  - drawing text with `.strokeText()`, `.fillText()` and `.measureText()`
+  - creating patterns and gradients with `.createLinearGradient()`, `.createRadialGradient()` and `.createPattern()`
+  - canvas transformation: `.rotate()`, `.translate()` and `.scale()`
+  - managing the drawing state stack with `.save()` and `.restore()`
+- So let's finish up the basics of canvas by talking about:
+  - drawing images!
+  - blending (compositing) modes!
 
 ## II. Required Reading & Assignments
 - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
