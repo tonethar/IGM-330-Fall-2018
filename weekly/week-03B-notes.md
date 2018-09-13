@@ -21,7 +21,8 @@
     
 2. **Compositing** is the combining of visual elements from separate sources into single images. 
 - The standard compositing mode of canvas is `source-over`, which is also known as the "painters model", where new shapes are drawn on top of the existing canvas content.
-- canvas gives us a way to chnage this default behavior, and to change how different layers of an image interact. This is done with the `.globalCompositeOperation` property
+- canvas gives us a way to change this default behavior, and to change how different layers of an image interact. This is done with the `.globalCompositeOperation` property
+- you can read about these different compositing operations here: [ctx.globalCompositeOperation](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation)
 - see the demo file below
 
 
@@ -180,6 +181,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Compositing/Example
 
 
 <hr><hr>
