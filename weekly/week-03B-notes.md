@@ -21,8 +21,8 @@
     
 2. **Compositing** is the combining of visual elements from separate sources into single images. 
 - The standard compositing mode of canvas is `source-over`, which is also known as the "painters model", where new shapes are drawn on top of the existing canvas content.
-- canvas gives us a way to control how different layers of an image interact with the `.globalCompositeOperation` property
-- see the demo file below, as well as 
+- canvas gives us a way to chnage this default behavior, and to change how different layers of an image interact. This is done with the `.globalCompositeOperation` property
+- see the demo file below
 
 
 ## IV. Demo Files
