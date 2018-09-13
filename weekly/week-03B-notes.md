@@ -2,6 +2,7 @@
 
 ## I. Overview
 - Review [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
+- Finish up canvas by taling about loading images and blending modes!
 
 ## II. Required Reading & Assignments
 - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
