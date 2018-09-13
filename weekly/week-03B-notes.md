@@ -16,9 +16,13 @@
     - this method can be used to draw a whole image, or just a part of it. It can also be used to scale the image either up or down in size
   - see the demo file below:
     - it covers how to sample from and scale an image
-    - a nice thought experiment would be to think about how we could download multiple images with our "pre-loader", instead of just one image
+    - be sure to look over how we use transforms to get some nice tiling effects
+    - a nice thought experiment would be to think about how we could modify the code to download multiple images with our "pre-loader", instead of just one image
     
-2. Blend Modes:
+2. **Compositing** is the combining of visual elements from separate sources into single images. 
+- The standard compositing mode of canvas is `source-over`, which is also known as the "painters model", where new shapes are drawn on top of the existing canvas content.
+- canvas gives us a way to control how different layers of an image interact with the `.globalCompositeOperation` property
+- see the demo file below, as well as 
 
 
 ## IV. Demo Files
@@ -126,6 +130,8 @@
 	
 	function init(img){
 			let ctx = document.querySelector("canvas").getContext("2d");
+	
+			// draw a background of yellow squares
 			ctx.save();
 			ctx.fillStyle = "yellow";
 			ctx.translate(0,50);
@@ -149,6 +155,7 @@
 			// try: source-atop,destination-over,destination-out,lighter,xor,multiply,screen,overlay,darken,lighten,color-dodge,color-burn,hard-light,soft-light,difference,exclusion,hue,saturation,color,luminosity
 			// these don't do much in this example: source-in,source-out,destination-in,destination-atop,copy
 
+			// draw some tigers!
 			ctx.save();
 			ctx.globalCompositeOperation = "source-over"; 
 			ctx.translate(150,80);
