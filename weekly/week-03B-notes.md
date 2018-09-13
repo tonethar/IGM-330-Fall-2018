@@ -176,8 +176,13 @@
 </html>
 ```
 
+## V. Screenshots
 
-## V. Reference
+**Blend Modes Demo**
+
+![Blend Modes Demo](_images/blend-modes-demo.jpg)
+
+## VI. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
 - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation
