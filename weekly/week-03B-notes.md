@@ -11,7 +11,7 @@
 ## III. Presentation
 
 1. Drawing Images:
-  - we can draw bitmap images into a `&lt;canvas>` tag. The source of the image could be an `&lt;img>` tag, an `Image()` object, a SVG `&lt;image>` element, a frame of a `&lt;video>` element, or another `&lt;canvas>` element
+  - we can draw bitmap images into a `&lt;canvas>` tag. The source of the image could be an `<img>` tag, an `Image()` object, a SVG `<image>` element, a frame of a `<video>` element, or another `<canvas>` element
   - The method we will use is [ctx.drawImage()](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage)
     - this method can be used to draw a whole image, or just a part of it. It can also be used to scale the image either up or down in size
   - see the demo file below:
