@@ -165,7 +165,7 @@
 			/* Compositing */
 			// https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Compositing
 			// default is "source-over"
-			// try: source-atop,destination-over,destination-out,lighter,xor,multiply,screen,overlay,darken,lighten,color-dodge,color-burn,hard-light,soft-light,difference,exclusion,hue,saturation,color,luminosity
+			// try: destination-over,destination-out,lighter,xor,multiply,screen,overlay,darken,lighten,color-dodge,color-burn,hard-light,soft-light,difference,exclusion,hue,saturation,color,luminosity
 			// these don't do much in this example: source-in,source-out,destination-in,destination-atop,copy
 
 			// draw some tigers!
