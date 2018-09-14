@@ -3,7 +3,7 @@
 ## I. Overview
 - Review [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
 - In 3 weeks we have covered the following canvas concepts:
-  - getting a reference to the drawing "context" (a `CanvasRenderingContext2D` object) with `.canvas.getContext('2d')`
+  - getting a reference to the drawing "context" (a `CanvasRenderingContext2D` object) with `canvas.getContext('2d')`
   - setting drawing state attributes like `.fillStyle`, `.strokeStyle`, `.globalAlpha` and so on
   - building paths with: `.moveTo()`, `.rect()`, `.lineTo()`, `.arc()`, `.arcTo()`, ` .quadraticCurveTo()`, `.bezierCurveTo()`, `beginPath()` and `closePath()`
   - stroking and filling paths with `.stroke()` and `.fill()`
@@ -317,7 +317,7 @@
 
 ## V. Screenshots
 
-**Blend Modes Demo**
+**Blend Modes Demo-2**
 
 ![Blend Modes Demo](_images/blend-modes-demo.jpg)
 
