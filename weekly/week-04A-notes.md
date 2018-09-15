@@ -4,13 +4,12 @@
 - Review [Drawing App HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
 
 ## II. Required Reading & Assignments
-
+- [Project 1 - Audio Visualizer](../projects/project-1.md)
 
 ## III. Presentation
 - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
 - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
 - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md)
-
 
 ## IV. Reference
 
