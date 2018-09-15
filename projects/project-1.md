@@ -1,15 +1,19 @@
 # Project 1 - Audio Visualizer
 
+## I. Project Requirements & Deliverables
 - the project requirements are here: http://igm.rit.edu/~acjvks/courses/2018-spring/330/html/project-1/
 - see mycourses.rit.edu for the deliverable due dates:
   1. *Project Partner, or working solo?*, post to mycourses discussion thread
   2. *Project Prototype*, post to mycourses dropbox
   3. *Project Final Submission*, post to mycourses dropbox
-- Resources:
+
+## II. Resources
   - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
   - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
   - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md) - *there is no dropbox for this and it will not be collected. But this is where some very helpful info on adding audio effect nodes to the visualizer (which is a requirement of the final project submission) is given to you.*
-- here are some examples from last semester:
+  
+## III. Examples
+Here are some examples from last semester:
   - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
   - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
   - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
