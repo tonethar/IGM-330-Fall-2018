@@ -9,8 +9,8 @@
 - [Week 04 (Sep 17) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Sep 24) : Drawing Sprites](#week5)
 - [Week 06 (Oct 01) : ES6 Classes](#week6)
-- [Week 07 (Oct 08) : TBA & October Break](#week7)
-- [Week 08 (Oct 15) : TBA & Midterm Exam](#week8)
+- [Week 07 (Oct 08) : Code Modules/Transpiling & October Break](#week7)
+- [Week 08 (Oct 15) : Catchup,Review & Midterm Exam](#week8)
 - [Week 09 (Oct 22) : TBA](#week9)
 - [Week 10 (Oct 29) : TBA](#week10)
 - [Week 11 (Nov 05) : Catch up](#week11)
@@ -51,7 +51,7 @@
    
  
  
-## <a id="week8">Week 8 : TBA
+## <a id="week8">Week 8 : Catchup & Midterm Exam
   
 The midterm exam will given the last class meeting of week 8
   
