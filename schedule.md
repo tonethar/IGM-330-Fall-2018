@@ -7,8 +7,8 @@
 - [Week 02 (Sep 03) : Intro to Canvas Drawing API & Affine Transforms](#week2)
 - [Week 03 (Sep 10) : More Canvas & Drawing Images & Blending Modes](#week3)
 - [Week 04 (Sep 17) : WebAudio API & Manipulating Bitmap data](#week4)
-- [Week 05 (Sep 24) : TBA](#week5)
-- [Week 06 (Oct 01) : TBA](#week6)
+- [Week 05 (Sep 24) : Drawing Sprites](#week5)
+- [Week 06 (Oct 01) : ES6 Classes](#week6)
 - [Week 07 (Oct 08) : TBA & October Break](#week7)
 - [Week 08 (Oct 15) : TBA & Midterm Exam](#week8)
 - [Week 09 (Oct 22) : TBA](#week9)
@@ -39,15 +39,15 @@
   - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
  
   
-## <a id="week5">Week 5 : TBA
+## <a id="week5">Week 5 : Drawing Sprites
   
  
   
-## <a id="week6">Week 6 : TBA
+## <a id="week6">Week 6 : ES6 Classes
   
  
   
-## <a id="week7">Week 7 : TBA
+## <a id="week7">Week 7 : Code Modules & Transpiling
    
  
  
