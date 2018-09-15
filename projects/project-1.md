@@ -1,7 +1,10 @@
 # Project 1 - Audio Visualizer
 
 - the project requirements are here: http://igm.rit.edu/~acjvks/courses/2018-spring/330/html/project-1/
-- see mycourses.rit.edu for the deliverable due dates
+- see mycourses.rit.edu for the deliverable due dates:
+  1. *Project Partner, or working solo?*, post to mycourses discussion thread
+  2. *Project Prototype*, post to mycourses dropbox
+  3. *Project Final Submission*, post to mycourses dropbox
 - Resources:
   - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
   - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
