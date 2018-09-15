@@ -35,7 +35,8 @@
   - [Week 3B - Canvas Images & Blending Modes](weekly/week-03B-notes.md)
  
 ## <a id="week4">Week 4 : WebAudio API
-  
+  - [Week 4A - Web Audio API](weekly/week-04A-notes.md)
+  - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
  
   
 ## <a id="week5">Week 5 : TBA
