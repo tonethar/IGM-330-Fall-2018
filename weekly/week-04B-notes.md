@@ -8,6 +8,8 @@
 
 ## III. Presentation
 - Fotoshawp Demo
+- [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
+- [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md)
 
 
 ## IV. Reference
