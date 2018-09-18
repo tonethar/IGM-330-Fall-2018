@@ -8,8 +8,7 @@
 
 ## III. Presentation
 - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
-- [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
-- [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md)
+- [Demo - Web Audio API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
 
 ## IV. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
