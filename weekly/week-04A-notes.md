@@ -12,6 +12,7 @@
 
 ## IV. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
+- http://teropa.info/blog/2016/08/19/what-is-the-web-audio-api.html
 
 
 
