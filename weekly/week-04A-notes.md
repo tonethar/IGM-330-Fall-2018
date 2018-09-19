@@ -1,4 +1,4 @@
-# Week 4A - Web Audio API 
+# Week 4A - Web Audio API & Canvas Visualizer
 
 ## I. Overview
 - Review [Drawing App HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
