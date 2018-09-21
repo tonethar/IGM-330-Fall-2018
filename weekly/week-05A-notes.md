@@ -15,7 +15,7 @@
 3. If we request 32 samples from a sound, how many elements will be present in the typed array we get back?
 4. Give 3 differences between a typical JS Array created with `[]`, and a JS *typed array* such as a `Uint8Array`
 5. Give 3 possible sources for a "source node"
-6. What does a "destination node" point at?
+6. What does a "destination node" typically point at?
 
 ### IV-B. Bitmap Data
 1. Suppose your canvas is has dimensions of 500 x 500 pixels. How many elements will be in the *typed array* you get back from `ctx.getImageData(0, 0, canvasWidth, canvasHeight)`
