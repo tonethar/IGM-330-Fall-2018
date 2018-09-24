@@ -2,7 +2,7 @@
 
 ## I. Overview
 - catch up
-- look at project prototypes
+- Look at Audio Visualizer Prototypes
 
 
 
