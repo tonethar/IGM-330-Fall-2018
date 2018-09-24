@@ -7,6 +7,11 @@
 
 
 ## III. Presentation
+- What makes for an effective visualization?
+  - there should be a relationship between the sound data and what people are seeing on the screen - drawing should not be random like our "screen savers" at the beginning on the semester were
+  - have a good "starting state" to your visualization - the controls should be pre-set to where the visualization has a pleasing state when the user firt opens it. Here's a good example of this: https://mcs2515.github.io/Magical_Visualizer/#
+  - don't bore the user - have the visualization periodically change in major ways automatically
+  - give the user controls (sliders, check boxes, pull downs) to effect the visualization
 
 ## IV. Review Questions
 ### IV-A. Web Audio
