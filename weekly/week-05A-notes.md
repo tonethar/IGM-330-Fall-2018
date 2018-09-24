@@ -11,6 +11,7 @@
   
 **Audio Viz Specifically:**
 - https://medium.com/@delu/a-perceptually-meaningful-audio-visualizer-ee72051781bc (some practical tips)
+- https://www.awwwards.com/awwwards/collections/web-audio-api-and-adio-visualization/ (really nice examples!)
 - https://99designs.com/blog/design-other/sound-visualization-design-inspiration/ (cool, but out there!)
 
 
