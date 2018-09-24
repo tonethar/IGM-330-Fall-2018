@@ -7,7 +7,7 @@
 - [Week 02 (Sep 03) : Intro to Canvas Drawing API & Affine Transforms](#week2)
 - [Week 03 (Sep 10) : More Canvas & Drawing Images & Blending Modes](#week3)
 - [Week 04 (Sep 17) : WebAudio API & Manipulating Bitmap data](#week4)
-- [Week 05 (Sep 24) : Drawing Sprites](#week5)
+- [Week 05 (Sep 24) : Working on Audio Visualizer](#week5)
 - [Week 06 (Oct 01) : ES6 Classes](#week6)
 - [Week 07 (Oct 08) : Code Modules/Transpiling & October Break](#week7)
 - [Week 08 (Oct 15) : Catchup,Review & Midterm Exam](#week8)
@@ -39,8 +39,9 @@
   - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
  
   
-## <a id="week5">Week 5 : Drawing Sprites
-  
+## <a id="week5">Week 5 : Working on Audio Visulaizer Project
+  - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
+  - [Week 5B - Looking at Audio Visulizer Prototypes](weekly/week-05B-notes.md)
  
   
 ## <a id="week6">Week 6 : ES6 Classes
