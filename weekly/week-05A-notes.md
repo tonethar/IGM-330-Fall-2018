@@ -8,9 +8,9 @@
 
 ## III. Presentation
 - What makes for an effective audio visualization?
-  - there should be an analogous relationship between the sound data and what people are seeing on the screen - drawing should not be random like our "screen savers" at the beginning on the semester were. Can you instead help your viewer make new connections, and see new patterns, such as:
-    - see the "beat"
-    - voices are in the low frequencies
+  - there should be an analogous relationship between the sound data and what people are seeing on the screen - drawing should not be random like our "screen savers" at the beginning on the semester were. Can you instead help your viewer **learn** about sound & music by making new connections, and seeing new patterns, such as:
+    - visualizing the "beat"
+    - human voices fal into the lower frequencies
     - electronic instruments have a different "shape" than natural instruments
   - have a good "starting state" to your visualization - the controls should be pre-set to where the visualization has a pleasing state when the user first opens it. Here's a good example of this: https://mcs2515.github.io/Magical_Visualizer/#
   - don't bore the user - have the visualization periodically change in major ways, automatically
