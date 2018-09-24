@@ -13,7 +13,8 @@
   - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md) - *there is no dropbox for this and it will not be collected. But this is where some very helpful info on adding audio effect nodes to the visualizer (which is a requirement of the final project submission) is given to you.*
   
 ## III. Examples
-Here are some examples from last semester:
+Here are some examples from last year (most run best in Chrome):
+  - https://mcs2515.github.io/Magical_Visualizer/#
   - https://people.rit.edu/lpn4937/330/project1/audioVisualizer.html
   - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
   - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
