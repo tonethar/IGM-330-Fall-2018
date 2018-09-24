@@ -1,9 +1,17 @@
-# Week 5A - Drawing Sprites
+# Week 5A - Tuning up our Audio Visualizers
 
 ## I. Overview
 
 
 ## II. Required Reading & Assignments
+
+**Data Viz in General:**
+  - https://datavizcatalogue.com
+  - https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
+  
+** Audio Viz Specifically:**
+- https://medium.com/@delu/a-perceptually-meaningful-audio-visualizer-ee72051781bc (some practical tips)
+- https://99designs.com/blog/design-other/sound-visualization-design-inspiration/ (cool, but out there!)
 
 
 ## III. Presentation
