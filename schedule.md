@@ -39,9 +39,9 @@
   - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
  
   
-## <a id="week5">Week 5 : Working on Audio Visulaizer Project
+## <a id="week5">Week 5 : Working on Audio Visualizer Project
   - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
-  - [Week 5B - Looking at Audio Visulizer Prototypes](weekly/week-05B-notes.md)
+  - [Week 5B - Looking at Audio Visualizer Prototypes](weekly/week-05B-notes.md)
  
   
 ## <a id="week6">Week 6 : ES6 Classes
