@@ -1,7 +1,7 @@
 # Week 5A - Tuning up our Audio Visualizers
 
 ## I. Overview
-Today we'll discuss some potential enhancements to our audio visualizer projects. 
+Today we'll discuss some potential enhancements to our audio visualizer project - [Project 1 - Audio Visualizer](../projects/project-1.md)
 
 ## II. Required Reading & Assignments
 
