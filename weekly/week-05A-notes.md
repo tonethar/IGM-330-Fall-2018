@@ -23,9 +23,13 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
     - electronic instruments have a different "shape" than natural instruments
   - have a good "starting state" to your visualization - the controls should be pre-set to where the visualization has a pleasing state when the user first opens it. Here's a good example of this: https://mcs2515.github.io/Magical_Visualizer/#
   - don't bore the user - have the visualization periodically change in major ways, automatically. Here's an example: http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
-  - give the user controls (sliders, check boxes, pull downs) to effect the visualization
-- Other tips:
-  - on project 1, 
+  - give the user controls (sliders, check boxes, pull downs) to effect the visualization. The relationship between what the controls do and what happens on the screen should be obvious
+- Other tips for project 1:
+  - you will only get credit for code that goes beyond what was given to you in the exercises. For example, a "lines" checkbox (from Audio Viz II) was done for you and adds nothing to most visualizations.
+  - the circles from Audio Viz I should not be a component of your finished version - you should be looking to create something new and unique
+  - try to do something interesting for the "curves" requirement - not just a single bouncing control point - here's an example: http://igm.rit.edu/~acjvks/courses/2018-spring/330/code-examples/viz/web-audio-4B-demo/three-spirographs.html
+  - the UI should follow general CRAP principles covered elsewhere
+
 
 ## IV. Demo
 - Today's demo, where we add multiple controllable audio effect nodes to a previous demos, is stepped through here: [demo-more-web-audio.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-more-web-audio.md)
