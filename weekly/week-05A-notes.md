@@ -37,6 +37,8 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 
 ## V. Review Questions
 
+- We covered these concepts last week
+
 ### V-A. Web Audio
 1. The connections between the audio nodes in the Web Audio API is commonly visualized as a ___________
 2. True or False. An *analyser node* modifies the audio data
@@ -48,6 +50,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 ### V-B. Bitmap Data
 1. Suppose your canvas is has dimensions of 500 x 500 pixels. How many elements will be in the *typed array* you get back from `ctx.getImageData(0, 0, canvasWidth, canvasHeight)`
 1. Why do we step through the image data array 4 elements at a time?
+1. Describe how to implement a *brightness* filter
 
 ### V-C. Other
 1. What does **IIFE** stand for?
