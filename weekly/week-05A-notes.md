@@ -33,14 +33,14 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 
 
 ## IV. Demo
-- Today's demo, where we add multiple controllable audio effect nodes to a previous demos, is stepped through here: [demo-more-web-audio.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-more-web-audio.md)
+- Today's demo, where we add multiple controllable audio effect nodes to a previous demo, is detailed here: [demo-more-web-audio.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-more-web-audio.md)
 
 ## V. Review Questions
 
 - We covered these concepts last week
 
 ### V-A. Web Audio
-1. The connections between the audio nodes in the Web Audio API is commonly visualized as a ___________
+1. Web Audio API nodes and their connections are commonly visualized as a ___________
 1. True or False. An *analyser node* modifies the audio data
 1. If we request 32 samples from a sound, how many elements will be present in the typed array we get back?
 1. Give 3 differences between a typical JS Array created with `[]`, and a JS *typed array* such as a `Uint8Array`
@@ -56,9 +56,6 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 ### V-C. Other
 1. What does **IIFE** stand for?
 1. What is the primary benefit of using an IIFE in your JS code?
-
-
-
 
 <hr><hr>
 
