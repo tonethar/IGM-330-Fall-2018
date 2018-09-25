@@ -9,7 +9,7 @@
 - [Week 04 (Sep 17) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Sep 24) : Working on Audio Visualizer](#week5)
 - [Week 06 (Oct 01) : JavaScript Revealing Module Pattern & AV Project Due](#week6)
-- [Week 07 (Oct 08) : Code Modules/Transpiling & October Break](#week7)
+- [Week 07 (Oct 08) : ES6 Classes/Code Modules & October Break](#week7)
 - [Week 08 (Oct 15) : Catchup,Review & Midterm Exam](#week8)
 - [Week 09 (Oct 22) : TBA](#week9)
 - [Week 10 (Oct 29) : TBA](#week10)
@@ -22,7 +22,6 @@
 
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
-  
   - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
   - [Week 1B - Canvas Demo](weekly/week-01B-notes.md)
   
@@ -38,18 +37,16 @@
   - [Week 4A - Web Audio API](weekly/week-04A-notes.md)
   - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
  
-  
 ## <a id="week5">Week 5 : Working on Audio Visualizer Project
   - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
   - [Week 5B - Looking at Audio Visualizer Prototypes](weekly/week-05B-notes.md)
  
-  
-## <a id="week6">Week 6 : ES6 Classes
+## <a id="week6">Week 6 : JavaScript Revealing Module Pattern & AV Project Due
   - [Week 6A - JavaScript Revealing Module Pattern](weekly/week-06A-notes.md)
   - [Week 6B - Audio Visualizer Projects Due](weekly/week-06B-notes.md)
  
-## <a id="week7">Week 7 : Code Modules & Transpiling
-   
+## <a id="week7">Week 7 : ES6 Classes/Code Modules
+  - [Week 7 - JavaScript Revealing Module Pattern](weekly/week-07-notes.md)
  
  
 ## <a id="week8">Week 8 : Catchup & Midterm Exam
