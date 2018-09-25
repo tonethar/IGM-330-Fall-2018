@@ -41,11 +41,12 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 
 ### V-A. Web Audio
 1. The connections between the audio nodes in the Web Audio API is commonly visualized as a ___________
-2. True or False. An *analyser node* modifies the audio data
-3. If we request 32 samples from a sound, how many elements will be present in the typed array we get back?
-4. Give 3 differences between a typical JS Array created with `[]`, and a JS *typed array* such as a `Uint8Array`
-5. Give 3 possible sources for a "source node"
-6. What does a "destination node" typically point at?
+1. True or False. An *analyser node* modifies the audio data
+1. If we request 32 samples from a sound, how many elements will be present in the typed array we get back?
+1. Give 3 differences between a typical JS Array created with `[]`, and a JS *typed array* such as a `Uint8Array`
+1. What is an `OscillatorNode`
+1. Give 3 possible sources for a "source node"
+1. What does a "destination node" typically point at?
 
 ### V-B. Bitmap Data
 1. Suppose your canvas is has dimensions of 500 x 500 pixels. How many elements will be in the *typed array* you get back from `ctx.getImageData(0, 0, canvasWidth, canvasHeight)`
