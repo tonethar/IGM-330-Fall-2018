@@ -1,4 +1,4 @@
-# Week 6A - JS Revealing Module Pattern
+# Week 6A - JavaScript Revealing Module Pattern
 
 ## I. Overview
 
