@@ -8,7 +8,7 @@
 - [Week 03 (Sep 10) : More Canvas & Drawing Images & Blending Modes](#week3)
 - [Week 04 (Sep 17) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Sep 24) : Working on Audio Visualizer](#week5)
-- [Week 06 (Oct 01) : ES6 Classes](#week6)
+- [Week 06 (Oct 01) : JavaScript Revealing Module Pattern](#week6)
 - [Week 07 (Oct 08) : Code Modules/Transpiling & October Break](#week7)
 - [Week 08 (Oct 15) : Catchup,Review & Midterm Exam](#week8)
 - [Week 09 (Oct 22) : TBA](#week9)
