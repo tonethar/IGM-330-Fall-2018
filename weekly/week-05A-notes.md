@@ -16,7 +16,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 
 
 ## III. Presentation
-- **What makes for an effective audio visualization?**
+- ***What makes for an effective audio visualization?***
   - there should be an analogous relationship between the sound data and what people are seeing on the screen - drawing should not be random like our "screen savers" at the beginning on the semester were. Can you instead help your viewer **learn** about sound & music by making new connections, and seeing new patterns, such as:
     - visualizing the "beat"
     - human voices fall into the lower frequencies
@@ -24,7 +24,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
   - have a good "starting state" to your visualization - the controls should be pre-set to where the visualization has a pleasing state when the user first opens it. Here's a good example of this: https://mcs2515.github.io/Magical_Visualizer/#
   - don't bore the user - have the visualization periodically change in major ways, automatically. Here's an example: http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
   - give the user controls (sliders, check boxes, pull downs) to effect the visualization. The relationship between what the controls do and what happens on the screen should be obvious
-- Other tips for project 1:
+- ***Other tips for project 1***:
   - you will only get credit for code that goes beyond what was given to you in the exercises. For example, a "lines" checkbox (from Audio Viz II) was done for you and adds nothing to most visualizations.
   - the circles from Audio Viz I should not be a component of your finished version - you should be looking to create something new and unique
   - try to do something interesting for the "curves" requirement - not just a single bouncing control point - here's an example done entirely with `ctx.bezierCurveTo()`: http://igm.rit.edu/~acjvks/courses/2018-spring/330/code-examples/viz/web-audio-4B-demo/three-spirographs.html
