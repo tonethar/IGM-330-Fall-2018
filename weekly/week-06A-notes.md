@@ -1,4 +1,4 @@
-# Week 6A - ES6 Classes
+# Week 6A - JS Revealing Module Pattern
 
 ## I. Overview
 
