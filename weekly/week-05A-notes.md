@@ -3,7 +3,29 @@
 ## I. Overview
 Today we'll discuss some potential enhancements to our audio visualizer project - [Project 1 - Audio Visualizer](../projects/project-1.md)
 
-## II. Required Reading & Assignments
+## II. Review Questions
+
+- We covered these concepts last week
+
+### II-A. Web Audio
+1. Web Audio API nodes and their connections are commonly visualized as a ___________
+1. True or False. An *analyser node* modifies the audio data
+1. If we request 32 samples from a sound, how many elements will be present in the typed array we get back?
+1. Give 3 differences between a typical JS Array created with `[]`, and a JS *typed array* such as a `Uint8Array`
+1. What is an [`OscillatorNode`](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)?
+1. Give 3 possible sources for a "source node"
+1. What does a "destination node" typically point at?
+
+### II-B. Bitmap Data
+1. Suppose your canvas is has dimensions of 500 x 500 pixels. How many elements will be in the *typed array* you get back from `ctx.getImageData(0, 0, canvasWidth, canvasHeight)`
+1. Why do we step through the image data array 4 elements at a time?
+1. Describe how to implement a *brightness* filter
+
+### II-C. Other
+1. What does **IIFE** stand for?
+1. What is the primary benefit of using an IIFE in your JS code?
+
+## III. Required Reading & Assignments
 
 **Data Viz in General:**
   - https://datavizcatalogue.com
@@ -15,7 +37,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 - https://99designs.com/blog/design-other/sound-visualization-design-inspiration/ (cool, but out there!)
 
 
-## III. Presentation
+## IV. Presentation
 - ***What makes for an effective audio visualization?***
   - there should be an analogous relationship between the sound data and what people are seeing on the screen - drawing should not be random like our "screen savers" at the beginning on the semester were. Can you instead help your viewer **learn** about sound & music by making new connections, and seeing new patterns, such as:
     - visualizing the "beat"
@@ -32,30 +54,9 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
   - you MAY use a library for your UI such as **dat.gui.js**, which is a popular lightweight GUI library  -> https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
 
 
-## IV. Demo
+## V. Demo
 - Today's demo, where we add multiple controllable audio effect nodes to a previous demo, is detailed here: [demo-more-web-audio.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-more-web-audio.md)
 
-## V. Review Questions
-
-- We covered these concepts last week
-
-### V-A. Web Audio
-1. Web Audio API nodes and their connections are commonly visualized as a ___________
-1. True or False. An *analyser node* modifies the audio data
-1. If we request 32 samples from a sound, how many elements will be present in the typed array we get back?
-1. Give 3 differences between a typical JS Array created with `[]`, and a JS *typed array* such as a `Uint8Array`
-1. What is an [`OscillatorNode`](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)?
-1. Give 3 possible sources for a "source node"
-1. What does a "destination node" typically point at?
-
-### V-B. Bitmap Data
-1. Suppose your canvas is has dimensions of 500 x 500 pixels. How many elements will be in the *typed array* you get back from `ctx.getImageData(0, 0, canvasWidth, canvasHeight)`
-1. Why do we step through the image data array 4 elements at a time?
-1. Describe how to implement a *brightness* filter
-
-### V-C. Other
-1. What does **IIFE** stand for?
-1. What is the primary benefit of using an IIFE in your JS code?
 
 <hr><hr>
 
