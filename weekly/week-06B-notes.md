@@ -1,4 +1,4 @@
-# Week 6B - Project 1 Final
+# Week 6B - Project 1 Final Due
 
 ## I. Overview
 
