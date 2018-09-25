@@ -29,6 +29,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
   - the circles from Audio Viz I should not be a component of your finished version - you should be looking to create something new and unique
   - try to do something interesting for the "curves" requirement - not just a single bouncing control point - here's an example done entirely with `ctx.bezierCurveTo()`: http://igm.rit.edu/~acjvks/courses/2018-spring/330/code-examples/viz/web-audio-4B-demo/three-spirographs.html
   - the UI should follow general CRAP principles covered elsewhere
+  - you MAY use a library for your UI like **dat.gui** -> https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
 
 
 ## IV. Demo
