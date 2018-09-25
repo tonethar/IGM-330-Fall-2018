@@ -45,9 +45,9 @@
  
   
 ## <a id="week6">Week 6 : ES6 Classes
-  
+  - [Week 6A - JavaScript Revealing Module Pattern](weekly/week-06A-notes.md)
+  - [Week 6B - Audio Visualizer Projects Due](weekly/week-06B-notes.md)
  
-  
 ## <a id="week7">Week 7 : Code Modules & Transpiling
    
  
