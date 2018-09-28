@@ -1,4 +1,4 @@
-# Week 7 - TBA
+# Week 7 - Intro to ES6 Classes and Modules
 
 ## I. Overview
 - We are moving into a new part of the course, and preparing for Project 2 - *Web Game or Experience*
