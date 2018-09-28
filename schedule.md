@@ -50,7 +50,8 @@
  
  
 ## <a id="week8">Week 8 : Catchup & Midterm Exam
-   - [Week 8 - More ES6 Classes and Modules](weekly/week-08-notes.md)
+  - [Week 8 - More ES6 Classes and Modules](weekly/week-08A-notes.md)
+  - [Week 8 - Midterm Exam](weekly/week-08B-notes.md)
   
 The midterm exam will given the last class meeting of week 8
   
