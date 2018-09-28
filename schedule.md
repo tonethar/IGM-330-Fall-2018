@@ -46,10 +46,11 @@
   - [Week 6B - Audio Visualizer Projects Due](weekly/week-06B-notes.md)
  
 ## <a id="week7">Week 7 : ES6 Classes/Code Modules
-  - [Week 7 - JavaScript Revealing Module Pattern](weekly/week-07-notes.md)
+  - [Week 7 - Intro to ES6 Classes and Modules](weekly/week-07-notes.md)
  
  
 ## <a id="week8">Week 8 : Catchup & Midterm Exam
+   - [Week 8 - More ES6 Classes and Modules](weekly/week-08-notes.md)
   
 The midterm exam will given the last class meeting of week 8
   
