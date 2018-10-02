@@ -2,7 +2,7 @@
 
 ## I. Overview
 - catch up
-- Look at Audio Visualizer Prototypes
+- Look at [Audio Visualizer Prototypes](http://igm.rit.edu/~acjvks/courses/2018-spring/330/html/project-1/)
 
 
 
