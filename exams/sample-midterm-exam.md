@@ -225,19 +225,19 @@ x = {name: "Jane"};
 
 <hr/>
 
-26. Write a line of code that sets the fill style of canvas to green. Assume the canvas drawing context object is in scope and named `ctx`
+26. Write a single line of code that sets the fill style of canvas to green. Assume the canvas drawing context object is in scope and named `ctx`
 
 <hr/>
 
-27. Write a line of code that sets the stroke style of canvas to red. Assume the canvas drawing context object is in scope and named `ctx`
+27. Write a single line of code that sets the stroke style of canvas to red. Assume the canvas drawing context object is in scope and named `ctx`
 
 <hr/>
 
-28. Write a line of code that draws a 200 wide, 200 high rectangle at (100,150) in canvas. Assume the canvas drawing context object is in scope and named `ctx`
+28. Write code that *fills* a 200 wide, 200 high rectangle at (100,150) path in canvas - do NOT use the the `ctx.fillRect()` convenience method.  Assume the canvas drawing context object is in scope and named `ctx`
 
 <hr/>
 
-29. Write a line of code that draws a circle in canvas at (100,150) that has a radius of 50. Assume the canvas drawing context object is in scope named `ctx`
+29. Write a line of code that *strokes* a circle path in canvas at (100,150) that has a radius of 50. Assume the canvas drawing context object is in scope and named `ctx`
 
 <hr/>
 
@@ -278,7 +278,7 @@ ctx.fillRect(20,20,100,100);
 
 <hr/>
 
-35. Is canvas raster or vector based?
+35. Is canvas *raster* or *vector* based?
 
 <hr/>
 
