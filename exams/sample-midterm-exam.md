@@ -280,7 +280,11 @@ ctx.fillRect(20,20,100,100);
 
 <hr/>
 
-38. **Interview-style question:**
+38. Describe the difference between what we see in the Chrome web browser when we "View Page Source" versus when we "Inspect" a page with the Web Inspector
+
+<hr/>
+
+39. **Interview-style question:**
 
 Given the following `odds` array, write JS code that will iterate over the `odds` array, add all even numbers to the `evens` array and remove the even numbers from the `odds` array. 
 The final version of the `odds` array should only contain odd numbers. The final version of the `evens` array should only contain the even numbers
@@ -292,7 +296,7 @@ let  evens = [ ];
 
 <hr/>
 
-39. **Interview-style question:**
+40. **Interview-style question:**
 
 There are five buckets of water. Each bucket can contain 1, 2, 3, 4 or 5 ounces of water. The number of ounces in each bucket is tracked sequentially by the buckets array. Write JS code to find which buckets have at least a 2 ounce difference from the bucket before them AND the bucket after them, then print it out. 
 
