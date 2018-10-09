@@ -2,7 +2,9 @@
 
 Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
 
-1. The following code throws the error **`Uncaught TypeError: Cannot set property 'innerHTML' of null.`** Why does this error occur and how do you fix it?
+1. See IGME-230 sample questions [here - Section III-B and onward](https://github.com/tonethar/IGME-230-GDD-2018-Spring/blob/master/notes/final-exam-review.md)
+
+2. The following code throws the error **`Uncaught TypeError: Cannot set property 'innerHTML' of null.`** Why does this error occur and how do you fix it?
 
 ```html
 <!DOCTYPE html>
@@ -26,21 +28,13 @@ Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript 
 ```
 
 
-2. Explain what `"use strict"` does in JavaScript
+3. Explain what `"use strict"` does in JavaScript
 
 
-3. Write a JavaScript function called multiply that accepts two numbers as arguments. This function will multiply the two numbers together and return the result
+4. Write a JavaScript function named `multiply` that accepts two numbers as arguments. This function will multiply the two numbers together and return the result
 
 - now write this function as an ES6 arrow function
 
-
-4. Given the following `odds` array, write JS code that will iterate over the `odds` array, add all even numbers to the `evens` array and remove the even numbers from the `odds` array. 
-The final version of the `odds` array should only contain odd numbers. The final version of the `evens` array should only contain the even numbers
-
-```js
-let  odds  = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ];
-let  evens = [ ];
-```
 
 5. Given a page that has a button with an id value of `button1`, write JS code to attach a `click` event to the button. When the button is clicked, the function should print "I was clicked"
 
@@ -112,7 +106,7 @@ C)	Instance
 D)	Property
 
 
-10.	 What does `Object.seal()` do and when would you use it?
+10. What does `Object.seal()` do and when would you use it?
 
 
 11. What does `Object.freeze()` do and when would you use it?
@@ -121,7 +115,7 @@ D)	Property
 12. What types of legal values can be put into a standard JS array created with `[ ]` or `new Array()`?
 
 
-13.	What legal values can be put into a typed array created with `new Uint8Array(1024)`?
+13. What legal values can be put into a typed array created with `new Uint8Array(1024)`?
 
 
 **For questions 14 - 17, use this object:**
@@ -240,7 +234,24 @@ ctx.fillRect(20,20,100,100);
 35. Is canvas raster or vector based?
 
 
-36. **Interview-style question:**
+36. Explain `Object.create()` and *prototypical inheritance*
+
+
+37. Explain what `Object.assign()` does
+
+
+38. **Interview-style question:**
+
+Given the following `odds` array, write JS code that will iterate over the `odds` array, add all even numbers to the `evens` array and remove the even numbers from the `odds` array. 
+The final version of the `odds` array should only contain odd numbers. The final version of the `evens` array should only contain the even numbers
+
+```js
+let  odds  = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ];
+let  evens = [ ];
+```
+
+
+39. **Interview-style question:**
 
 There are five buckets of water. Each bucket can contain 1, 2, 3, 4 or 5 ounces of water. The number of ounces in each bucket is tracked sequentially by the buckets array. Write JS code to find which buckets have at least a 2 ounce difference from the bucket before them AND the bucket after them, then print it out. 
 
@@ -251,8 +262,3 @@ Your code should work regardless of the numbers in this array, but the correct a
 ```js
 let  buckets  = [ 3, 4, 2, 5, 1 ];
 ```
-
-37. Explain `Object.create()` and *prototypical inheritance*
-
-
-38. Explain what `Object.assign()` does
