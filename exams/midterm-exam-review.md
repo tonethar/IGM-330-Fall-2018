@@ -31,7 +31,9 @@
   - Week 4A Notes
 
 ## IV. Sample Questions
-- 
+- [sample-midterm-exam.md](./sample-midterm-exam.md)
+- [week-02A-notes.md#review-questions](../weekly/week-02A-notes.md#review-questions)
+- [week-02A-notes.md#review-questions](../weekly/week-02A-notes.md#review-questions)
 
 ## V. Topics
 
