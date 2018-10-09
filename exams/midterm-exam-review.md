@@ -37,6 +37,7 @@
 ## V. Topics
 
 ### A. Canvas 
+- Obtaining a drawing context obejct
 - Drawing State Variables
 - Drawing State Stack - `ctx.save()` and `ctx.restore()`
 - Commonly used methods for drawing rectangles, ovals, lines, curves, etc:
