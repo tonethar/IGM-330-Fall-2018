@@ -84,3 +84,4 @@
 - anonymous functions
 - ES6 arrow functions
 - looping through arrays
+- passing data from HTML elements [HW-shape-viewer.md](../notes/HW-shape-viewer.md)
