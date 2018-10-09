@@ -63,6 +63,7 @@
 - JS Typed Arrays
 
 ### D. DOM
+**A lot of this was covered in our week 1A demo**
 - `querySelector(`) & `querySelectorAll()`
 - event handlers and listeners
 - working with buttons & form fields
