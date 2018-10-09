@@ -33,17 +33,21 @@ Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript 
 
 3. Explain what `"use strict"` does in JavaScript
 
+<hr/>
 
 4. Write a JavaScript function named `multiply` that accepts two numbers as arguments. This function will multiply the two numbers together and return the result
 
 - now write this function as an ES6 arrow function
 
+<hr/>
 
 5. Given a page that has a button with an id value of `button1`, write JS code to attach a `click` event to the button. When the button is clicked, the function should print "I was clicked"
 
+<hr/>
 
 6. Given a page that has a select box with the id “dropdown1”, write JS code to attach a change event to the select box. When the dropdown value is changed, your function should print the current value of the dropdown.
 
+<hr/>
 
 7. In the following example, `myNum` is which of the following types of variables? 
 
@@ -67,6 +71,7 @@ C)	Script
 
 D)	Property
 
+<hr/>
 
 8. In the following example, `myNum` is which of the following types of variables? 
 
@@ -89,6 +94,7 @@ C)	Script
 
 D)	Property
 
+<hr/>
 
 9. In the following example, myNum is which of the following types of variables? 
 
@@ -108,18 +114,23 @@ C)	Instance
 
 D)	Property
 
+<hr/>
 
 10. What does `Object.seal()` do and when would you use it?
 
+<hr/>
 
 11. What does `Object.freeze()` do and when would you use it?
 
+<hr/>
 
 12. What types of legal values can be put into a standard JS array created with `[ ]` or `new Array()`?
 
+<hr/>
 
 13. What legal values can be put into a typed array created with `new Uint8Array(1024)`?
 
+<hr/>
 
 **For questions 14 - 17, use this object:**
 
@@ -140,6 +151,7 @@ let obj = {
 console.log(obj.speed);
 ```
 
+<hr/>
 
 15. What will be the output of this code?
 
@@ -148,6 +160,7 @@ obj.speed = 10;
 console.log(obj.speed);
 ```
 
+<hr/>
 
 16. What will be the output of this code?
 
@@ -156,9 +169,11 @@ obj.move();
 console.log(obj.x);
 ```
 
+<hr/>
 
 17. Write JS code that adds a function called `moveBack()` to `obj` that decreases obj's `x` and `y` values by 1
 
+<hr/>
 
 18. Is this legal or will it cause an error?
 
@@ -168,45 +183,59 @@ x.name = "Mary";
 x = {name: "Jane"};
 ```
 
+<hr/>
 
 19. What is an immediately invoked function expression (IIFE – pronounced "iffy") and what is the rimary advantage of using one? 
 
+<hr/>
 
 20. Write an example of an immediately invoked function expression (IIFE – pronounced "iffy") below
 
+<hr/>
 
 21. What are some advantages of using the *JavaScript ES5 revealing module pattern*?
 
+<hr/>
 
 22. Convert `obj` in question #14 above to an ES6 class named `Mover`. Give it a constructor that takes `x` and `y` as values. Give it `move()` and `moveBack()` methods
 
+<hr/>
 
 23. Extend the `Mover` class with a class named `RoadRunner`. The `RoadRunner` constructor accepts `x`, `y` and `speed` arguments. Give it a `beepBeep()` method that logs out "Beep Beep!" when called. 
 
+<hr/>
 
 24. Create an object literal named `car` that has the properties `color`, `speed` and `drive`. `color` should be set to red. `speed` should be set to `0`. `drive` should be a function that changes `speed` to `55`.
 
+<hr/>
 
 25. Why did we use a second canvas in the Paint ICE?
 
+<hr/>
 
 26. Write a line of code that sets the fill style of canvas to green. Assume the canvas drawing context object is in scope and named `ctx`
 
+<hr/>
 
 27. Write a line of code that sets the stroke style of canvas to red. Assume the canvas drawing context object is in scope and named `ctx`
 
+<hr/>
 
 28. Write a line of code that draws a 200 wide, 200 high rectangle at (100,150) in canvas. Assume the canvas drawing context object is in scope and named `ctx`
 
+<hr/>
 
 29. Write a line of code that draws a circle in canvas at (100,150) that has a radius of 50. Assume the canvas drawing context object is in scope named `ctx`
 
+<hr/>
 
 30. Write a line of code that rotates the canvas context by 2 radians. Assume the canvas drawing context object is in scope and named `ctx`
 
+<hr/>
 
 31. Describe what `ctx.save()` and `ctx.restore()` do in canvas?
 
+<hr/>
 
 32. Given the following code, what color will the rectangle be on canvas?
 
@@ -227,21 +256,27 @@ ctx.restore();
 ctx.fillRect(20,20,100,100);
 ```
 
+<hr/>
 
 33. Describe the characteristics of *raster-based* images?
 
+<hr/>
 
 34. Describe the characteristics of *vector-based* images?
 
+<hr/>
 
 35. Is canvas raster or vector based?
 
+<hr/>
 
 36. Explain `Object.create()` and *prototypical inheritance*
 
+<hr/>
 
 37. Explain what `Object.assign()` does
 
+<hr/>
 
 38. **Interview-style question:**
 
@@ -253,6 +288,7 @@ let  odds  = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ];
 let  evens = [ ];
 ```
 
+<hr/>
 
 39. **Interview-style question:**
 
