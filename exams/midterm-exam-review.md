@@ -25,7 +25,7 @@
   - An intro to ES6 classes is here: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-2.md
 - Links to all of the lecture videos have been posted to mycourses
 - All of our weekly notes beginning with [week-01A-notes.md](weekly/week-01A-notes.md)
-- All of our in-class exercises and HW assignemnts - which are linked from the weekly notes above
+- All of our in-class exercises and HW assignments - which are linked from the weekly notes above
 
 ## IV. Sample Questions
 - [sample-midterm-exam.md](./sample-midterm-exam.md)
@@ -36,9 +36,9 @@
 ## V. Topics
 
 ### A. Canvas 
-- Transformations & CTM
 - Drawing State Variables
 - Drawing State Stack - `ctx.save()` and `ctx.restore()`
+- Canvas Transformations & CTM
 - Commonly used methods for drawing rectangles, ovals, lines, curves, etc
 
 ### B. Image Manipulation
