@@ -2,7 +2,7 @@
 
 Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
 
-1. The following code throws the error Uncaught TypeError: Cannot set property 'innerHTML' of null. Why does this error occur and how do you fix it?
+1. The following code throws the error **`Uncaught TypeError: Cannot set property 'innerHTML' of null.`** Why does this error occur and how do you fix it?
 
 ```html
 <!DOCTYPE html>
@@ -160,10 +160,10 @@ console.log(obj.x);
 ```
 
 
-17.	Write JS code that adds a function called `moveBack()` to `obj` that decreases obj's `x` and `y` values by 1.
+17. Write JS code that adds a function called `moveBack()` to `obj` that decreases obj's `x` and `y` values by 1
 
 
-18.	 Is this legal or will it cause an error?
+18. Is this legal or will it cause an error?
 
 ```js
 const x = {name: "Fred"};
@@ -172,148 +172,48 @@ x = {name: "Jane"};
 ```
 
 
-19.	What is an immediately invoked function expression (IIFE – pronounced "iffy") and what is the rimary advantage of using one? 
+19. What is an immediately invoked function expression (IIFE – pronounced "iffy") and what is the rimary advantage of using one? 
 
 
-20.	Write an example of an immediately invoked function expression (IIFE – pronounced "iffy") below. 
+20. Write an example of an immediately invoked function expression (IIFE – pronounced "iffy") below
 
 
-21)	What are some advantages of using JavaScript modules? (both ES5 & ES6)
+21. What are some advantages of using the *JavaScript ES5 revealing module pattern*?
 
 
+22. Convert `obj` in question #14 above to an ES6 class named `Mover`. Give it a constructor that takes `x` and `y` as values. Give it `move()` and `moveBack()` methods
 
 
+23. Extend the `Mover` class with a class named `RoadRunner`. The `RoadRunner` constructor accepts `x`, `y` and `speed` arguments. Give it a `beepBeep()` method that logs out "Beep Beep!" when called. 
 
 
+24. Create an object literal named `car` that has the properties `color`, `speed` and `drive`. `color` should be set to red. `speed` should be set to `0`. `drive` should be a function that changes `speed` to `55`.
 
 
+25. Why did we use a second canvas in the Paint ICE?
 
 
+26. Write a line of code that sets the fill style of canvas to green. Assume the canvas drawing context object is in scope and named `ctx`
 
 
+27. Write a line of code that sets the stroke style of canvas to red. Assume the canvas drawing context object is in scope and named `ctx`
 
 
-22)	 Convert obj in question #14 above to an ES6 class named Mover. Give it a constructor that takes x and y as values. Give it move() and moveBack() methods.
+28. Write a line of code that draws a 200 wide, 200 high rectangle at (100,150) in canvas. Assume the canvas drawing context object is in scope and named `ctx`
 
 
+29. Write a line of code that draws a circle in canvas at (100,150) that has a radius of 50. Assume the canvas drawing context object is in scope named `ctx`
 
 
+30. Write a line of code that rotates the canvas context by 2 radians. Assume the canvas drawing context object is in scope and named `ctx`
 
 
+31. Describe what `ctx.save()` and `ctx.restore()` do in canvas?
 
 
+32. Given the following code, what color will the rectangle be on canvas?
 
-
-
-
-
-
-
-
-
-
-
-
-23)	 Extend the Mover class with a class named RoadRunner. The RoadRunner constructor accepts x, y and speed arguments. Give it a beepBeep() method that logs out “Beep Beep1” when called. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24)	 Create an object literal named car that has the properties color, speed and drive. Color should be set to red. Speed should be set to zero. Drive should be a function that changes speed to 55.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-25)	Why did we use a second canvas in the Paint ICE? What is an advantage of having multiple canvases sometimes?
-
-
-
-
-
-
-
-
-26)	Write a line of code that sets the fill style of canvas to green. Assume the 
- canvas context is in scope and called ctx.
-
-
-
-
-
-27)	Write a line of code that sets the stroke style of canvas to red. Assume the 
- canvas context is in scope and called ctx.
-
-
-
-
-28)	Write a line of code that draws a 200 wide, 200 high rectangle at 100x, 150y. Assume the canvas context is in scope and called ctx.
-
-
-
-
-
-29)	Write a line of code that creates a circle in canvas at 100x, 150y that has a radius of 50. Assume the canvas context is in scope called ctx.
-
-
-
-
- 
-30)	 Write a line of code that rotates the canvas context by 2 radians. Assume the 
- canvas context is in scope and called ctx.
-
-
-
-
-
-
- 
-31)	 What do ctx.save() and ctx.restore() do in canvas?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32)	 Given the following code, what color will the rectangle be on canvas?
-
+```js
 let canvas = document.querySelector('canvas');              	
 let ctx = canvas.getContext('2d');
  
@@ -328,48 +228,31 @@ ctx.fillStyle="yellow";
 ctx.restore();
 ctx.restore();
 ctx.fillRect(20,20,100,100);
+```
 
 
+33. Describe the characteristics of *raster-based* images?
 
 
+34. Describe the characteristics of *vector-based* images?
 
 
+35. Is canvas raster or vector based?
 
 
+36. **Interview-style question:**
 
-33)	 What are raster-based images?
-
-
-
-
-
-34)	What are vector-based images?
-
-
-
-
-
-
-35)	Is canvas raster or vector based?
-
-
-
-
-
-
-36)	There are five buckets of water. Each bucket can contain 1, 2, 3, 4 or 5 ounces of water. The number of ounces in each bucket is tracked sequentially by the buckets array. Write JS code to find which buckets have at least a 2 ounce difference from the bucket before them AND the bucket after them, then print it out. 
+There are five buckets of water. Each bucket can contain 1, 2, 3, 4 or 5 ounces of water. The number of ounces in each bucket is tracked sequentially by the buckets array. Write JS code to find which buckets have at least a 2 ounce difference from the bucket before them AND the bucket after them, then print it out. 
 
 The correct values in this example are 2 and 5. The bucket with 2 ounces has a two ounce difference from the previous bucket (4 ounces) and a three ounce difference from the following bucket (5 ounces). The bucket with 5 ounces has a three ounce difference from the previous bucket (2 ounces) and a four ounce difference from the following bucket (1 ounce).
 
 Your code should work regardless of the numbers in this array, but the correct answer is in this example is 2 and 5. 
 
+```js
 let  buckets  = [ 3, 4, 2, 5, 1 ];
+```
+
+37. Explain `Object.create()` and *prototypical inheritance*
 
 
-
-
-37)	 Explain Object.create() and prototypical inheritance
-
-
-
-38)	 Explain what Object.assign() does
+38. Explain what `Object.assign()` does
