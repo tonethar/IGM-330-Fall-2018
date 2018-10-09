@@ -73,4 +73,3 @@ Focus on:
 - anonymous functions
 - ES6 arrow functions
 - looping through arrays
-- interview questions
