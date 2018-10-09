@@ -1,4 +1,4 @@
-# Written Midterm Exam Notes
+# Midterm Exam Notes
 
 ## I. Overview
 
