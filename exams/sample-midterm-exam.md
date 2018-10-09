@@ -51,11 +51,11 @@
 
 <hr/>
 
-6. Given a page that has a select box with the id `dropdown1`, write JS code to attach a change event to the select box. When the chosen dropdown item is changed, your function should print the current `value` of the dropdown
+6. Given a page that has a select box with the id `dropdown1`, write JS code to attach a `change` event to the select box. When the chosen dropdown item is changed, your function should print the current `value` of the dropdown
 
 <hr/>
 
-7. In the following example, `myNum` is which kind of scope? 
+7. In the following example, `myNum` is in which kind of scope? 
 
 ```js
 <script>
@@ -81,7 +81,7 @@ E) Module
 
 <hr/>
 
-8. In the following example, `myNum` is which kind of scope? 
+8. In the following example, `myNum` is in which kind of scope? 
 
 ```js
 <script>
@@ -94,7 +94,7 @@ E) Module
 </script>
 ```
 
-A) Function
+A) Block
 
 B) Global
 
@@ -106,7 +106,7 @@ E) Module
 
 <hr/>
 
-9. In the following example, myNum is which kind of scope?
+9. In the following example, `myNum` is in which kind of scope?
 
 ```js
 <script>
@@ -116,7 +116,7 @@ E) Module
 </script>
 ```
 
-A) Function
+A) Block
 
 B) Global
 
@@ -124,7 +124,7 @@ C) Instance
 
 D) Property
 
-E) Block
+E) Function
 
 <hr/>
 
@@ -136,11 +136,11 @@ E) Block
 
 <hr/>
 
-12. What types of legal values can be put into a standard JS array created with `[ ]` or `new Array()`?
+12. What types of legal JS values can be put into a standard JS array created with `[ ]` or `new Array()`?
 
 <hr/>
 
-13. What legal values can be put into a typed array created with `new Uint8Array(1024)`?
+13. What legal JS values can be put into a typed array created with `new Uint8Array(1024)`?
 
 <hr/>
 
