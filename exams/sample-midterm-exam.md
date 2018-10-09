@@ -53,7 +53,7 @@
 
 <hr/>
 
-7. In the following example, `myNum` is which one of the following kind of scope? 
+7. In the following example, `myNum` is which kind of scope? 
 
 ```js
 <script>
@@ -67,17 +67,19 @@
 </script>
 ```
 
-A)	Local
+A) Function
 
-B)	Global
+B) Global
 
-C)	Script
+C) Script
 
-D)	Property
+D) Property
+
+E) Module
 
 <hr/>
 
-8. In the following example, `myNum` is which of the following types of variables? 
+8. In the following example, `myNum` is which kind of scope? 
 
 ```js
 <script>
@@ -90,17 +92,19 @@ D)	Property
 </script>
 ```
 
-A)	Local
+A) Function
 
-B)	Global
+B) Global
 
-C)	Script
+C) Script
 
-D)	Property
+D) Property
+
+E) Module
 
 <hr/>
 
-9. In the following example, myNum is which of the following types of variables? 
+9. In the following example, myNum is which kind of scope?
 
 ```js
 <script>
@@ -110,13 +114,15 @@ D)	Property
 </script>
 ```
 
-A)	Local
+A) Function
 
-B)	Global
+B) Global
 
-C)	Instance
+C) Instance
 
-D)	Property
+D) Property
+
+E) Block
 
 <hr/>
 
@@ -149,7 +155,7 @@ let obj = {
 }
 ```
 
-14.	 What will be the output of this code?
+14. What will be the output of this code?
 
 ```js
 console.log(obj.speed);
