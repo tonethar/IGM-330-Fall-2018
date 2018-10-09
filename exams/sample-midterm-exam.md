@@ -1,6 +1,8 @@
 # Sample IGME-330 Midterm Exam
 
-Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
+- **Note:** Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
+
+<hr/>
 
 1. See IGME-230 sample questions [here - Section III-B and onward](https://github.com/tonethar/IGME-230-GDD-2018-Spring/blob/master/notes/final-exam-review.md)
 
