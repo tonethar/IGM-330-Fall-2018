@@ -280,7 +280,7 @@ ctx.fillRect(20,20,100,100);
 
 <hr/>
 
-38. Describe the difference between what we see in the Chrome web browser when we "View Page Source" versus when we "Inspect" a page with the Web Inspector
+38. Describe the difference between what we see in the Chrome web browser when we "View Page Source" versus when we "Inspect" a page with the *Web Inspector*
 
 <hr/>
 
