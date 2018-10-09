@@ -4,6 +4,8 @@ Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript 
 
 1. See IGME-230 sample questions [here - Section III-B and onward](https://github.com/tonethar/IGME-230-GDD-2018-Spring/blob/master/notes/final-exam-review.md)
 
+<hr/>
+
 2. The following code throws the error **`Uncaught TypeError: Cannot set property 'innerHTML' of null.`** Why does this error occur and how do you fix it?
 
 ```html
@@ -27,6 +29,7 @@ Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript 
 </html>
 ```
 
+<hr/>
 
 3. Explain what `"use strict"` does in JavaScript
 
