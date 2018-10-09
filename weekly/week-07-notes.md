@@ -4,7 +4,7 @@
 - Monday 10/8 & Tuesday 10/9 we are on October Break
 - We are moving into a new part of the course, and preparing for Project 2 - *Web Game or Experience*
   - For this project you are going to build an interactive experience or game using modern JavaScript practices including ES6 classes & modules, and JS code *transpiling*
-- The midtern exam is next week! Here are some study resources:
+- The midterm exam is next week! Here are some study resources:
   - [exams/midterm-exam-review.md](../exams/midterm-exam-review.md)
   - [sample-midterm-exam.md](../exams/sample-midterm-exam.md)
 
