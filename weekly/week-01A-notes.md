@@ -46,7 +46,7 @@ Official description from SIS: *This course provides students the opportunity to
 ## VI. Presentation
 - [Course Overview (PDF)](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Course-Overview.pdf)
 
-## VII. Today's topic - JavaScript/DOM Review & Demo
+## VII. Today's topic - JavaScript/DOM Review & Demo <a id="review-questions"></a>
 
 - 1. What is JavaScript?
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
