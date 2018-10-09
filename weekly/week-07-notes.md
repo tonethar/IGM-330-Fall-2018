@@ -5,7 +5,7 @@
 - We are moving into a new part of the course, and preparing for Project 2 - *Web Game or Experience*
   - For this project you are going to build an interactive experience or game using modern JavaScript practices including ES6 classes & modules, and JS code *transpiling*
 - The midterm exam is next week! Here are some study resources:
-  - [exams/midterm-exam-review.md](../exams/midterm-exam-review.md)
+  - [midterm-exam-review.md](../exams/midterm-exam-review.md)
   - [sample-midterm-exam.md](../exams/sample-midterm-exam.md)
 
 ## II. Required Reading & Assignments
