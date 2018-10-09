@@ -20,13 +20,14 @@
 - "Write some code"
 
 ## III. Study Resources
-Focus on: 
-- SG-1 & SG-2
-- Week 1 PowerPoints
-- Shape Viewer ICE
-- Paint ICE
-- Audio Visualizer ICE
-- Week 4A Notes
+- Links to all of the lecture videos have been posted to mycourses
+- Focus on: 
+  - SG-1 & SG-2
+  - Week 1 PowerPoints
+  - Shape Viewer ICE
+  - Paint ICE
+  - Audio Visualizer ICE
+  - Week 4A Notes
 
 
 ## IV. Topics
