@@ -20,7 +20,7 @@ Note: Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript 
 </script>
 </head>
 <body>
-	<h1 id="main">  This is my my header </ h1>
+	<h1 id="main">This is my my header</ h1>
 </body>
 </html>
 ```
