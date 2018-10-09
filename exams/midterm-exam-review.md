@@ -21,6 +21,7 @@
 
 ## III. Study Resources
 - Links to all of the lecture videos have been posted to mycourses
+- All of our weekly notes begging with [week-01A-notes.md](weekly/week-01A-notes.md)
 - Focus on: 
   - SG-1 & SG-2
   - Week 1 PowerPoints
@@ -29,8 +30,10 @@
   - Audio Visualizer ICE
   - Week 4A Notes
 
+## IV. Sample Questions
+- 
 
-## IV. Topics
+## V. Topics
 
 ### A. Canvas 
 - Transformations & CTM
