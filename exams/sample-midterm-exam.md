@@ -1,5 +1,7 @@
 # Sample IGME-330 Midterm Exam
 
+***For multiple choice questions, choose the single best answer***
+
 - **Note:** Some of these JavaScript concepts are reviewed in the IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
 
 <hr/>
@@ -47,11 +49,11 @@
 
 <hr/>
 
-6. Given a page that has a select box with the id “dropdown1”, write JS code to attach a change event to the select box. When the dropdown value is changed, your function should print the current value of the dropdown.
+6. Given a page that has a select box with the id `dropdown1`, write JS code to attach a change event to the select box. When the chosen dropdown item is changed, your function should print the current `value` of the dropdown
 
 <hr/>
 
-7. In the following example, `myNum` is which of the following types of variables? 
+7. In the following example, `myNum` is which one of the following kind of scope? 
 
 ```js
 <script>
