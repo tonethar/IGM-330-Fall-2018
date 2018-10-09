@@ -26,7 +26,7 @@
 </script>
 </head>
 <body>
-	<h1 id="main">This is my my header</ h1>
+	<h1 id="main">This is my header</h1>
 </body>
 </html>
 ```
