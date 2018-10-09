@@ -39,13 +39,18 @@
 ### A. Canvas 
 - Drawing State Variables
 - Drawing State Stack - `ctx.save()` and `ctx.restore()`
-- Canvas Transformations & CTM
-- Commonly used methods for drawing rectangles, ovals, lines, curves, etc
+- Commonly used methods for drawing rectangles, ovals, lines, curves, etc:
+  - paths
+  - stroke
+  - fill
+- Canvas Transformations & CTM:
+  - does the order of transformations matter?
+  - what is the "trick" for drawing and rotating shapes around a center point?
 
 ### B. Image Manipulation
 - pixel data
 - typed arrays
-- writing filters (brighten, darken, tint)
+- writing filters (brighten, darken, tint, etc)
 
 ### C. Web Audio
 - Audio Routing Graph
