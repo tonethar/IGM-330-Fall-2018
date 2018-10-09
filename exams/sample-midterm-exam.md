@@ -185,7 +185,7 @@ x = {name: "Jane"};
 
 <hr/>
 
-19. What is an immediately invoked function expression (IIFE – pronounced "iffy") and what is the rimary advantage of using one? 
+19. What is an immediately invoked function expression (IIFE – pronounced "iffy") and what is the primary advantage of using one? 
 
 <hr/>
 
