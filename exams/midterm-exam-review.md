@@ -32,6 +32,7 @@
 
 ## IV. Sample Questions
 - [sample-midterm-exam.md](./sample-midterm-exam.md)
+- [week-01A-notes.md#review-questions](../weekly/week-01A-notes.md#review-questions)
 - [week-02A-notes.md#review-questions](../weekly/week-02A-notes.md#review-questions)
 - [week-05A-notes.md#review-questions](../weekly/week-05A-notes.md#review-questions)
 
