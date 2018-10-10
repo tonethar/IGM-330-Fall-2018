@@ -115,7 +115,7 @@ ctx.restore();              // E - optionally, restore the saved values of drawi
  
  ![circle image](./_images/circle.jpg)
  
- \*\* ***You can draw a 2D ring (or donut) shape by punching out the center. The trick is to create an arc with the `counterclockwise` value set to `true`  :*** \*\*
+ \*\* ***You can draw a 2D ring (or donut) shape by punching out the center. The trick is to create an inner arc with the `counterclockwise` value set to `true`  :*** \*\*
  
   ```js
        ctx.beginPath(); 
