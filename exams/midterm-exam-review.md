@@ -8,7 +8,7 @@
 - Section 03 - Thursday 10/18 @ 5PM
 
 **What is tested:**
-- Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game
+- Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game- from [week 1A](weekly/week-07-notes.md) to [week 7](weekly/week-01A-notes.md)
 
 **What else?:**
 - No make up's allowed without prior permission.
