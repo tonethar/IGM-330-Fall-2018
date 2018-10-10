@@ -44,9 +44,12 @@
   - paths
   - stroke
   - fill
+- creating linear and radial gradients
 - Canvas Transformations & CTM:
   - does the order of transformations matter?
   - what is the "trick" for drawing and rotating shapes around a center point?
+- `.globalCompositeOperation`
+- Animating via `window.requestAnimationFrame()`
 
 ### B. Image Manipulation
 - pixel data
