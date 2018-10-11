@@ -79,7 +79,7 @@
 ### E. JavaScript Concepts
 - see IGME-230 sample questions [here - Section III-B and onward](https://github.com/tonethar/IGME-230-GDD-2018-Spring/blob/master/notes/final-exam-review.md)
 - variables - `var`, `let`, `const`
-- scope - function, block, global, script, <s>module</s> (we didn't cover this one yet)
+- scope - function, block, global, script, <s>module</s> (we didn't cover this last one yet)
 - "hoisting" - when are variables available when using `var` or `let` or `function`?
 - "use strict"
 - reference types v. value types
