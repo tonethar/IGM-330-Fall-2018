@@ -10,7 +10,7 @@
 
 <hr/>
 
-1. See IGME-230 sample questions [here - Section III-B and onward](https://github.com/tonethar/IGME-230-GDD-2018-Spring/blob/master/notes/final-exam-review.md)
+1. ***IMPORTANT:*** See IGME-230 sample questions [here - Section III-B and onward](https://github.com/tonethar/IGME-230-GDD-2018-Spring/blob/master/notes/final-exam-review.md)
 
 <hr/>
 
