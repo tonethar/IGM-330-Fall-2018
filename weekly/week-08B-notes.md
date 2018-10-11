@@ -2,6 +2,7 @@
 
 - Don't be late
 - No makeups will be give without prior approval by professor
+- Online section: See mycourses for date/time of exam
 
 <hr><hr>
 
