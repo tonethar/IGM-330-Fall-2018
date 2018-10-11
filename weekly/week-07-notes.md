@@ -2,12 +2,12 @@
 
 ## I. Overview & Agenda
 - Monday 10/8 & Tuesday 10/9 we are on October Break
-- We are moving into a new part of the course, and preparing for [Project 2 - HTML5 Canvas Experience or Game](../projects/project-2.md)
-  - For this project you are going to build an interactive experience or game using modern JavaScript practices including ES6 classes & modules, and JS code *transpiling*
-  - PS - there is a Project 2 discussion thread and dropboxes in mycourses
 - ***The midterm exam is next week!*** Here are some study resources:
   - [midterm-exam-review.md](../exams/midterm-exam-review.md)
   - [sample-midterm-exam.md](../exams/sample-midterm-exam.md)
+- We are moving into a new part of the course, and preparing for [Project 2 - HTML5 Canvas Experience or Game](../projects/project-2.md)
+  - For this project you are going to build an interactive experience or game using modern JavaScript practices including ES6 classes & modules, and JS code *transpiling*
+  - PS - there is a Project 2 discussion thread and dropboxes in mycourses
 - Time allowing, we will look at some of the Project 2 submissions today
 
 ## II. Required Reading & Assignments
