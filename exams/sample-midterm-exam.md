@@ -1,9 +1,10 @@
 # Sample IGME-330 Midterm Exam
 
-- ****
 - **Note:** Some of these JavaScript concepts are covered in these IGME-230 notes:
   - IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
   - An intro to ES6 classes is here: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-2.md
+
+<hr/>
 
 ***For multiple choice questions, choose the single best answer***
 
