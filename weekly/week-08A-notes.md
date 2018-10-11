@@ -1,4 +1,4 @@
-# Week 8A - More ES6 Classes and Modules/Review for Midterm
+# Week 8A - More ES6 Classes and Modules / Midterm Questions
 
 ## I. Overview
 - The midterm exam is next time - any questions?
