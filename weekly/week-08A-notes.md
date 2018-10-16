@@ -24,6 +24,7 @@
         
 - [2 - Object.create() & Delegation](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-2.md)
   - In JavaScript, how can we benefit from the concept of `inheritance` without using classes - answer: the JavaScript *prototype chain*:
+    - this is called *prototype-based inheritance*
     - "own" properties and properties 
   - `Object.create()`
   - Delegation & OLOO - "Objects Linked to Other Objects"
