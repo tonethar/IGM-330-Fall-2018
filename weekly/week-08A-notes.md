@@ -11,7 +11,7 @@
   - First we try to build a sprite object using script variablessuch as `x`, `y`, `radius`, 'color'  - BAD!
   - then we group these variables into an object literal - BETTER!
   - lastly we create a factory function to produce multiple object literals - BEST!
-  - take a look in the web inspector to see these objects and the default *prototype chains* created via the `__prototype__` - i.e. "dunder proto" property - http://2ality.com/2012/10/dunder.html
+  - take a look in the web inspector to see these objects and the default *prototype chains* created via the `__prototype__` - i.e. "dunder proto" property - http://2ality.com/2012/10/dunder.html - we will discuss  *prototype* chains soon
   - isn't this inefficient, storing multiple copies of all of these properties and methods?
     - In a class-based environment, each instance of a class would have their own copies of instance variables (like `x` and `y`), but share all of the methods (like `move()`, `reflectX()`, and `reflectY()`)
     - interestingly, all major JavaScript engines already perform this optimization on object literals, and basically generate a "super class/super object" for you. The concept is called *shapes*, and you can read about it here: https://mathiasbynens.be/notes/shapes-ics
@@ -23,7 +23,6 @@
         - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) calls them *Shapes*
 - [2 - Object.create() & Delegation](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-2.md)
   - JavaScript *prototype chain*:
-    - 
 - [3 - Canvas & ES6 Classes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-3.md)
 
 ## III. Required Reading & Assignments
