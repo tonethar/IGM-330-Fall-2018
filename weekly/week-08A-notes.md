@@ -18,7 +18,7 @@
     -  No matter how many objects there are, as long as they have the same shape, they only have to store the shape and property information once. All JavaScript engines use shapes as an optimization, but they don't all call them shapes:
         - Academic papers call them *Hidden Classes* (confusing w.r.t. JavaScript classes)
         - [V8](https://github.com/v8/v8) calls them *Maps* (confusing w.r.t. JavaScript Maps)
-        - [Chakra](chakra engine) calls them *Types* (confusing w.r.t. JavaScript’s dynamic types and typeof)
+        - [Chakra](https://github.com/Microsoft/ChakraCore) calls them *Types* (confusing w.r.t. JavaScript’s dynamic types and typeof)
         - [JavaScriptCore](https://trac.webkit.org/wiki/JavaScriptCore) calls them *Structures*
         - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) calls them *Shapes*
 - [2 - Object.create() & Delegation](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-2.md)
