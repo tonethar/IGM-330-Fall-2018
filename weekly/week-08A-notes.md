@@ -8,7 +8,7 @@
 
 ## II. Lecture Notes
 - [1 - Intro to Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-1.md)
-  - First we try to build a sprite object using script variablessuch as `x`, `y`, `radius`, `color`  - BAD!
+  - First we try to build a sprite object using script-scoped variables such as `x`, `y`, `radius`, `color`  - BAD!
   - then we group these variables into an object literal - BETTER!
   - lastly we create a factory function to produce multiple object literals - BEST!
   - take a look in the web inspector to see these objects and the default *prototype chains* created via the `__prototype__` - i.e. "dunder proto" property - http://2ality.com/2012/10/dunder.html - we will discuss  *prototype* chains soon
