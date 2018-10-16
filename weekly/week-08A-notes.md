@@ -26,10 +26,15 @@
   - In JavaScript, how can we benefit from the concept of `inheritance` without using classes - answer: the JavaScript *prototype chain*:
     - this is called *prototype-based inheritance*
     - "own" properties and properties 
+    - *property shadowing* is basically like "overriding" in class-based languages
   - `Object.create()`
   - Delegation & OLOO - "Objects Linked to Other Objects"
   
 - [3 - Canvas & ES6 Classes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-3.md)
+  - JavaScript classes = "syntactical sugar"!
+    - but sugar tastes so good!
+    - behind the scenes, the JS engine is still using the prototype chain
+    
 
 ## III. Required Reading & Assignments
 - [4 - JavaScript & ES6 Modules](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-4.md)
