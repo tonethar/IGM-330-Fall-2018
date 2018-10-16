@@ -22,6 +22,7 @@
         - [JavaScriptCore](https://trac.webkit.org/wiki/JavaScriptCore) calls them *Structures*
         - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) calls them *Shapes*
 - [2 - Object.create() & Delegation](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-2.md)
+  - 
 - [3 - Canvas & ES6 Classes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-3.md)
 
 ## III. Required Reading & Assignments
