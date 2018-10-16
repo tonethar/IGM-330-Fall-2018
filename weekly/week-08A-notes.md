@@ -34,6 +34,7 @@
   - JavaScript classes = "syntactical sugar"!
     - but sugar tastes so good!
     - even with classes, behind the scenes, the JS engine is still using the *prototype chain*
+    - POLL: do you prefer ES5 delegation, or ES6 classes?
     
 
 ## III. Required Reading & Assignments
