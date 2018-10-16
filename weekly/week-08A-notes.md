@@ -21,8 +21,13 @@
         - [Chakra](https://github.com/Microsoft/ChakraCore) calls them *Types* (confusing w.r.t. JavaScript’s dynamic types and typeof)
         - [JavaScriptCore](https://trac.webkit.org/wiki/JavaScriptCore) calls them *Structures*
         - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) calls them *Shapes*
+        
 - [2 - Object.create() & Delegation](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-2.md)
-  - JavaScript *prototype chain*:
+  - In JavaScript, how can we benefit from the concept of `inheritance` without using classes - answer: the JavaScript *prototype chain*:
+    - "own" properties and properties 
+  - `Object.create()`
+  - Delegation & OLOO - "Objects Linked to Other Objects"
+  
 - [3 - Canvas & ES6 Classes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-3.md)
 
 ## III. Required Reading & Assignments
