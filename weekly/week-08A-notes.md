@@ -33,7 +33,7 @@
 - [3 - Canvas & ES6 Classes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-3.md)
   - JavaScript classes = "syntactical sugar"!
     - but sugar tastes so good!
-    - behind the scenes, the JS engine is still using the prototype chain
+    - even with classes, behind the scenes, the JS engine is still using the *prototype chain*
     
 
 ## III. Required Reading & Assignments
