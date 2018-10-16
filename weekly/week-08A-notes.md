@@ -13,9 +13,9 @@
   - lastly we create a factory function to produce multiple object literals - GOOD!
   - take a look in the web inspector to see these object objects and their prototype chains
   - isn't this inefficient, storing multiple copies of all of these properties and methods?
-    - In a class-based environment, each instance of a class would have their own copies of instance variables (like `x` and `y`), but share all of the methods (like `` and ``)
-    - interestingly, most JavaScript engines perform this optimization on object literals for you, and basically generate a "super class/super object" for you. The concept is called *shapes*, and you can read about it here: https://mathiasbynens.be/notes/shapes-ics
-    -  No matter how many objects there are, as long as they have the same shape, they only have to store the shape and property information once. All JavaScript engines use shapes as an optimization, but they don't all call them shapes:
+    - In a class-based environment, each instance of a class would have their own copies of instance variables (like `x` and `y`), but share all of the methods (like `move()`, `reflectX()`, and `reflectY()`)
+    - interestingly, all major JavaScript engines already perform this optimization on object literals, and basically generate a "super class/super object" for you. The concept is called *shapes*, and you can read about it here: https://mathiasbynens.be/notes/shapes-ics
+    -  No matter how many objects there are, as long as they have the same *shape*, they only have to store the shape and property information once. All JavaScript engines use shapes as an optimization, but they don't all call them shapes:
         - Academic papers call them *Hidden Classes* (confusing w.r.t. JavaScript classes)
         - [V8](https://github.com/v8/v8) calls them *Maps* (confusing w.r.t. JavaScript Maps)
         - [Chakra](https://github.com/Microsoft/ChakraCore) calls them *Types* (confusing w.r.t. JavaScript’s dynamic types and typeof)
