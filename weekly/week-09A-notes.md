@@ -16,7 +16,7 @@
       - changing properties of reference types (see extra credit questions)
     - variable scope (outside of modules):
       - outside of another function, `function` declarations are **global**, otherwise the function is scoped to the enclosing function
-      - `var` is **global** if declared outside of a function, otherwise the variable is scoped to the enclosing function (Chrome debugger call this scope **local**)
+      - `var` is **global** if declared outside of a function, otherwise the variable is scoped to the enclosing function (the Chrome debugger calls this scope **local**)
       - `let` is **script** scoped if declared outside of a function, otherwise the variable is scoped to the enclosing **block**
       - `const` is the same as `let`
   - Objects: literals, methods, classes
