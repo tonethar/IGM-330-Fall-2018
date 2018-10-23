@@ -20,7 +20,7 @@
       - `let` is **script** scoped if declared outside of a function, otherwise the variable is scoped to the enclosing **block**
       - `const` scoping is the same as `let`
   - Objects: literals, methods, classes
-- New Stuff:
+- New Stuff needed for Project 2:
   - ES6 Modules -> [canvas-sprites-4.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-4.md)
 
 <hr><hr>
