@@ -12,7 +12,7 @@
 - [Week 07 (Oct 08) : ES6 Classes/Code Modules & October Break](#week7)
 - [Week 08 (Oct 15) : Catchup,Review & Midterm Exam](#week8)
 - [Week 09 (Oct 22) : ES6 Modules and Transpiling](#week9)
-- [Week 10 (Oct 29) : TBA](#week10)
+- [Week 10 (Oct 29) : Web Services](#week10)
 - [Week 11 (Nov 05) : Catch up](#week11)
 - [Week 12 (Nov 12) : TBA](#week12)
 - [Week 13 (Nov 19) : TBA](#week13)
