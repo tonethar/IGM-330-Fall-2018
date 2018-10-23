@@ -18,7 +18,7 @@
       - outside of another function, `function` declarations are **global**, otherwise the function is scoped to the enclosing function
       - `var` is **global** if declared outside of a function, otherwise the variable is scoped to the enclosing function (the Chrome debugger calls this scope **local**)
       - `let` is **script** scoped if declared outside of a function, otherwise the variable is scoped to the enclosing **block**
-      - `const` is the same as `let`
+      - `const` scoping is the same as `let`
   - Objects: literals, methods, classes
 - New Stuff:
   - ES6 Modules -> [canvas-sprites-4.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-4.md)
