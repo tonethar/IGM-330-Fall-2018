@@ -11,7 +11,7 @@
 - [Week 06 (Oct 01) : JavaScript Revealing Module Pattern & AV Project Due](#week6)
 - [Week 07 (Oct 08) : ES6 Classes/Code Modules & October Break](#week7)
 - [Week 08 (Oct 15) : Catchup,Review & Midterm Exam](#week8)
-- [Week 09 (Oct 22) : TBA](#week9)
+- [Week 09 (Oct 22) : ES6 Modules and Transpiling](#week9)
 - [Week 10 (Oct 29) : TBA](#week10)
 - [Week 11 (Nov 05) : Catch up](#week11)
 - [Week 12 (Nov 12) : TBA](#week12)
@@ -54,7 +54,8 @@
   - [Week 8 - Midterm Exam](weekly/week-08B-notes.md)
   
 The midterm exam will given the last class meeting of week 8
-  
+  - [Week 9 - ES6 Modules](weekly/week-09A-notes.md)
+  - [Week 9 - Transpiling ES6>ES5](weekly/week-09B-notes.md)
  
   
 ## <a id="week9">Week 9 :  TBA
