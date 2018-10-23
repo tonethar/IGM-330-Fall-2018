@@ -8,20 +8,20 @@
   - DOM: did the page load? Event handlers and function *references*
   - Other JavaScript concepts:
     - writing ES5 function declarations and ES6 arrow functions
+    - Modular code: 
+      - use a single IIFE to create scope
+      - use multiple IIFEs to create modular code and "public/private" - the *ES5 Revealing Module Pattern*
     - value types v. reference types:
       - immutability of these with *const*
-      - changing properties of reference types (extra credit question)
+      - changing properties of reference types (see extra credit questions)
     - variable scope (outside of modules):
       - outside of another function, `function` declarations are **global**, otherwise the function is scoped to the enclosing function
       - `var` is **global** if declared outside of a function, otherwise the variable is scoped to the enclosing function (Chrome debugger call this scope **local**)
       - `let` is **script** scoped if declared outside of a function, otherwise the variable is scoped to the enclosing **block**
       - `const` is the same as `let`
   - Objects: literals, methods, classes
-  - Modular code: 
-    - use a single IIFE to create scope
-    - use multiple IIFEs to create modular code and "public/private" - the *ES5 Revealing Module Pattern*
 - New Stuff:
-  - ES6 Modules
+  - ES6 Modules -> [canvas-sprites-4.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-4.md)
 
 <hr><hr>
 
