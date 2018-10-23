@@ -48,28 +48,22 @@
 ## <a id="week7">Week 7 : ES6 Classes/Code Modules
   - [Week 7 - Intro to ES6 Classes and Modules](weekly/week-07-notes.md)
  
- 
 ## <a id="week8">Week 8 : Catchup & Midterm Exam
   - [Week 8 - More ES6 Classes and Modules](weekly/week-08A-notes.md)
   - [Week 8 - Midterm Exam](weekly/week-08B-notes.md)
   
-The midterm exam will given the last class meeting of week 8
-  - [Week 9 - ES6 Modules](weekly/week-09A-notes.md)
-  - [Week 9 - Transpiling ES6>ES5](weekly/week-09B-notes.md)
- 
-  
 ## <a id="week9">Week 9 :  TBA
-  
+  - [Week 9 - ES6 Modules](weekly/week-09A-notes.md)
+  - [Week 9 - Transpiling ES6>ES5](weekly/week-09B-notes.md) 
   
 ## <a id="week10">Week 10 : TBA
-  
   
 ## <a id="week11">Week 11  : Catch up
   
 ## <a id="week12">Week 12  : TBA
   
   
-## <a id="week13">Week 13 : TBA
+## <a id="week13">Week 13 : Catch up and Thanksgiving Break
   
 
   
