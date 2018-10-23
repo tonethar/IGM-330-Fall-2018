@@ -1,4 +1,4 @@
-# Week 9B: ES6 > ES5 Transpiling
+# Week 9B: Transpiling ES6 > ES5 
 
 - Review ES5 Revealing Module pattern --> [canvas-sprites-5.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-5.md)
 - Transpiling ES6 to ES5 with WebPack --> [canvas-sprites-6.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-6.md)
