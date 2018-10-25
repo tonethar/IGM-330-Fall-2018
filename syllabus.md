@@ -11,7 +11,7 @@
 - Teaching Assistant: Megan Smith
 - Office: GOL-2139 (IGM Main Office)
 - Email: tony@mail.rit.edu
-- Office hours: 6:15PM-7:00PM in ORN-1375
+- Office hours: 6:15PM-7:00PM in my office (knock on the main office door)
 - Class Meeting Times:
     - Section 01: online
     - Section 02: TR 2:00PM-3:15PM in ORN-1375
