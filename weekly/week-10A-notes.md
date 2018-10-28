@@ -54,8 +54,8 @@ car1.speed = 0;
     - `const`
     - `function`
     - `class`
-3. How do we declare *script scoped* variables from ES6 modules?
-4. How do we declare *globally scoped* variables from ES6 modules?
+3. How do we declare *script scoped* variables from an ES6 module?
+4. How do we declare *globally scoped* variables from an ES6 module?
 
 <hr><hr>
 
