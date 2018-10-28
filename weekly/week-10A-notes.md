@@ -48,7 +48,7 @@ car1.speed = 0;
 ### B - ES6 Modules
 
 1. Should you be adding `'use strict";` to the top of your ES6 modules?
-2. At the "top level" of an ES6 module (i.e. outside of a function or class definition), what is the *scope* of variables declared with:
+2. At the "top level" of an ES6 module (i.e. outside of a function or class definition), what is the *scope* of variables/functions/objects declared with:
     - `var`
     - `let`
     - `const`
