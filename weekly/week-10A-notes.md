@@ -1,6 +1,6 @@
 # Week 10A
 
-## I. Review Questions
+## I. Review Questions (in ES6 & strict mode)
 
 ### A - ES6 Classes
 1. Write a ES6 class named `Car`:
