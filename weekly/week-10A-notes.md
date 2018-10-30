@@ -44,10 +44,10 @@ const car3 = new Car('2019',0);
 const car1 = new Car('2019',0); // constant 
 car1.speed = 0;
 ```
+6. What does **OLOO** stand for, and what method is used to implement this concept?
 
-6. What is the `__proto__` property for?
+7. Describe *prototypical inheritance* & the *prototype chain*
 
-7. Describe *prototypical* inheritance
 
 ### B - ES6 Modules
 
