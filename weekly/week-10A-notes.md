@@ -67,6 +67,7 @@ car1.speed = 0;
 
 II. Project 2 Resources
 
+-  [Cage Clicker HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-1.md) - this is an optional extra credit exercise that walks you how to build a game utilizing the canvas API
 - MDN: https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
 - 230 PixiJS Resources: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-0.md
 
