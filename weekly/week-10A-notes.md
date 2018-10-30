@@ -65,7 +65,7 @@ car1.speed = 0;
 
 1. Give a 1 sentence description of what a *shape* is.
 
-II. Project 2 Resources
+## II. Project 2 Resources
 
 -  [Cage Clicker HW](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-1.md) - this is an optional extra credit exercise that walks you how to build a game utilizing the canvas API
 - MDN: https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
