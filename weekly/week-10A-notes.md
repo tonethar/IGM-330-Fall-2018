@@ -65,6 +65,11 @@ car1.speed = 0;
 
 1. Give a 1 sentence description of what a *shape* is.
 
+II. Project 2 Resources
+
+- MDN: https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
+- 230 PixiJS Resources: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-0.md
+
 
 <hr><hr>
 
