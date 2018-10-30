@@ -45,6 +45,10 @@ const car1 = new Car('2019',0); // constant
 car1.speed = 0;
 ```
 
+6. What is the **__prototype__** property for?
+
+7. Describe *prototypical* inheritance
+
 ### B - ES6 Modules
 
 1. Should you be adding `'use strict";` to the top of your ES6 modules?
@@ -56,6 +60,11 @@ car1.speed = 0;
     - `class`
 3. How do we declare *script scoped* variables from an ES6 module?
 4. How do we declare *globally scoped* variables from an ES6 module?
+
+### C - Compiler *Shapes*
+
+1. Give a 1 sentence description of what a *shape* is.
+
 
 <hr><hr>
 
