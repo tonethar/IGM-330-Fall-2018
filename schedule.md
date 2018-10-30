@@ -12,10 +12,10 @@
 - [Week 07 (Oct 08) : ES6 Classes/Code Modules & October Break](#week7)
 - [Week 08 (Oct 15) : Catchup,Review & Midterm Exam](#week8)
 - [Week 09 (Oct 22) : ES6 Modules and Transpiling](#week9)
-- [Week 10 (Oct 29) : Web Services](#week10)
-- [Week 11 (Nov 05) : Catch up](#week11)
-- [Week 12 (Nov 12) : TBA](#week12)
-- [Week 13 (Nov 19) : TBA](#week13)
+- [Week 10 (Oct 29) : Catch up & Work on Project 2](#week10)
+- [Week 11 (Nov 05) : Web Services](#week11)
+- [Week 12 (Nov 12) : Vue.js & MVVM](#week12)
+- [Week 13 (Nov 19) : Catch up and Thanksgiving Break](#week13)
 - [Week 14 (Nov 26) : TBA](#week14)
 - [Week 15 (Dec 03) : Review & Final Exam](#week15)
 - [Finals Week Meeting](#finalsweek)
@@ -52,15 +52,15 @@
   - [Week 8 - More ES6 Classes and Modules](weekly/week-08A-notes.md)
   - [Week 8 - Midterm Exam](weekly/week-08B-notes.md)
   
-## <a id="week9">Week 9 :  TBA
+## <a id="week9">Week 9 :  ES6 Modules & Transpiling
   - [Week 9 - ES6 Modules](weekly/week-09A-notes.md)
   - [Week 9 - Transpiling ES6>ES5](weekly/week-09B-notes.md) 
   
-## <a id="week10">Week 10 : TBA
+## <a id="week10">Week 10 : Catch up & Work on Project 2
   
-## <a id="week11">Week 11  : Catch up
+## <a id="week11">Week 11  : Web Services
   
-## <a id="week12">Week 12  : TBA
+## <a id="week12">Week 12  : Vue.js & MVVM
   
   
 ## <a id="week13">Week 13 : Catch up and Thanksgiving Break
