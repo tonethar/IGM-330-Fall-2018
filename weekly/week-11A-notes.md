@@ -1,7 +1,8 @@
-# Week 11A
+# Week 11A - Intro to Web Services
 
 ## I. Topics
-
+- [Web Apps-Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md)
+- [HW GIF Finder (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md)
 
 <hr><hr>
 
