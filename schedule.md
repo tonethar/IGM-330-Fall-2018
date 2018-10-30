@@ -57,6 +57,7 @@
   - [Week 9 - Transpiling ES6>ES5](weekly/week-09B-notes.md) 
   
 ## <a id="week10">Week 10 : Catch up & Work on Project 2
+   - [Week 10A - ES6 Objects Review](weekly/week-10A-notes.md)
   
 ## <a id="week11">Week 11  : Web Services
   
