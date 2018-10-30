@@ -45,7 +45,7 @@ const car1 = new Car('2019',0); // constant
 car1.speed = 0;
 ```
 
-6. What is the `\_\_proto\_\_` property for?
+6. What is the `__proto__` property for?
 
 7. Describe *prototypical* inheritance
 
