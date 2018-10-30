@@ -61,7 +61,7 @@ car1.speed = 0;
 3. How do we declare *script scoped* variables from an ES6 module?
 4. How do we declare *globally scoped* variables from an ES6 module?
 
-### C - Compiler *Shapes*
+### C - JS Compiler *Shapes*
 
 1. Give a 1 sentence description of what a *shape* is.
 
