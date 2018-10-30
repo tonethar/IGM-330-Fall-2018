@@ -1,6 +1,8 @@
-# Week 12A
+# Week 12A - Intro to Vue.js
 
 ## I. Topics
+- [vue-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
+- [vue-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-2.md)
 
 
 <hr><hr>
