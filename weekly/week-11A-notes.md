@@ -13,6 +13,15 @@ We are moving into the third part of the course, where we will build data-driven
 - [HW - GIF Finder (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you may have done this exercise before, if so, you are going to get to do it again! See mycourses dropbox for due date.
 - [Web Service App - Examples & Starters](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md) - this is starter code that demos how to use several web services
 
+## III. Important Deadlines
+
+- When is the final exam?
+  - For the online section (01), it is for the first hour of the regularly scheduled final exam time for the course (see SIS for date and time)
+  - sections 02 & 03, the final exam is on the last day of class, Thursday December 6th
+- When is the final project due?
+  - For all sections, it is due during the regularly scheduled final exam time for the course (see SIS for date/time and location)
+  
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
