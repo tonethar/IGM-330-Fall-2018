@@ -79,7 +79,7 @@
 ## <a id="finalsweek">Finals Week Meeting
 
 During finals week, we will meet as a group, check SIS for your section's meeting time and location:
-- section 01 (online) will meet in person and take the final exam
+- section 01 (online) will meet in person and take the final exam, and then look at each other's final projects
 - sections 02 & 03 will have already taken the final exam on the last day of class, and will instead meet to look at final projects
 
 <hr>
