@@ -15,7 +15,7 @@ We are moving into the third part of the course, where we will build data-driven
 
 ## III. Important Deadlines
 
-- When is the final exam?
+- When will the final exam be given?
   - For the online section (01), it is for the first hour of the regularly scheduled final exam time for the course (see SIS for date and time)
   - sections 02 & 03, the final exam is on the last day of class, Thursday December 6th
 - When is the final project due?
