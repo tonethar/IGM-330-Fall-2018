@@ -60,6 +60,7 @@
    - [Week 10A - ES6 Objects Review](weekly/week-10A-notes.md)
   
 ## <a id="week11">Week 11  : Web Services
+   - [Week 11A - Intro to Web Services](weekly/week-11A-notes.md)
   
 ## <a id="week12">Week 12  : Vue.js & MVVM
   
