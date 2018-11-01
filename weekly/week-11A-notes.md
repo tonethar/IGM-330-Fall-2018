@@ -3,6 +3,8 @@
 ## I. Topics
 - [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes
 - [HW - GIF Finder (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you may have done this exercise before, if so, you are going to get to do it again!
+- [Web Service App - Examples & Starters](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md)
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
