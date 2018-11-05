@@ -2,7 +2,7 @@
 
 ## I. Overview
 We are moving into the third part of the course, where we will build data-driven applications. In the next few weeks we will cover the following concepts:
-- intro (or review for some of you) of using web services
+- intro (or review for some of you) of using web services both in the browser, and in a command-line application
 - creating our own web service
 - utilizing multiple web services (such as google maps) to build a web service *mashup*
 - storing data in the "cloud" via Firebase
