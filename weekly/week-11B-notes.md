@@ -1,7 +1,7 @@
 # Week 11B - More About Web Services
 
 ## I. Topics
-- Create your own web service using PHP
+- Creating a web service using PHP
 - The Google Maps API:
   - [HW-maps-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md) - see mycourses dropbox for due date
 
