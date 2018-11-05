@@ -15,9 +15,9 @@
 - [Week 10 (Oct 29) : Catch up & Work on Project 2](#week10)
 - [Week 11 (Nov 05) : Web Services](#week11)
 - [Week 12 (Nov 12) : Vue.js & MVVM](#week12)
-- [Week 13 (Nov 19) : Catch up and Thanksgiving Break](#week13)
-- [Week 14 (Nov 26) : TBA](#week14)
-- [Week 15 (Dec 03) : Review & Final Exam](#week15)
+- [Week 13 (Nov 19) : Catch up & Thanksgiving Break](#thanksgiving)
+- [Week 14 (Nov 26) : TBA](#week13)
+- [Week 15 (Dec 03) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
 
@@ -61,20 +61,21 @@
   
 ## <a id="week11">Week 11  : Web Services
    - [Week 11A - Intro to Web Services](weekly/week-11A-notes.md)
+   - [Week 11B - More About Web Services](weekly/week-11B-notes.md)
   
 ## <a id="week12">Week 12  : Vue.js & MVVM
+  - [Week 12A - Intro to Vue.js](weekly/week-12A-notes.md)
+  - [Week 12B - More Vue.js](weekly/week-12B-notes.md)
   
+## <a id="thanksgiving">Catch up and Thanksgiving Break
   
-## <a id="week13">Week 13 : Catch up and Thanksgiving Break
-  
-
-  
-## <a id="week14">Week 14 : TBA
+## <a id="week13">Week 13 : TBA
+  - [Week 13A - TBA](weekly/week-13A-notes.md)
+  - [Week 13B - TBA](weekly/week-13B-notes.md)
  
- 
- 
- ## <a id="week15">Week 15 : The Home Stretch
-  
+## <a id="week14">Week 14 : Review & Final Exam
+  - [Week 14A - TBA](weekly/week-14A-notes.md)
+  - [Week 14B - TBA](weekly/week-14B-notes.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
