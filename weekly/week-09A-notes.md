@@ -1,6 +1,7 @@
 # Week 9A - Review Exam & ES6 Modules
 
-- Review Exam, and touch on major concepts:
+<a id="review"></a>
+## I. Review Exam, and touch on major concepts
   - canvas API, paths, drawing state properties, drawing state stack
   - manipulating bitmaps for pixel effects
   - web audio routing graph, effect node, destination node, analyzer node, oscillator node
@@ -20,7 +21,8 @@
       - `let` is **script** scoped if declared outside of a function, otherwise the variable is scoped to the enclosing **block**
       - `const` scoping is the same as `let`
   - Objects: literals, methods, classes
-- New Stuff needed for Project 2:
+  
+## II. New Stuff needed for Project 2
   - ES6 Modules --> [canvas-sprites-4.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-sprites-4.md)
 
 <hr><hr>
