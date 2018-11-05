@@ -21,6 +21,10 @@ We are moving into the third part of the course, where we will build data-driven
 - *When is the final project due?*
   - For all sections (01,02,03) - it is due during the regularly scheduled final exam time for the course (see SIS for date/time and location)
   
+## IV. Other Resources
+- https://github.com/toddmotto/public-apis
+- https://github.com/abhishekbanthia/Public-APIs
+  
 
 <hr><hr>
 
