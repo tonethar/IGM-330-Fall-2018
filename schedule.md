@@ -15,7 +15,7 @@
 - [Week 10 (Oct 29) : Catch up & Work on Project 2](#week10)
 - [Week 11 (Nov 05) : Web Services](#week11)
 - [Week 12 (Nov 12) : Vue.js & MVVM](#week12)
-- [Break&nbsp;&nbsp;&nbsp;(Nov 19) : Catch up & Thanksgiving Break](#thanksgiving)
+- [Break - (Nov 19) : Catch up & Thanksgiving Break](#thanksgiving)
 - [Week 13 (Nov 26) : TBA](#week13)
 - [Week 14 (Dec 03) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
