@@ -11,7 +11,7 @@ We are moving into the third part of the course, where we will build data-driven
 ## II. Today's Topics
 - [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes
 - [HW - GIF Finder (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you may have done this exercise before, if so, you are going to get to do it again! See mycourses dropbox for due date.
-- [Web Service App - Examples & Starters](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md) - this is starter code that demos how to use several web services
+- [Web Service App - Examples & Starters (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md) - this is starter code that demos how to use several web services
 
 ## III. Important Deadlines
 
