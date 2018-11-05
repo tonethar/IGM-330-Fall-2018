@@ -79,7 +79,7 @@
  
 ## <a id="week14">Week 14 : Review & Final Exam
   - [Week 14A - TBA](weekly/week-14A-notes.md)
-  - [Week 14B - TBA](weekly/week-14B-notes.md)
+  - [Week 14B - Final Written Exam](weekly/week-14B-notes.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
