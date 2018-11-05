@@ -66,8 +66,12 @@
 ## <a id="week12">Week 12  : Vue.js & MVVM
   - [Week 12A - Intro to Vue.js](weekly/week-12A-notes.md)
   - [Week 12B - More Vue.js](weekly/week-12B-notes.md)
-  
+
+<hr>
+
 ## <a id="thanksgiving">Catch up and Thanksgiving Break
+  
+<hr>
   
 ## <a id="week13">Week 13 : TBA
   - [Week 13A - TBA](weekly/week-13A-notes.md)
