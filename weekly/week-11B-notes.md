@@ -1,7 +1,8 @@
 # Week 11B - More About Web Services
 
 ## I. Topics
-- Creating a web service using PHP
+- Creating a web service using PHP:
+  - PHP Basics - [PHP Intro - About this PHP Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-0.md)
 - The Google Maps API:
   - [HW-maps-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md) - see mycourses dropbox for due date
 
