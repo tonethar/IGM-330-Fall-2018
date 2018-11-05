@@ -5,6 +5,8 @@
 - JavaScript Concepts:
   - [JavaScript Closures](https://github.com/tonethar/IGME-330-Master/blob/master/notes/closure-notes.md)
   - `this` binding
+- Final Exam Review (since midterm):
+  - [week-10A-notes.md#review](week-10A-notes.md#review)
 
 <hr><hr>
 
