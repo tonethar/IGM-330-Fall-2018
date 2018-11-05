@@ -9,9 +9,13 @@ We are moving into the third part of the course, where we will build data-driven
 - *data binding* - learning how to utilize "reactive" frameworks like Vue.js
 
 ## II. Today's Topics
-- [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes
-- [HW - GIF Finder (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you may have done this exercise before, if so, you are going to get to do it again! See mycourses dropbox for due date.
-- [Web Service App - Examples & Starters (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md) - this is starter code that demos how to use several web services
+- Consuming Web Services in a browser:
+  - [Web Apps - Part 10 (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md) - we will review these IGME-230 notes
+  - [HW - GIF Finder (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) - you may have done this exercise before, if so, you are going to get to do it again! See mycourses dropbox for due date.
+  - [Web Service App - Examples & Starters (IGME-230)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md) - this is starter code that demos how to use several web services
+- Consuming Web Services from a command-line Node.js app:
+  - [Node.js and Web Services - 1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-1.md)
+  - [Node.js and Web Services - 2](https://github.com/tonethar/IGME-330-Master/blob/master/notes/node-and-web-services-2.md)
 
 ## III. Important Deadlines
 
