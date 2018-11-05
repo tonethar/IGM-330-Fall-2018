@@ -2,6 +2,9 @@
 
 ## I. Topics
 
+- JavaScript Concepts:
+  - [JavaScript Closures](https://github.com/tonethar/IGME-330-Master/blob/master/notes/closure-notes.md)
+  - `this` binding
 
 <hr><hr>
 
