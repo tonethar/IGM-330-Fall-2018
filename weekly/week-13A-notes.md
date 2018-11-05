@@ -9,8 +9,8 @@
 
 **Note: there are links to these videos in mycourses:**
 
-  - [week-09A-notes.md#review](week-09A-notes.md#review)
-  - [week-10A-notes.md#review](week-10A-notes.md#review)
+    - [week-09A-notes.md#review](week-09A-notes.md#review)
+    - [week-10A-notes.md#review](week-10A-notes.md#review)
 
 <hr><hr>
 
