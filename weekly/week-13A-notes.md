@@ -2,8 +2,8 @@
 
 ## I. Topics
 
-- Storing Data in Cloud:
- 
+- Storing Data in cloud:
+  - https://firebase.google.com
 - Final Exam Review (since midterm) - **Note: the links to the videos of these lectures are in mycourses:**
   - [week-09A-notes.md#review](week-09A-notes.md#review)
   - [week-10A-notes.md#review](week-10A-notes.md#review)
