@@ -1,4 +1,4 @@
-# Week 13A - Storing Data in cloud
+# Week 13A - Storing data in cloud
 
 ## I. Topics
 - Storing Data in cloud:
