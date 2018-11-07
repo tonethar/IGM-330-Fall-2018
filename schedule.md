@@ -16,7 +16,7 @@
 - [Week 11 (Nov 05) : Web Services](#week11)
 - [Week 12 (Nov 12) : Vue.js & MVVM](#week12)
 - [Break -- (Nov 19) : Catch up & Thanksgiving Break](#thanksgiving)
-- [Week 13 (Nov 26) : TBA](#week13)
+- [Week 13 (Nov 26) : Cloud Data & JavaScript Topics](#week13)
 - [Week 14 (Dec 03) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
@@ -73,9 +73,9 @@
   
 <hr>
   
-## <a id="week13">Week 13 : TBA
-  - [Week 13A - TBA](weekly/week-13A-notes.md)
-  - [Week 13B - TBA](weekly/week-13B-notes.md)
+## <a id="week13">Week 13 : Cloud Data & JavaScript Topics
+  - [Week 13A - Cloud Data](weekly/week-13A-notes.md)
+  - [Week 13B - JavaScript Topics](weekly/week-13B-notes.md)
  
 ## <a id="week14">Week 14 : Review & Final Exam
   - [Week 14A - TBA](weekly/week-14A-notes.md)
