@@ -7,7 +7,7 @@
     - we will learn how to download it both as a JS console app with Node.js, and also with JS running in the browser
     - we will 2 techniques for getting around CORS restrictions:
       - the `Access-Control-Allow-Origin` HTTP header
-      - JSONP and XSS
+      - [JSONP](https://en.wikipedia.org/wiki/JSONP) and XSS
 - The Google Maps API:
   - [HW-maps-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-maps-1.md) - see mycourses dropbox for due date
 
