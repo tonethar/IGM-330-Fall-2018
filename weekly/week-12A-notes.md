@@ -16,11 +16,8 @@ II. Ajax & Web Service Review Questions
 1. Describe the major difference between **JSON** and **JSON-P**
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"json"`
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"jsonp"`
-
-
-
-
-
+1. A request to a web server that contains all of the data in the query string is called a ___ request.
+1. A request to a web server that sends data in a separate file is called a ___ request.
 
 <hr><hr>
 
