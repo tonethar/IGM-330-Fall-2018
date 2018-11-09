@@ -7,12 +7,12 @@
 II. Ajax & Web Service Review Questions
 
 1. What do the following acronyms stand for:
-- AJAX
-- CORS
-- JSON
-- JSON-P
-- XHR
-1. Describe the major differences between **AJAX** (the acronym) and **Ajax** (the noun)
+  - AJAX
+  - CORS
+  - JSON
+  - JSON-P
+  - XHR
+2. Describe the major differences between **AJAX** (the acronym) and **Ajax** (the noun)
 1. Describe the major difference between **JSON** and **JSON-P**
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"json"`
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"jsonp"`
