@@ -12,6 +12,16 @@
     - JSON
     - JSON-P
     - XHR
+1. What are the 6 allowable JSON data types?
+1. What are the two allowable "top level" JSON data types?
+1. Is the following legal JSON? Why or why not?
+
+    ```js
+    {
+        success: true;
+    }
+    ```
+
 1. Describe the major differences between **AJAX** (the acronym) and **Ajax** (the noun)
 1. How can we find out if CORS is enabled?
 1. Describe the major difference between **JSON** and **JSON-P**
