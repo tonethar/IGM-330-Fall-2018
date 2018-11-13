@@ -18,9 +18,9 @@
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"json"`
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"jsonp"`
 1. Which of the following client applications could at times be required to parse **JSON**?
-  i. *Android or iOS Native Weather App*
-  i. *Node Console App that uses `request`*
-  i. *Web Browser Ajax App*
+    i. *Android or iOS Native Weather App*
+    i. *Node Console App that uses `request`*
+    i. *Web Browser Ajax App*
 1. Which of the following client applications could at times be required to parse **JSON-P**?
   i. *Android or iOS Native Weather App*
   ii. *Node Console App that uses `request`*
