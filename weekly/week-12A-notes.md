@@ -17,8 +17,8 @@
 1. Describe the major difference between **JSON** and **JSON-P**
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"json"`
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"jsonp"`
-1. Which of the following client applications could at times be required to parse JSON? *Android or iOS Native Weather App*, *Node Console App*, *Web Browser*
-1. Which of the following client applications could at times be required to parse JSON-P? *Android or iOS Native Weather App*, *Node Console App*, *Web Browser*
+1. Which of the following client applications could at times be required to parse JSON? *Android or iOS Native Weather App*, *Node Console App that uses `request`*, *Web Browser Ajax App*
+1. Which of the following client applications could at times be required to parse JSON-P? *Android or iOS Native Weather App*, *Node Console App that uses `request`*, *Web Browser Ajax App*
 1. A request to a web server that contains all of the data in the query string is called a ___ request.
 1. A request to a web server that sends data in a separate file is called a ___ request.
 
