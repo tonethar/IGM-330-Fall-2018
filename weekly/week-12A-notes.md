@@ -15,8 +15,10 @@
 1. Describe the major differences between **AJAX** (the acronym) and **Ajax** (the noun)
 1. How can we find out if CORS is enabled?
 1. Describe the major difference between **JSON** and **JSON-P**
-1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"json"`
+1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"json"` or `"xml"`
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"jsonp"`
+1. What is the name of the `XHR` property that holds downloaded JSON (or text) data?
+1. What is the name of the `XHR` property that holds downloaded XML data?
 1. Which of the following client applications could at times be required to parse **JSON**?
     - i. *Android or iOS Native Weather App*
     - ii. *Node Console App that uses `request`*
