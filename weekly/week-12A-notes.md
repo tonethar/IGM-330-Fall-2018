@@ -14,7 +14,7 @@
     - XHR
 1. What are the 6 allowable JSON data types?
 1. What are the two allowable "top level" JSON data types?
-1. Is the following legal JSON? Why or why not?
+1. Is the following legal JavaScript? Is it legal JSON? Why or why not?
 
     ```js
     {
