@@ -8,7 +8,7 @@
     - we will look at 2 techniques for getting around CORS restrictions:
       - the `Access-Control-Allow-Origin` HTTP header
       - [JSONP](https://en.wikipedia.org/wiki/JSONP) and XSS
-  - Let's use XHR (XMLHttpRequest) and Fetch to download both JSON & XML --> [demo-php-web-service-xml.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-php-web-service-xml.md)
+  - Let's use the [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) aka XHR object to download XML --> [demo-php-web-service-xml.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-php-web-service-xml.md)
   - ***Understanding JSON, JSON-P, and cross-origin issues will really help you on project 3!***
 
 - The Google Maps API:
