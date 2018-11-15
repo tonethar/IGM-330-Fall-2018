@@ -6,7 +6,7 @@
 
 ## II. ReVue (get it?)
 1. What is ***Reactive Programming*** (see below)
-1. In a ***MVVM*** Vue app - what is the (see below):
+1. In a ***MVVM*** Vue.js app - what is the (see below):
     - Model
     - View
     - ViewModel
