@@ -6,7 +6,7 @@
   - `this` binding
 ## II. Final Exam Review
 - [Midterm Exam Review](../exams/midterm-exam-review.md)
-- Topics covered since midterm exam:
+- Review questions covered since midterm exam:
   - [week-09A-notes.md#review](./week-09A-notes.md#review)
   - [week-10A-notes.md#review](./week-10A-notes.md#review)
   - [week-12A-notes.md#review](./week-12A-notes.md#review)
