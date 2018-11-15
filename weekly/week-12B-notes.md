@@ -13,6 +13,7 @@
     - Model
     - View
     - ViewModel
+1. Using a Vue *directive*, create a 2-way binding between a &lt;input> field and a data property named `score`
 
 ## III. Reference
 - **Reactive Programming** - I like the definition from [here](https://dl.acm.org/citation.cfm?id=2501666) - "Reactive programming has recently gained popularity as a paradigm that is well-suited for developing event-driven and interactive applications. It facilitates the development of such applications by providing abstractions to express time-varying values and automatically managing dependencies between such values."
