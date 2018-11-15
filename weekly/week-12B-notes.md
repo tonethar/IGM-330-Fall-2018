@@ -5,6 +5,8 @@
 - [Vue Part III - Simple Vue Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
 - [Vue Part IV - Nested Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md)
 
+<a id="review"></a>
+
 ## II. ReVue (get it?)
 1. What is ***Reactive Programming*** ?
 1. In a ***MVVM*** Vue.js app - what is role of the:
