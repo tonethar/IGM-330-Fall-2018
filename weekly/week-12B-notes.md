@@ -17,8 +17,8 @@
 1. Now do the same thing instead using a Vue.js *directive*
 1. Using a Vue.js *directive*, create a 2-way binding between an &lt;input> field and a Vue.js `data` property named `score`
 1. Suppose you have a Vue.js `.method` named `doStuff` and a button with an id of `btn`. Write code that calls `doStuff()` when the button is clicked on:
-    - do this *imperatively* utilizing DOM methods such as `document.querySelector()` as well as DOM event handlers
-    - do this *declaratively* utilizing a Vue *directive*
+    - do this ***imperatively*** utilizing DOM methods such as `document.querySelector()` as well as DOM event handlers
+    - do this ***declaratively*** utilizing a Vue *directive*
 
 ## III. Reference
 - **Reactive Programming** - I like the definition from [here](https://dl.acm.org/citation.cfm?id=2501666) - "Reactive programming has recently gained popularity as a paradigm that is well-suited for developing event-driven and interactive applications. It facilitates the development of such applications by providing abstractions to express time-varying values and automatically managing dependencies between such values."
