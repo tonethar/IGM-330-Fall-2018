@@ -20,7 +20,7 @@
 
     ```js
     {
-        success: true;
+        success: true
     }
     ```
 
