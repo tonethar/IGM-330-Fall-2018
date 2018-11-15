@@ -7,9 +7,9 @@
 ## II. ReVue (get it?)
 1. What is ***Reactive Programming*** (see below)
 1. In a ***MVVM*** Vue app - what is the (see below):
-  - Model
-  - View
-  - ViewModel
+    - Model
+    - View
+    - ViewModel
 
 ## III. Reference
 - **Reactive Programming** - I like the definition from [here](https://dl.acm.org/citation.cfm?id=2501666) - "Reactive programming has recently gained popularity as a paradigm that is well-suited for developing event-driven and interactive applications. It facilitates the development of such applications by providing abstractions to express time-varying values and automatically managing dependencies between such values."
