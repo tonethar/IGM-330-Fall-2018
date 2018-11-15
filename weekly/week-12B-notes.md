@@ -7,7 +7,7 @@
 
 <a id="review"></a>
 
-## II. ReVue (get it?)
+## II. ReVue Questions (get it?)
 1. What is ***Reactive Programming*** ?
 1. In a ***MVVM*** Vue.js app - what is role of the:
     - Model
