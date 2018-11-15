@@ -1,6 +1,7 @@
 # Week 12B - More Vue.js
 
 ## I. Topics
+- [Vue Part II - Ajax and Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-2.md)
 - [Vue Part III - Simple Vue Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-3.md)
 - [Vue Part IV - Nested Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-4.md)
 
