@@ -5,9 +5,12 @@
   - [JavaScript Closures](https://github.com/tonethar/IGME-330-Master/blob/master/notes/closure-notes.md)
   - `this` binding
 ## II. Final Exam Review
-- Previous Midterm Resources
+- [Midterm Exam Review](../exams/midterm-exam-review.md)
 - Topics covered since midterm exam:
-  - 
+  - [week-09A-notes.md#review](./week-09A-notes.md#review)
+  - [week-10A-notes.md#review](./week-10A-notes.md#review)
+  - [week-12A-notes.md#review](./week-12A-notes.md#review)
+  - [week-12B-notes.md#review](./week-12B-notes.md#review)
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
