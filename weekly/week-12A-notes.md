@@ -2,7 +2,6 @@
 
 ## I. Topics
 - [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
-- [Vue Part II - Ajax and Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-2.md)
 
 <a id="review"></a>
 
