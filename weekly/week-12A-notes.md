@@ -31,15 +31,15 @@
 1. Explain how `jQuery.ajax()` downloads files from another domain if the `dataType` is declared as `"jsonp"`
 1. What is the name of the `XHR` property that holds downloaded JSON (or text) data?
 1. What is the name of the `XHR` property that holds downloaded XML data?
-1. Which of the following client applications could at times be required to parse **JSON**?
+1. Which of the following client applications could at times download and parse **JSON**?
     - i. An iOS or Android Native Weather App
     - ii. A Node.js Console App that uses `request`
     - iii. A Web Browser Ajax App
-1. Which of the following client applications could at times be required to parse **JSON-P**?
+1. Which of the following client applications could at times download and parse **JSON-P**?
     - i. An iOS or Android Native Weather App
     - ii. A Node.js Console App that uses `request`
     - iii. A Web Browser Ajax App
-1. Which of the following client applications could at times be required to parse **XML**?
+1. Which of the following client applications could at times download and parse **XML**?
     - i. An iOS or Android Native Weather App
     - ii. A Node.js Console App that uses `request`
     - iii. A Web Browser Ajax App
