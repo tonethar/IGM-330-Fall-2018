@@ -13,8 +13,10 @@
     - Model
     - View
     - ViewModel
-1. Using a Vue *directive*, create a 2-way binding between an &lt;input> field and a Vue data property named `score`
-1. Suppose you have a Vue `.method` named `doStuff` and a button with an id of `btn`. Write code that calls `doStuff()` when the button is clicked on:
+1. Using Vue's "handlebar" syntax, create a 1-way binding between a paragraph and a Vue.js data property named `title`
+1. Now do the same thing using a Vue.js *directive*
+1. Using a Vue.js *directive*, create a 2-way binding between an &lt;input> field and a Vue.js data property named `score`
+1. Suppose you have a Vue.js `.method` named `doStuff` and a button with an id of `btn`. Write code that calls `doStuff()` when the button is clicked on:
     - do this *imperatively* utilizing DOM methods such as `document.querySelector()` as well as DOM event handlers
     - do this *declaratively* utilizing a Vue directive
 
