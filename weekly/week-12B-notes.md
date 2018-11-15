@@ -19,7 +19,8 @@
 1. Suppose you have a Vue.js `.method` named `doStuff` and a button with an id of `btn`. Write code that calls `doStuff()` when the button is clicked on:
     - do this ***imperatively*** utilizing DOM methods such as `document.querySelector()` as well as DOM event handlers
     - do this ***declaratively*** utilizing a Vue *directive*
-1. Are Vue.js "handlebars" and directives visible in browsers when we "View Source"? How about when we "Inspect" the page for a live view of the DOM? 
+1. Are Vue.js "handlebars" and directives visible in browsers when we "View Source"?
+1. Are Vue.js "handlebars" and directives visible in browsers when we "Inspect" a page for a live view of the DOM? 
 
 ## III. Reference
 - **Reactive Programming** - I like the definition from [here](https://dl.acm.org/citation.cfm?id=2501666) - "Reactive programming has recently gained popularity as a paradigm that is well-suited for developing event-driven and interactive applications. It facilitates the development of such applications by providing abstractions to express time-varying values and automatically managing dependencies between such values."
