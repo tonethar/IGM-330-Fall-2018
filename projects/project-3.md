@@ -199,7 +199,7 @@ Your project will be graded on the following criteria:
 |  2. Ajax used | |
 |  3. *ES6 Custom Class not used* | *(-5)* |
 |  4. *Conventions not followed* | *(-5 per incident)* |
-|  5. *NOT allowed* | *(-5 per incident)* |
+|  5. *Vode that is NOT allowed* | *(-5 per incident)* |
 | **E. [Impact](#impact)**  | **10** | |
 |  - Does the app work as intended and do something useful? | |
 |  - Does the app functionality and programming go beyond what we did in class? | |
