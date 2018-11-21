@@ -113,7 +113,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen). 
     - The main controls of the application must fit in a 1024x768 window.
 
-<a id="html"></a>
+<a id="media"></a>
 
 ### C. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
