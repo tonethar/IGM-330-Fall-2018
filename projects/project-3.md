@@ -23,15 +23,32 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ## II. Requirements
 
 ### A. Functional
-1. Your application will utilize a web service from these lists:
+1. You must use 2 distinctive web service APIs in your completed project. The exact web services used are up to you:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
         - try to use an API that supports *CORS* (Cross-origin resource sharing)
-          - 
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
+    - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098")
+    - [USGS Earthquake data<](http://earthquake.usgs.gov/earthquakes/feed/)/a> visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - here's an example call to the earthquake service in [JSONP](http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded">
+    - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this: [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
+    - [Book information APIs](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
+	- [Woot](http://woot.wikia.com/wiki/API) deals
+    - [Best Buy](https://developer.bestbuy.com) deals
+	- Movie info --> [themoviedb.org](https://www.themoviedb.org/documentation/api
+    - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
+	- [Crime](http://sanfrancisco.crimespotting.org/api)
+	- Current weather and forecasts -->	[openweathermap.org](http://openweathermap.org)
+	- Business and start-up info --> [data.crunchbase.com/v3](https://data.crunchbase.com/v3)
+	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
+	- For lists of even more Web services, see:
+      - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
+	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console.
     - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
       - Any API from GIPHY - https://developers.giphy.com/docs/
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-    - **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
+    - **Important note:** - Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
+    - **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
+      - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
+      - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field.
