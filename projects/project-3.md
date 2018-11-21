@@ -182,18 +182,18 @@ Your project will be graded on the following criteria:
 |  - *Does not remember last search term* | *(-10)* |
 |  - *Missing controls* | *(-15 each)* |
 | **B. [Design & Interaction](#design)** | **20** | |
-|  - Visual design is pleasing | |
-|  - Interface is clear and well labeled | |
-|  - Standard interface conventions followed | |
-|  - The *state* the application is in is obvious | |
-|  - Prevents and handles errors well | |
-|  - *Interface looks like GIF Finder HW* | *(-10)* |
+|  1. Visual design is pleasing | |
+|  2. Widgets are well labeled and follow interface conventions | |
+|  3. Users should be able to figure out how to use the app with minimal instruction | |
+|  4. User errors must be handled gracefully | |
+|  5. The *state* the application is in is obvious | |
+|  6. The app should look good on a range of displays. | |
+|  - *Interface looks like GIF Finder HW* | *(-15)* |
 |  - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
-|  - HTML and CSS validate | |
-|  - CSS is primarily in a single external stylesheet | |
-|  - Makes proper use of structural tags, etc. | |
-|  - *Image dimensions and/or file size unnecessarily large* | *(-5)* |
+|  1. Valid HTML | |
+|  2. Valid CSS | |
+|  3. Images properly optimized | |
 | **D. [Code](#code)**  | **10** | |
 |  1. MVVM Framework used | |
 |  2. Ajax used | |
