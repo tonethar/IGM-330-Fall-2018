@@ -28,7 +28,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
         - try to use an API that supports *CORS* (Cross-origin resource sharing)
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
     - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098")
-    - [USGS Earthquake data<](http://earthquake.usgs.gov/earthquakes/feed/)/a> visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - here's an example call to the earthquake service in [JSONP](http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded">
+    - [USGS Earthquake data](http://earthquake.usgs.gov/earthquakes/feed/) visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - here's an example call to the earthquake service in [JSONP](http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded)
     - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this: [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
     - [Book information APIs](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
 	- [Woot](http://woot.wikia.com/wiki/API) deals
