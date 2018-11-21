@@ -128,12 +128,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - Well-commented code. Each and every function gets a comment indicating what it does
 4) **NOT allowed**:
     - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
+    - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
     - `var`
     - inline event handlers in your HTML
     - `console.log()` calls (delete or comment them out)
 
 ## III. Milestones
-    - Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
+    - Project proposal with working prototype - see myCourses for due date/time:
+      - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
+      - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
+      - one submission per team please. Make sure both team members' names are included.
     - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
