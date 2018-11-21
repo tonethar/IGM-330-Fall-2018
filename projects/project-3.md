@@ -176,34 +176,34 @@ Your project will be graded on the following criteria:
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
 | **A. [Functionality](#functionality)** | **40** | |
-|  - Is useful and/or entertaining | |
-|  - Demonstrates creativity | |
-|  - Runs without errors | |
-|  - *Does not remember last search term* | *(-10)* |
-|  - *Missing controls* | *(-15 each)* |
+|    - Is useful and/or entertaining | |
+|    - Demonstrates creativity | |
+|    - Runs without errors | |
+|    - *Does not remember last search term* | *(-10)* |
+|    - *Missing controls* | *(-15 each)* |
 | **B. [Design & Interaction](#design)** | **20** | |
-|  1. Visual design is pleasing | |
-|  2. Widgets are well labeled and follow interface conventions | |
-|  3. Users should be able to figure out how to use the app with minimal instruction | |
-|  4. User errors must be handled gracefully | |
-|  5. The *state* the application is in is obvious | |
-|  6. The app should look good on a range of displays. | |
-|  - *Interface looks like GIF Finder HW* | *(-15)* |
-|  - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
+|    1. Visual design is pleasing | |
+|    2. Widgets are well labeled and follow interface conventions | |
+|    3. Users should be able to figure out how to use the app with minimal instruction | |
+|    4. User errors must be handled gracefully | |
+|    5. The *state* the application is in is obvious | |
+|    6. The app should look good on a range of displays. | |
+|    - *Interface looks like GIF Finder HW* | *(-15)* |
+|    - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
-|  1. Valid HTML | |
-|  2. Valid CSS | |
-|  3. Images properly optimized | |
+|    1. Valid HTML | |
+|    2. Valid CSS | |
+|    3. Images properly optimized | |
 | **D. [Code](#code)**  | **10** | |
-|  1. MVVM Framework used | |
-|  2. Ajax used | |
-|  3. *ES6 Custom Class not used* | *(-5)* |
-|  4. *Conventions NOT followed* | *(-5 per incident)* |
-|  5. *Code that is NOT allowed* | *(-5 per incident)* |
+|    1. MVVM Framework used | |
+|    2. Ajax used | |
+|    3. *ES6 Custom Class not used* | *(-5)* |
+|    4. *Conventions NOT followed* | *(-5 per incident)* |
+|    5. *Code that is NOT allowed* | *(-5 per incident)* |
 | **E. [Impact](#impact)**  | **10** | |
-|  - Does the app work as intended and do something useful? | |
-|  - Does the app functionality and programming go beyond what we did in class? | |
-|  - Is this project "portfolio quality" that you would not hesitate to show a potential employer? | |
+|    - Does the app work as intended and do something useful? | |
+|    - Does the app functionality and programming go beyond what we did in class? | |
+|    - Is this project "portfolio quality" that you would not hesitate to show a potential employer? | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
 | *Deduction if final documentation is not submitted to dropbox on time* | -10 | |
