@@ -8,7 +8,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 - Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
-- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a [web browser DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) context. 
+- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a web browser context, utilizing a MVVM framework such as Vue.js
 - You will be evaluated on:
     - the quality of the experience you create
     - the soundness of your programming
