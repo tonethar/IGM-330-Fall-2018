@@ -176,11 +176,13 @@ Your project will be graded on the following criteria:
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
 | **A. [Functionality](#functionality)** | **40** | |
-|    - Is useful and/or entertaining | |
-|    - Demonstrates creativity | |
-|    - Runs without errors | |
+|    1. TWO web services are used | |
+|    2. Cloud storage is used | |
+|    3. Last term searched stored in browser  | |
+|    4. Required Controls | |
+|    5. Runs without errors | |
 |    - *Does not remember last search term* | *(-10)* |
-|    - *Missing controls* | *(-15 each)* |
+|    - *Missing controls* | *(-10 each)* |
 | **B. [Design & Interaction](#design)** | **20** | |
 |    1. Visual design is pleasing | |
 |    2. Widgets are well labeled and follow interface conventions | |
