@@ -1,4 +1,4 @@
-# Project 3 - HTML5 Web App Mashup of Awesomeness! (DRAFT)
+# Project 3 - HTML5 Web App Mashup of Awesomeness!
 
 ## I. Overview
 
@@ -226,7 +226,12 @@ Note:
 
 ## VII. Examples
 
-### A. 
-<hr><hr>
+### A. Recipe Map
 
-**[Table of Contents <- About this Web App Tutorial Series](../notes/web-apps-0.md)**
+- Below is the main screen
+- Clicking on the "Too Lazy" button also brings up a map
+
+![screenshot](_images/project-3-example-1.jpg)
+
+### B.
+
