@@ -22,6 +22,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
      - [Week 11B - More About Web Services](./weekly/week-11B-notes.md)
      - [Week 12A - Intro to Vue.js](./weekly/week-12A-notes.md)
      - [Week 12B - More Vue.js](./weekly/week-12B-notes.md)
+     - [Week 13A - Storing data in cloud](weekly/week-13A-notes.md)
 
 ## II. Requirements
 
