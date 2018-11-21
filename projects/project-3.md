@@ -1,4 +1,4 @@
-# Project 3 - HTML5 Web App Mashup of Awesomeness!
+# Project 3 - MVVM Web App Mashup of Awesomeness!
 
 ## I. Overview
 
