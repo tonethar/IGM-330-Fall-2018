@@ -1,6 +1,7 @@
 # Week 13A - Storing data in cloud
 
 ## I. Topics
+- [Project 3](../projects/project-3.md) requirements have been posted!
 - Storing Data in cloud:
   - https://firebase.google.com
   - https://firebase.google.com/docs/web/setup
