@@ -22,7 +22,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ## II. Requirements
 
 ### A. Functional
-1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you - here are some ideas:
+1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
         - try to use an API that supports *CORS* (Cross-origin resource sharing)
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
@@ -52,20 +52,20 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
 2. You will utilize a cloud storage API in some way:
- - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp an IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
- - See our Firebase exercise for help on this --> [Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
- - This means that this project will use a minium of **THREE** APIs i.e. Firebase plus two other APIs chosen above
+   - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp an IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
+   - See our Firebase exercise for help on this --> [Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
+   - This means that this project will use a minium of **THREE** APIs i.e. Firebase plus two other APIs chosen above
 
 3. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field
     - ideally this will also be true of the other controls, but we won't require it
 
-4. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, GIF Finder has these controls:
+4. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
-  -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web service will allow you to search it on. Here are some ideas:**
+  -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web services will allow you to search them on. Here are some ideas:**
   
      - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
      - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
