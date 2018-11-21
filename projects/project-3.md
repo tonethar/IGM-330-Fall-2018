@@ -24,9 +24,9 @@ For this project you (and optionally a partner) are creating a JavaScript driven
      - [Week 12B - More Vue.js](./weekly/week-12B-notes.md)
      - [Week 13A - Storing data in cloud](weekly/week-13A-notes.md)
 
-## II. Requirements
+## II. Project Requirements
 
-### A. Functional
+## A. Functional Requirements
 1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
         - try to use an API that supports *CORS* (Cross-origin resource sharing)
@@ -71,7 +71,6 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
     -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web services will allow you to search them on. Here are some ideas:**
-  
        - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
        - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
        - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget that would help with this -> https://jqueryui.com/datepicker/
@@ -129,8 +128,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
 2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
 3) Use at least 1 ES6 custom class, written by you:
-    - for example, if your web service was downloading and displaying state parks, you could create a class called `StatePark` to model the data
-4) Converntions and structure:
+    - for example, if your web service was downloading and displaying state parks in a list, you could create a class called `StatePark` to model the data
+4) Conventions and structure:
     - All code is an external JavaScript files
     - ES6 module pattern preferred
     - `let` and `const` must be used to declare variables
@@ -144,6 +143,11 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - inline event handlers in your HTML
     - `console.log()` calls (delete or comment them out)
 
+### E. Impact
+  - Does the app work as intended and do something useful?
+  - Does the app functionality and programming go beyond what we did in class?
+  - Is this project "portfolio quality" that you would not hesitate to show a potential employer?
+
 ## III. Milestones
   - Project proposal with working prototype - see myCourses for due date/time:
     - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
@@ -152,8 +156,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
   - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
-  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
-  - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
+  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth
+  - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
 ## V. Grading
   - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
