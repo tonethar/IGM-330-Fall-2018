@@ -222,8 +222,11 @@ Note:
 
 ## VI. Submission
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
-- Post the project to Banjo and link it from your 230 home page
+- Post the project to Banjo, and put the link in the mycourses dropbox comments field
 
+## VII. Examples
+
+### A. 
 <hr><hr>
 
 **[Table of Contents <- About this Web App Tutorial Series](../notes/web-apps-0.md)**
