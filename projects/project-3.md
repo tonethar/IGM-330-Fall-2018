@@ -2,7 +2,7 @@
 
 ## I. Overview
 
-\*\* **TLDR** - *if you don't know what to do for this project, do a Google Maps/Earthquake mashup or Google Maps/Restaurants mashup etc.  - You could also use the [Leaflet maps API](https://leafletjs.com/examples.html) - just be sure to fullfill all of the requirements - read on!* \*\*
+\*\* **TLDR** \*\* - *if you don't know what to do for this project, do a Google Maps/Earthquake mashup or Google Maps/Restaurants mashup etc.  - You could also use the [Leaflet maps API](https://leafletjs.com/examples.html) - just be sure to fullfill all of the requirements - read on!*
 
 For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
 
