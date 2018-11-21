@@ -2,12 +2,11 @@
 
 ## I. Overview
 
-For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes at least 2 Web services.
+For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
 - Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a [web browser DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) context. 
 - You will be evaluated on:
-    - your creativity
     - the quality of the experience you create
     - the soundness of your programming
     - how far you went beyond what we did in class, as described below
@@ -52,11 +51,15 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
-2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+2. You will utilize a cloud storage API in some way:
+ - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp an IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
+ - See our Firebase exercise for help on this --> [Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
+
+3. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field.
     - ideally this will also be true of the other controls, but we won't require it.
 
-3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, GIF Finder has these controls:
+4. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, GIF Finder has these controls:
     - a search button (which doesn't count)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
@@ -71,7 +74,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
        - We can instead write code that requests a higher starting index.
        - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
-4. Finally, there will be no JavaScript errors or exceptions thrown by the app.
+5. Finally, there will be no JavaScript errors or exceptions thrown by the app.
 
 ### B. Design & Interaction
 - Pleasing graphic design:
