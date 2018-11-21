@@ -33,7 +33,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - [Book information APIs](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
 	- [Woot](http://woot.wikia.com/wiki/API) deals
     - [Best Buy](https://developer.bestbuy.com) deals
-	- Movie info --> [themoviedb.org](https://www.themoviedb.org/documentation/api
+	- Movie info --> [themoviedb.org](https://www.themoviedb.org/documentation/api)
     - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
 	- [Crime](http://sanfrancisco.crimespotting.org/api)
 	- Current weather and forecasts -->	[openweathermap.org](http://openweathermap.org)
