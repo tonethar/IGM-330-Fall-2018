@@ -181,8 +181,10 @@ Your project will be graded on the following criteria:
 |    3. Last term searched stored in browser  | |
 |    4. Required Controls | |
 |    5. Runs without errors | |
+|    - *Missing web services or cloud storage* | *(-20 each)* |
 |    - *Does not remember last search term* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
+|    - *Errors* | *(-? depending on severity)* |
 | **B. [Design & Interaction](#design)** | **20** | |
 |    1. Visual design is pleasing | |
 |    2. Widgets are well labeled and follow interface conventions | |
