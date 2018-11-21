@@ -1,7 +1,7 @@
 # Project 3 - HTML5 Web App Mashup of Awesomeness! (DRAFT)
 
 ## I. Overview
-
+- \* **TLDR** - *if you don't know what to do for this project, do a Google Maps/Earthquake mashup or Google Maps/Restaurants mashup etc. Be sure to fullfill all of the requirements - read on!* \*
 For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes multiple Web services.
 - Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
