@@ -26,7 +26,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 ## II. Project Requirements
 
-## A. Functional Requirements
+### A. Functional Requirements
 1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
         - try to use an API that supports *CORS* (Cross-origin resource sharing)
