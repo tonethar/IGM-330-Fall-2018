@@ -80,7 +80,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
          - We can instead write code that requests a higher starting index.
          - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
-5. Finally, there will be no JavaScript errors or exceptions thrown by the app.
+5. There will be no JavaScript errors or exceptions thrown by the app
+
+6. Optional Features:
+    - Sound:
+      - Subtle UI sound can be a nice extra
+      - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
+    - Canvas Drawing/Animation:
+      - &lt;canvas> visualization of web service data can be a nice extra
+      - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
+      - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
 
 ### B. Design & Interaction
 1) Pleasing graphic design:
