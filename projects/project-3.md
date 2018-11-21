@@ -229,7 +229,7 @@ Note:
 ### A. Recipe Map
 
 - Below is the main screen
-- Clicking on the "Too Lazy" button also brings up a map
+- Clicking on the "Too Lazy" button also brings up a map of restaurants that offer the desired cuisine
 
 ![screenshot](_images/project-3-example-1.jpg)
 
