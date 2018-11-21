@@ -70,65 +70,72 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
-  -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web services will allow you to search them on. Here are some ideas:**
+    -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web services will allow you to search them on. Here are some ideas:**
   
-     - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
-     - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
-     - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget that would help with this -> https://jqueryui.com/datepicker/
-     - **next** and **previous** buttons - another really nice option is to allow the user to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search?
-       - This is because there are ***thousands*** of cat GIFs on GIPHY, and if we don't otherwise specify we will always get them returned from the web service starting at index 0, which means we always get the first 100 (index 0-99) back.
-       - We can instead write code that requests a higher starting index.
-       - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
+       - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
+       - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
+       - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget that would help with this -> https://jqueryui.com/datepicker/
+       - **next** and **previous** buttons - another really nice option is to allow the user to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search?
+         - This is because there are ***thousands*** of cat GIFs on GIPHY, and if we don't otherwise specify we will always get them returned from the web service starting at index 0, which means we always get the first 100 (index 0-99) back.
+         - We can instead write code that requests a higher starting index.
+         - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
 5. Finally, there will be no JavaScript errors or exceptions thrown by the app.
 
 ### B. Design & Interaction
-- Pleasing graphic design:
+1) Pleasing graphic design:
   - with a custom interface coded in HTML/CSS, by you
   - this interface does not resemble the GIPHY homework's UI
-- Widgets are well labeled and follow interface conventions, for example:
+2) Widgets are well labeled and follow interface conventions, for example:
   - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
-  
-- Users should be able to figure out how to use the app with minimal instruction:
+3) Users should be able to figure out how to use the app with minimal instruction:
   - be sure to provide instruction and tooltips if necessary
-- User errors must be handled gracefully:
+4) User errors must be handled gracefully:
   - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
-- Users must know what *state* the app is in at all times:
+5) Users must know what *state* the app is in at all times:
   - for example, when they click the search button, there should some indication that a search is happening:
     - text that says "Searching for 'Tacos' near you" and so on
     - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
     - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
-- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
-- You are allowed and encouraged to use a CSS framework for this project - see below!
+6) While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
 
 ### C. HTML/CSS & Media
-- Valid HTML5 - https://validator.w3.org
-- Valid CSS - https://jigsaw.w3.org/css-validator/
-- Most CSS is in an external style sheet.
-- Use HTML5 semantic and structural elements where practical.
-- Images are properly optimized for Web delivery.
-- you ARE allowed to use CSS frameworks on the UI for this (and future) projects, such as:
-    - http://getbootstrap.com
-    - http://materializecss.com
-    - https://purecss.io
-    - https://github.com/troxler/awesome-css-frameworks
+1) Valid HTML5 - https://validator.w3.org
+  - Use HTML5 semantic and structural elements where practical.
+2) Valid CSS - https://jigsaw.w3.org/css-validator/
+  - Most CSS is in an external style sheet.
+3) Images are properly optimized (both dimensions and file size) for Web delivery.
+4) you ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
+  - https://bootstrap-vue.js.org
+  - http://getbootstrap.com
+  - http://materializecss.com
+  - https://purecss.io
+  - https://github.com/troxler/awesome-css-frameworks
 
 
-### D. Code Conventions
-- All code is an external JavaScript file - inline event handlers are not allowed
-- `let` and `const` must be used to declare variables (no `var`!)
-- `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods)
-- D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function.
-- Variable and function names must begin with a lowercase letter.
-- Well-commented code. Each and every function gets a comment indicating what it does.
-- Delete or comment out any `console.log()` calls.
+### D. Code Requirements
+1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
+  - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
+2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
+3) Converntions and structure:
+  - All code is an external JavaScript files
+  - ES6 module pattern preferred
+  - `let` and `const` must be used to declare variables
+  - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
+  - Variable and function names must begin with a lowercase letter
+  - Well-commented code. Each and every function gets a comment indicating what it does
+4) **NOT allowed**:
+  - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
+  - `var`
+  - inline event handlers in your HTML
+  - `console.log()` calls (delete or comment them out)
 
 ## III. Milestones
 - Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
 - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
-- As with Project 1, include a Documentation page (put the link in the comments field of the dropbox) where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
+- As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
 - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
 
 ## V. Grading
