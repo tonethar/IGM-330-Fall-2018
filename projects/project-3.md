@@ -33,13 +33,13 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - [Giant Bomb Game API](http://www.giantbomb.com/api/) and other [Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
     - [USGS Earthquake data](http://earthquake.usgs.gov/earthquakes/feed/) visualized in [Google Maps](https://developers.google.com/maps/documentation/javascript/) - here's an example call to the earthquake service in [JSONP](http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&callback=jsonLoaded)
     - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this: [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
-    - [Book information APIs](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
-	- [Woot](http://woot.wikia.com/wiki/API) deals
-    - [Best Buy](https://developer.bestbuy.com) deals
-	- Movie info --> [themoviedb.org](https://www.themoviedb.org/documentation/api)
+    - Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
+    - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
+    - Best Buy Deals --> [https://developer.bestbuy.com](https://developer.bestbuy.com)
+	- Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
     - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
 	- Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
-	- Current weather and forecasts --> [openweathermap.org](https://openweathermap.org/api)
+	- Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
 	- Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
 	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
 	- For lists of even more Web services, see:
