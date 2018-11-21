@@ -4,6 +4,8 @@
 - Storing Data in cloud:
   - https://firebase.google.com
   - https://firebase.google.com/docs/web/setup
+- Exercises/Demos:
+  - [Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
 
 <hr><hr>
 
