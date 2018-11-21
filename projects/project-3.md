@@ -199,9 +199,9 @@ Your project will be graded on the following criteria:
 |  - Code is located in an external JavaScript file | |
 |  - Code follows coding standards detailed above | |
 | **E. [Impact](#impact)**  | **10** | |
-| **Documentation** | **10** | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
+| Deduction if final documentation is not submitted to dropbox on time | -10 | |
 | Deduction if proposal/prototype is not submitted to dropbox on time | -10 | |
 
 Note:
