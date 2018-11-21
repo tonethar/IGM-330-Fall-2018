@@ -26,6 +26,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 ## II. Project Requirements
 
+<a id="functionality"></a>
+
 ### A. Functional Requirements
 1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you, here are some ideas:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
@@ -166,13 +168,13 @@ Your project will be graded on the following criteria:
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **Functionality** | **40** | |
+| **A. [Functionality](#functionality)** | **40** | |
 |  - Is useful and/or entertaining | |
 |  - Demonstrates creativity | |
 |  - Runs without errors | |
 |  - *Does not remember last search term* | *(-10)* |
 |  - *Missing controls* | *(-15 each)* |
-| **Design & Interaction** | **20** | |
+| **B. Design & Interaction** | **20** | |
 |  - Visual design is pleasing | |
 |  - Interface is clear and well labeled | |
 |  - Standard interface conventions followed | |
@@ -180,19 +182,19 @@ Your project will be graded on the following criteria:
 |  - Prevents and handles errors well | |
 |  - *Interface looks like GIF Finder HW* | *(-10)* |
 |  - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
-| **HTML/CSS/Media**  | **10** | |
+| **C. HTML/CSS/Media**  | **10** | |
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
 |  - *Image dimensions and/or file size unnecessarily large* | *(-5)* |
-| **Code**  | **10** | |
+| **D. Code**  | **10** | |
 |  - Code is well formatted and commented | |
 |  - Code is located in an external JavaScript file | |
 |  - Code follows coding standards detailed above | |
 | **Documentation** | **10** | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
-| Deduction if proposal is not submitted to dropbox on time | -10 | |
+| Deduction if proposal/prototype is not submitted to dropbox on time | -10 | |
 
 Note:
 - **Good** (Meet all requirements above reasonably well) = 90%
