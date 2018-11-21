@@ -84,62 +84,64 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 ### B. Design & Interaction
 1) Pleasing graphic design:
-  - with a custom interface coded in HTML/CSS, by you
-  - this interface does not resemble the GIPHY homework's UI
+    - with a custom interface coded in HTML/CSS, by you
+    - this interface does not resemble the GIPHY homework's UI
 2) Widgets are well labeled and follow interface conventions, for example:
-  - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
+    - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
 3) Users should be able to figure out how to use the app with minimal instruction:
-  - be sure to provide instruction and tooltips if necessary
+    - be sure to provide instruction and tooltips if necessary
 4) User errors must be handled gracefully:
-  - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
+    - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
 5) Users must know what *state* the app is in at all times:
-  - for example, when they click the search button, there should some indication that a search is happening:
-    - text that says "Searching for 'Tacos' near you" and so on
-    - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
-    - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
-6) While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
+    - for example, when they click the search button, there should some indication that a search is happening:
+      - text that says "Searching for 'Tacos' near you" and so on
+      - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
+      - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
+6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
+    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen). 
+    - The main controls of the application must fit in a 1024x768 window.
 
 ### C. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
-  - Use HTML5 semantic and structural elements where practical.
+    - Use HTML5 semantic and structural elements where practical
 2) Valid CSS - https://jigsaw.w3.org/css-validator/
-  - Most CSS is in an external style sheet.
-3) Images are properly optimized (both dimensions and file size) for Web delivery.
+    - Most CSS is in an external style sheet.
+3) Images are properly optimized (both dimensions and file size) for Web delivery
 4) you ARE allowed and encouraged to use CSS frameworks on the UI for this project, such as:
-  - https://bootstrap-vue.js.org
-  - http://getbootstrap.com
-  - http://materializecss.com
-  - https://purecss.io
-  - https://github.com/troxler/awesome-css-frameworks
+    - https://bootstrap-vue.js.org
+    - http://getbootstrap.com
+    - http://materializecss.com
+    - https://purecss.io
+    - https://github.com/troxler/awesome-css-frameworks
 
 
 ### D. Code Requirements
 1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
-  - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
+    - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
 2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
 3) Converntions and structure:
-  - All code is an external JavaScript files
-  - ES6 module pattern preferred
-  - `let` and `const` must be used to declare variables
-  - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
-  - Variable and function names must begin with a lowercase letter
-  - Well-commented code. Each and every function gets a comment indicating what it does
+    - All code is an external JavaScript files
+    - ES6 module pattern preferred
+    - `let` and `const` must be used to declare variables
+    - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
+    - Variable and function names must begin with a lowercase letter
+    - Well-commented code. Each and every function gets a comment indicating what it does
 4) **NOT allowed**:
-  - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
-  - `var`
-  - inline event handlers in your HTML
-  - `console.log()` calls (delete or comment them out)
+    - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
+    - `var`
+    - inline event handlers in your HTML
+    - `console.log()` calls (delete or comment them out)
 
 ## III. Milestones
-- Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
-- Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
+    - Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
+    - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
-- As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
-- If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
+    - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
+    - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
 
 ## V. Grading
-- *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
+    - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 Your project will be graded on the following criteria:
 
