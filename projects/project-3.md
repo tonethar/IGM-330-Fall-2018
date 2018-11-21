@@ -226,12 +226,20 @@ Note:
 
 ## VII. Examples
 
-### A. Recipe Map
+### A. *Recipe Map*
 
 - Below is the main screen
 - Clicking on the "Too Lazy" button also brings up a map of restaurants that offer the desired cuisine
 
 ![screenshot](_images/project-3-example-1.jpg)
 
-### B.
+### B. *RIT Pathfinder*
+
+**Walking route:**
+
+![screenshot](_images/project-3-example-2.jpg)
+
+**Biking route:**
+
+![screenshot](_images/project-3-example-3.jpg)
 
