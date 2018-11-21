@@ -37,7 +37,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
 	- [FBI Crime Data](https://crime-data-explorer.fr.cloud.gov/api)
 	- Current weather and forecasts --> [openweathermap.org](https://openweathermap.org/api)
-	- Business and start-up info --> [data.crunchbase.com/v3](https://data.crunchbase.com/v3)
+	- Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
 	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
 	- For lists of even more Web services, see:
       - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
