@@ -134,18 +134,18 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - `console.log()` calls (delete or comment them out)
 
 ## III. Milestones
-    - Project proposal with working prototype - see myCourses for due date/time:
-      - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
-      - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
-      - one submission per team please. Make sure both team members' names are included.
-    - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
+  - Project proposal with working prototype - see myCourses for due date/time:
+    - a 2 or 3 paragraph description of the project and what web services you are using should be in the comments field of the dropbox
+    - the working prototype must be utilizing your MVC or MVVM framework, and have at least one of your web services functioning
+    - one submission per team please. Make sure both team members' names are included.
+  - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
-    - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
-    - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
+  - As with Project 2, include a file where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
+  - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
 
 ## V. Grading
-    - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
+  - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 Your project will be graded on the following criteria:
 
