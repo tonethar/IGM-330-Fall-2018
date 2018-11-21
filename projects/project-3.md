@@ -119,14 +119,16 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
     - Also utilize at least one custom MVVM component, created by you (don't just re-use what we did in the exercises)
 2) Ajax - use jQuery.ajax(), XHR, Fetch or [Axios](https://github.com/axios/axios)
-3) Converntions and structure:
+3) Use at least 1 ES6 custom class, written by you:
+    - for example, if your web service was downloading and displaying state parks, you could create a class called `StatePark` to model the data
+4) Converntions and structure:
     - All code is an external JavaScript files
     - ES6 module pattern preferred
     - `let` and `const` must be used to declare variables
     - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function
     - Variable and function names must begin with a lowercase letter
     - Well-commented code. Each and every function gets a comment indicating what it does
-4) **NOT allowed**:
+5) **NOT allowed**:
     - DOM queries and manipulation via `document.querySelector()`, `document.querySelectorAll()`, `element.innerHTML`, `element.appendChild()` and so on. Instead, use data-binding and your MVVM framework to update the DOM
     - jQuery DOM manipulation - for example `$.html()` - is NOT allowed
     - `var`
