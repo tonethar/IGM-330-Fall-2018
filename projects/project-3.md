@@ -195,9 +195,11 @@ Your project will be graded on the following criteria:
 |  - Makes proper use of structural tags, etc. | |
 |  - *Image dimensions and/or file size unnecessarily large* | *(-5)* |
 | **D. [Code](#code)**  | **10** | |
-|  - Code is well formatted and commented | |
-|  - Code is located in an external JavaScript file | |
-|  - Code follows coding standards detailed above | |
+|  - 1. MVVM Framework used | |
+|  - 2. Ajax used | |
+|  - 3. *ES6 Custom Class not used* | *(-5)* |
+|  - 4. *Conventions not followed* | *(-5 per incident)* |
+|  - 5. NOT allowed | *(-5 per incident)* |
 | **E. [Impact](#impact)**  | **10** | |
 |  - Does the app work as intended and do something useful? | |
 |  - Does the app functionality and programming go beyond what we did in class? | |
@@ -206,6 +208,8 @@ Your project will be graded on the following criteria:
 | **Possible Total Points** | **100** | |
 | Deduction if final documentation is not submitted to dropbox on time | -10 | |
 | Deduction if proposal/prototype is not submitted to dropbox on time | -10 | |
+| Deduction if MVVM framework is not used | -30 | |
+| Deduction if Ajax framework is not used | -30 | |
 
 Note:
 - **Good** (Meet all requirements above reasonably well) = 90%
