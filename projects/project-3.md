@@ -40,8 +40,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 	- Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
 	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
 	- For lists of even more Web services, see:
-      - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
-	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console.
+          - [www.programmableWeb.com/apis](http://www.programmableWeb.com/apis) has links to thousands of APIs - most free to use with sign-up
+	  - [developers.google.com](https://developers.google.com/) has over 50 APIs - sign up at then check out their API console
+	  - [Amazon Web Services (AWS)](https://aws.amazon.com)
+	  - [Microsoft Azure](https://azure.microsoft.com/en-us/free/)
     - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
       - Any API from GIPHY - https://developers.giphy.com/docs/
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
