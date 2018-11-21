@@ -92,6 +92,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
       - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
 
+<a id="design"></a>
+
 ### B. Design & Interaction
 1) Pleasing graphic design:
     - with a custom interface coded in HTML/CSS, by you
@@ -111,6 +113,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a much smaller screen). 
     - The main controls of the application must fit in a 1024x768 window.
 
+<a id="html"></a>
+
 ### C. HTML/CSS & Media
 1) Valid HTML5 - https://validator.w3.org
     - Use HTML5 semantic and structural elements where practical
@@ -124,6 +128,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - https://purecss.io
     - https://github.com/troxler/awesome-css-frameworks
 
+<a id="code"></a>
 
 ### D. Code Requirements
 1) You MUST use data binding and an MVC or MVVM framework such as Vue.js, React.js or Angular.js
@@ -144,6 +149,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - `var`
     - inline event handlers in your HTML
     - `console.log()` calls (delete or comment them out)
+
+<a id="impact"></a>
 
 ### E. Impact
   - Does the app work as intended and do something useful?
@@ -174,7 +181,7 @@ Your project will be graded on the following criteria:
 |  - Runs without errors | |
 |  - *Does not remember last search term* | *(-10)* |
 |  - *Missing controls* | *(-15 each)* |
-| **B. Design & Interaction** | **20** | |
+| **B. [Design & Interaction](#design)** | **20** | |
 |  - Visual design is pleasing | |
 |  - Interface is clear and well labeled | |
 |  - Standard interface conventions followed | |
@@ -182,15 +189,16 @@ Your project will be graded on the following criteria:
 |  - Prevents and handles errors well | |
 |  - *Interface looks like GIF Finder HW* | *(-10)* |
 |  - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
-| **C. HTML/CSS/Media**  | **10** | |
+| **C. [HTML/CSS/Media](#media)**  | **10** | |
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
 |  - *Image dimensions and/or file size unnecessarily large* | *(-5)* |
-| **D. Code**  | **10** | |
+| **D. [Code](#code)**  | **10** | |
 |  - Code is well formatted and commented | |
 |  - Code is located in an external JavaScript file | |
 |  - Code follows coding standards detailed above | |
+| **E. [Impact](#impact)**  | **10** | |
 | **Documentation** | **10** | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
