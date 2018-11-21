@@ -12,6 +12,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - You will be evaluated on:
     - the quality of the experience you create
     - the soundness of your programming
+    - meeting the requirements detailed below
     - how far you went beyond what we did in class, as described below
     
 - Resources:
