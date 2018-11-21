@@ -35,7 +35,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - [Best Buy](https://developer.bestbuy.com) deals
 	- Movie info --> [themoviedb.org](https://www.themoviedb.org/documentation/api)
     - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
-	- [FBI Crime Data](https://crime-data-explorer.fr.cloud.gov/api)
+	- Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
 	- Current weather and forecasts --> [openweathermap.org](https://openweathermap.org/api)
 	- Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
 	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
