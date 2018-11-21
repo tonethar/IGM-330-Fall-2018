@@ -23,7 +23,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ## II. Requirements
 
 ### A. Functional
-1. You must use 2 distinctive web service APIs in your completed project. The exact web services used are up to you - here are some ideas:
+1. You must use **TWO** distinctive web service APIs in your completed project. The exact web services used are up to you - here are some ideas:
     - https://github.com/toddmotto/public-apis or https://github.com/abhishekbanthia/Public-APIs
         - try to use an API that supports *CORS* (Cross-origin resource sharing)
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
@@ -36,7 +36,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 	- Movie info --> [themoviedb.org](https://www.themoviedb.org/documentation/api)
     - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
 	- [FBI Crime Data](https://crime-data-explorer.fr.cloud.gov/api)
-	- Current weather and forecasts --> [openweathermap.org](http://openweathermap.org)
+	- Current weather and forecasts --> [openweathermap.org](https://openweathermap.org/api)
 	- Business and start-up info --> [data.crunchbase.com/v3](https://data.crunchbase.com/v3)
 	- League of Legends API --> [developer.riotgames.com](https://developer.riotgames.com)
 	- For lists of even more Web services, see:
