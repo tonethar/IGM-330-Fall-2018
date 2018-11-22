@@ -6,7 +6,7 @@
   - https://firebase.google.com
   - https://firebase.google.com/docs/web/setup
   
-**Note:** There is not a mycourses dropbox for the Firebase exercises below, but if you do not follow along and understand what we are doing in these three Firebase chapters, you will have a diffcult time meeting the cloud storage requirement of Project 3. 
+**Note:** There is not a mycourses dropbox for the Firebase exercises below, but if you do not follow along and understand what we are doing in these three Firebase chapters, you will have a difficult time meeting the cloud storage requirement of Project 3. 
 
 - Firebase exercises/demos:
   - [1 - Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
