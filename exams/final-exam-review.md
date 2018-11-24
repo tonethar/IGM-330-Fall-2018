@@ -1,4 +1,4 @@
-Final Exam Review
+# Final Exam Review
 
 
 - [Midterm Exam Review](../exams/midterm-exam-review.md)
