@@ -1,10 +1,17 @@
 # Final Exam Review
 
+## I. When is it?
+- The final written exam:
+  - will be given in class for sections 02 and 03
+  - for section 01, the final written exam will be given during the first hour of the finals week scheduled exam time for your section
+- When is the final project due?
+  - For all sections (01,02,03) - it is due during the regularly scheduled final exam time for your section (see SIS for date/time and location). We will meet as a group during this time.
 
-- [Midterm Exam Review](../exams/midterm-exam-review.md)
+## II. What's on it?
+- Everything that was covered for the entire semester is fair game --> [Midterm Exam Review](../exams/midterm-exam-review.md)
 - Review questions covered since midterm exam:
   - [week-09A-notes.md#review](./week-09A-notes.md#review)
   - [week-10A-notes.md#review](./week-10A-notes.md#review)
   - [week-12A-notes.md#review](./week-12A-notes.md#review)
   - [week-12B-notes.md#review](./week-12B-notes.md#review)
-- Links to all of the lecture videos, including the one where we review the midterm exam, are in mycourses
+- Links to all of the lecture videos, including the three where we review the midterm exam, are in mycourses
