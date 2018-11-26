@@ -187,7 +187,7 @@ Your project will be graded on the following criteria:
 |    1. TWO web services are used | |
 |    2. Cloud storage is used | |
 |    3. Last term searched stored in browser  | |
-|    4. Required Controls | |
+|    4. Has required Controls | |
 |    5. Runs without errors | |
 |    - *Missing web services* | *(-20 each)* |
 |    - *Missing cloud storage or **admin.html*** | *(-10)* |
