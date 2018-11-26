@@ -59,12 +59,17 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
 2. You will utilize a cloud storage API in some way:
-   - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp an IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
+   - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp or IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
    - See our Firebase exercises for help on this:
      - [firebase-1.md - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
      - [firebase-2.md - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
      - [firebase-3.md - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
    - This means that this project will use a minium of **THREE** APIs i.e. Firebase plus two other APIs chosen above
+   - The other part of this deliverable is a separate **admin.html** page:
+     - this page must be zipped and posted to the mycourses dropbox with your final project submission, don't put it on the web
+     - this page will display the contents of your Firebase Realtime database
+     - we will use this page to verify that your cloud data is updating
+     - this will not be hard to do - the *Firebase Highscore Viewer* tutorial above gives you everything you need 
 
 3. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field
@@ -184,7 +189,8 @@ Your project will be graded on the following criteria:
 |    3. Last term searched stored in browser  | |
 |    4. Required Controls | |
 |    5. Runs without errors | |
-|    - *Missing web services or cloud storage* | *(-20 each)* |
+|    - *Missing web services* | *(-20 each)* |
+|    - *Missing cloud storage or **admin.html*** | *(-10)* |
 |    - *Does not remember last search term* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
 |    - *Errors* | *(-? depending on severity)* |
@@ -196,7 +202,7 @@ Your project will be graded on the following criteria:
 |    5. The *state* the application is in is obvious | |
 |    6. The app should look good on a range of displays. | |
 |    - *Interface looks like GIF Finder HW* | *(-15)* |
-|    - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
+|    - *Interface "broken" at 1024x768 or higher resolutions* | *(-10)* |
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
