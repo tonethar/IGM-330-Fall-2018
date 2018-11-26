@@ -60,7 +60,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 2. You will utilize a cloud storage API in some way:
    - The most straightforward way to meet this requirement is to store your user's search terms and other statistics (such as a timestamp an IP address) in Google's FireBase - specifically the [**Realtime Database**](https://firebase.google.com/docs/database/)
-   - See our Firebase exercise for help on this --> [Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
+   - See our Firebase exercises for help on this:
+     - [firebase-1.md - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
+     - [firebase-2.md - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
+     - [firebase-3.md - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
    - This means that this project will use a minium of **THREE** APIs i.e. Firebase plus two other APIs chosen above
 
 3. You will save the last term searched by the user in the browser local storage - this was covered in IGME-230 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
