@@ -3,7 +3,7 @@
 ## I. Topics
 - [Project 3](../projects/project-3.md) requirements have been posted! The major components of this project are:
   - It "mashes up" two or more web services to do something useful or entertaining
-  - It uses an MVVM framework such as Vue.js to update the page, and NOT DOM manipulation via methods such as `document.querySelector()`
+  - It uses an MVVM framework such as Vue.js to update the page, and does NOT do DOM manipulation via methods such as `document.querySelector()`
   - It stores data *locally* via webstorage
   - It stores data in *the cloud* via Firebase
 - So the last piece you need is to get some mojo in Firebase - here are the Firebase exercises/demos:
