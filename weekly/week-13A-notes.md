@@ -6,7 +6,7 @@
   - It uses an MVVM framework such as Vue.js to update the page, and does NOT do DOM manipulation via methods such as `document.querySelector()`
   - It stores data *locally* via webstorage
   - It stores data in *the cloud* via Firebase
-- So the last piece you need is to get some mojo in Firebase - here are the Firebase exercises/demos:
+- So the last piece you need to do project 3 is to get some mojo in Firebase - here are the Firebase exercises/demos:
   - [1 - Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
   - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
   - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
