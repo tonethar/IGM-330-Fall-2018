@@ -222,6 +222,7 @@ Your project will be graded on the following criteria:
 | **Possible Total Points** | **100** | |
 | *Deduction if final documentation is not submitted to dropbox on time* | -10 | |
 | *Deduction if proposal/prototype is not submitted to dropbox on time* | -10 | |
+| *Deduction if MVVM framework "created by you" component is missing* | -10 | |
 | *Deduction if MVVM framework is not used* | -30 | |
 | *Deduction if Ajax is not used* | -30 | |
 
