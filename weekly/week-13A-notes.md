@@ -1,8 +1,12 @@
 # Week 13A - Storing data in cloud
 
 ## I. Topics
-- [Project 3](../projects/project-3.md) requirements have been posted!
-- Firebase exercises/demos:
+- [Project 3](../projects/project-3.md) requirements have been posted! The major components of this project are:
+  - It "mashes up" two or more web services to do something useful or entertaining
+  - It uses an MVVM framework such as Vue.js to update the page, and NOT DOM manipulation via methods such as `document.querySelector()`
+  - It stores data *locally* via webstorage
+  - It stores data in *the cloud* via Firebase
+- So the last piece you need is to get some mojo in Firebase - here are the Firebase exercises/demos:
   - [1 - Intro to Firebase](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
   - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
   - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
