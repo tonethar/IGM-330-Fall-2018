@@ -67,7 +67,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
    - This means that this project will use a minium of **THREE** APIs i.e. Firebase plus two other APIs chosen above
    - The other part of this deliverable is a separate **admin.html** page:
      - this page must be zipped and posted to the mycourses dropbox with your final project submission, don't put it on the web
-     - this page will display the contents of your Firebase Realtime database
+     - this page will display the contents of your Firebase Realtime database using Vue.js, NOT DOM manipulation
      - we will use this page to verify that your cloud data is updating
      - this will not be hard to do - the *Firebase Highscore Viewer* tutorial above gives you everything you need 
 
@@ -191,6 +191,7 @@ Your project will be graded on the following criteria:
 |    5. Runs without errors | |
 |    - *Missing web services* | *(-20 each)* |
 |    - *Missing cloud storage or **admin.html*** | *(-10)* |
+|    - **admin.html** uses DOM manipulation instead of Vue.js | *(-5)* |
 |    - *Does not remember last search term* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
 |    - *Errors* | *(-? depending on severity)* |
