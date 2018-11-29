@@ -3,7 +3,8 @@
 ## I. Topics
 - JavaScript Concepts:
   - [JavaScript Closures](https://github.com/tonethar/IGME-330-Master/blob/master/notes/closure-notes.md)
-  - `this` binding
+  - [`this` binding](https://github.com/tonethar/IGME-330-Master/blob/master/notes/this-binding-notes.md)
+  
 ## II. Final Exam Review Resources
 - [Final Exam Review](../exams/final-exam-review.md)
 
