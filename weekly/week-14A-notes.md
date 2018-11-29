@@ -2,7 +2,7 @@
 
 ## I. Topics
 - Look at project 3 prototypes
-- Troubleshoot issues
+- Troubleshoot project 3 issues
 
 <hr><hr>
 
