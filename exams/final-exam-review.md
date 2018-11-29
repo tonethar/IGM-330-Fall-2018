@@ -2,7 +2,7 @@
 
 ## I. When is it?
 - The final written exam:
-  - will be given in class for sections 02 and 03
+  - for sections 02 and 03, it will be given in class during our final regular, meeting week 14
   - for section 01, the final written exam will be given during the first hour of the finals week scheduled exam time for your section
 
 ## II. What's on it? How do I study?
