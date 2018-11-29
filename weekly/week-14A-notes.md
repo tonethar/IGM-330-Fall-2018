@@ -1,7 +1,8 @@
 # Week 14A - TBA
 
 ## I. Topics
-
+- Look at project 3 prototypes
+- Troubleshoot issues
 
 <hr><hr>
 
