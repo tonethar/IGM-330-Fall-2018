@@ -6,6 +6,7 @@
 - Two unusual JavaScript features:
   - [JavaScript Closures](https://github.com/tonethar/IGME-330-Master/blob/master/notes/closure-notes.md)
   - [`this` binding](https://github.com/tonethar/IGME-330-Master/blob/master/notes/this-binding-notes.md) and event handlers/event listeners
+- In the future, if you ever have an interview for a web or JS position, come back and review these notes!
   
 ## II. Final Exam Review Resources
 - For the final exam, you are allowed a "cheat sheet":
