@@ -1,4 +1,4 @@
-# Week 14A - TBA
+# Week 14A - Project 3 Work Day
 
 ## I. Topics
 - Look at project 3 prototypes
