@@ -3,6 +3,7 @@
 ## I. Topics
 - Look at project 3 prototypes
 - Troubleshoot project 3 issues
+- Demo How to integrate Vue & Google Maps --> [demo-vue-plus-google-maps.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-vue-plus-google-maps.md)
 
 <hr><hr>
 
